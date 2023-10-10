@@ -14,7 +14,8 @@ The conversion has been performed by Petr Kocharov and Lilit Kharatyan at the Un
 UD_Classical_Armenian-CAVaL data conforms to [CoNLL-U](http://universaldependencies.org/format.html) format with the following specifics:
 * Sentence-level comments:
   * A unique sentence id `sent_id` contains reference to the document title, paragraph and sentence boundaries, e.g. `# sent_id = LUKE_1.1-4` for a sentence, which includes verses from 1 to 4 of the Gospel of Luke.
-  * The transliteration of the sentence into Latin characters is provided in the `# translit = ...` comment.
+  * The transliteration of the sentence into Latin characters is provided in the `# transliterated_text...` comment.
+  * The English translation of the sentence, based on the King James Bible, is provided in the `# translated_text...` comment.
 * XPOSTAG column is currently unused.
 * No enhanced dependencies or empty nodes present in DEPS column.
 * MISC column has the following attributes:
