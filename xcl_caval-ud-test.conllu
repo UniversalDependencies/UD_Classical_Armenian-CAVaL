@@ -2832,9 +2832,9 @@
 19	պարտ	պարտ	NOUN	_	Case=Nom|Number=Sing	13	ccomp	_	Translit=part|LTranslit=part|Gloss=debt
 20	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	Translit=ē|LTranslit=em|Gloss=be
 21	ինձ	ես	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	19	iobj	_	Translit=inj|LTranslit=es|Gloss=I
-22-23	լինե՞լ	_	_	_	_	_	_	_	Translit=line?l
+22-23	լինե՞լ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=line?l
 22	լինել	լինիմ	AUX	_	VerbForm=Inf	19	xcomp	_	Translit=linel|LTranslit=linim|Gloss=be
-23	՞	՞	PUNCT	_	_	22	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
+23	՞	՞	PUNCT	_	_	22	punct	_	Translit=?|LTranslit=?
 24	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = LUKE_2.50
@@ -4112,9 +4112,9 @@
 23	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	cop	_	Translit=ē|LTranslit=em|Gloss=be
 24	որդի	որդի	NOUN	_	Case=Nom|Number=Sing	19	ccomp	_	SpaceAfter=No|Translit=ordi|LTranslit=ordi|Gloss=son
 25	ն	ն	DET	_	Definite=Def|PronType=Dem	24	det	_	Translit=n|LTranslit=n|Gloss=that
-26-27	Յովսէփա՞յ	_	_	_	_	_	_	_	Translit=Yovsēpʻa?y
+26-27	Յովսէփա՞յ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=Yovsēpʻa?y
 26	Յովսէփայ	Յովսէփ	PROPN	_	Case=Gen|Number=Sing	24	nmod	_	Translit=Yovsēpʻay|LTranslit=Yovsēpʻ|Gloss=Yovsēpʻ
-27	՞	՞	PUNCT	_	_	26	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
+27	՞	՞	PUNCT	_	_	26	punct	_	Translit=?|LTranslit=?
 28	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = LUKE_4.23
@@ -8206,7 +8206,7 @@
 13	վասն	վասն	ADP	_	_	14	case	_	Translit=vasn|LTranslit=vasn|Gloss=about/because_of
 14	Յովհաննու	յովհաննէս	PROPN	_	Case=Gen|Number=Sing	9	obl	_	SpaceAfter=No|Translit=Yovhannow|LTranslit=yovhannēs|Gloss=yovhannēs
 15	՝	՝	PUNCT	_	_	18	punct	_	Translit=;|LTranslit=;
-16-17	զի՞	_	_	_	_	_	_	_	Translit=zi?
+16-17	զի՞	_	_	_	_	_	_	_	SpaceAfter=No|Translit=zi?
 16	զի	զի	PRON	_	Animacy=Inan|Case=Acc|Number=Sing|PronType=Int	18	obj	_	Translit=zi|LTranslit=zi|LId=զի-2|Gloss=what
 17	՞	՞	PUNCT	_	_	16	punct	_	Translit=?|LTranslit=?
 18	ելէք	ելանեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	Translit=elēkʻ|LTranslit=elanem|Gloss=go_out
@@ -8218,9 +8218,9 @@
 24	եղեգն	եղեգն	NOUN	_	Case=Acc|Number=Sing	16	appos	_	Translit=ełegn|LTranslit=ełegn|Gloss=reed
 25	ի	ի	ADP	_	_	26	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to/in/from
 26	հողմոյ	հողմ	NOUN	_	Case=Abl|Number=Sing	24	nmod	_	Translit=hołmoy|LTranslit=hołm|Gloss=wind
-27-28	շարժո՞ւն	_	_	_	_	_	_	_	Translit=šaržo?wn
+27-28	շարժո՞ւն	_	_	_	_	_	_	_	SpaceAfter=No|Translit=šaržo?wn
 27	շարժուն	շարժուն	ADJ	_	Case=Acc|Number=Sing	24	amod	_	Translit=šaržown|LTranslit=šaržown|Gloss=moving
-28	՞	՞	PUNCT	_	_	27	punct	_	SpaceAfter=No|Translit=?|LTranslit=?
+28	՞	՞	PUNCT	_	_	27	punct	_	Translit=?|LTranslit=?
 29	:	:	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 
 # sent_id = LUKE_7.25a
