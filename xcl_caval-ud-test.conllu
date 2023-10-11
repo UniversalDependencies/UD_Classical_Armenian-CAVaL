@@ -8206,7 +8206,7 @@
 13	վասն	վասն	ADP	_	_	14	case	_	Translit=vasn|LTranslit=vasn|Gloss=about/because_of
 14	Յովհաննու	յովհաննէս	PROPN	_	Case=Gen|Number=Sing	9	obl	_	SpaceAfter=No|Translit=Yovhannow|LTranslit=yovhannēs|Gloss=yovhannēs
 15	՝	՝	PUNCT	_	_	18	punct	_	Translit=;|LTranslit=;
-16-17	զի՞	_	_	_	_	_	_	_	SpaceAfter=No|Translit=zi?
+16-17	զի՞	_	_	_	_	_	_	_	Translit=zi?
 16	զի	զի	PRON	_	Animacy=Inan|Case=Acc|Number=Sing|PronType=Int	18	obj	_	Translit=zi|LTranslit=zi|LId=զի-2|Gloss=what
 17	՞	՞	PUNCT	_	_	16	punct	_	Translit=?|LTranslit=?
 18	ելէք	ելանեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	9	ccomp	_	Translit=elēkʻ|LTranslit=elanem|Gloss=go_out
