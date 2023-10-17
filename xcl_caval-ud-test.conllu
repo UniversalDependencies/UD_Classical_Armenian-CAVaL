@@ -6575,7 +6575,7 @@
 # sent_id = LUKE_6.21a
 # text = Երանի է որ քաղցեալ իցեն այժմ զի յագեսցին:
 # transliterated_text = Erani ē or kʻałcʻeal icʻen ayžm zi yagescʻin.
-# translated_text = Blessed are ye that hunger now, for ye shall be filled. 
+# translated_text = Blessed are ye that hunger now, for ye shall be filled.
 1	Երանի	երանի	ADJ	_	Case=Nom|Number=Sing	0	root	_	Translit=Erani|LTranslit=erani|Gloss=blessed
 2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Translit=ē|LTranslit=em|Gloss=be
 3	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	4	nsubj	_	Translit=or|LTranslit=or|LId=որ-1|Gloss=which
@@ -6874,7 +6874,7 @@
 # sent_id = LUKE_6.32a
 # text = Եւ եթե սիրէք դուք զսիրելիս ձեր. զի՞նչ շնորհ է ձեր՝
 # transliterated_text = Ew etʻe sirēkʻ dowkʻ zsirelis jer: zi?nčʻšnorh ē jer;
-# translated_text = For if ye love them which love you, what thank have ye? 
+# translated_text = For if ye love them which love you, what thank have ye?
 1	Եւ	եւ	CCONJ	_	_	13	advmod	_	Translit=Ew|LTranslit=ew|LId=եւ-2|Gloss=and
 2	եթե	եթե	SCONJ	_	_	3	mark	_	Translit=etʻe|LTranslit=etʻē|LId=եթե-1|Gloss=or
 3	սիրէք	սիրեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	Translit=sirēkʻ|LTranslit=sirem|Gloss=love
@@ -9599,7 +9599,7 @@
 # sent_id = LUKE_8.22a
 # text = Եւ եղեւ ի միում յաւուրց. ինքն ել ի նաւ եւ աշակերտքն նորա՝ եւ ասէ ցնոսա՝ եկայք անցցուք յայնկոյս ծովակիս:
 # transliterated_text = Ew ełew i miowm yawowrcʻ: inkʻn el i naw ew ašakertkʻn nora; ew asē cʻnosa; ekaykʻ ancʻcʻowkʻ yaynkoys covakis.
-# translated_text = Now it came to pass on a certain day, that he went into a ship with his disciples, and he said unto them, Let us go over unto the other side of the lake. 
+# translated_text = Now it came to pass on a certain day, that he went into a ship with his disciples, and he said unto them, Let us go over unto the other side of the lake.
 1	Եւ	եւ	CCONJ	_	_	2	advmod	_	Translit=Ew|LTranslit=ew|LId=եւ-2|Gloss=and
 2	եղեւ	լինիմ	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=ełew|LTranslit=linim|Gloss=be
 3	ի	ի	ADP	_	_	4	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to/in/from
@@ -11100,7 +11100,7 @@
 # sent_id = LUKE_9.13a-14a
 # text = Եւ նոքա ասեն ոչ գոյ մեր աւելի քան զհինգ նկանակ եւ զերկուս ձկունս՝ բայց եթե երթիցուք գնեսցուք բաւական ժողովրդեանդ կերակուր՝ քանզի եին արք իբրեւ հինգ հազար
 # transliterated_text = Ew nokʻa asen očʻ goy mer aweli kʻan zhing nkanak ew zerkows jkowns; baycʻ etʻe ertʻicʻowkʻ gnescʻowkʻ bawakan žołovrdeand kerakowr; kʻanzi ein arkʻ ibrew hing hazar
-# translated_text = And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people, for they were about five thousand men. 
+# translated_text = And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people, for they were about five thousand men.
 1	Եւ	եւ	CCONJ	_	_	3	advmod	_	Translit=Ew|LTranslit=ew|LId=եւ-2|Gloss=and
 2	նոքա	նա	PRON	_	Case=Nom|Number=Plur|PronType=Dem	3	nsubj	_	Translit=nokʻa|LTranslit=na|LId=նա-1|Gloss=moreover
 3	ասեն	ասեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=asen|LTranslit=asem|Gloss=say
