@@ -1,6 +1,6 @@
 # Summary
 
-The present release includes a sample treebank of the first ten chapters of the Classical Armenian translation of the Gospel of Luke (10616 tokens in 539 sentences) as part of the UD Classical Armenian-CAVaL treebank project. It results from a conversion of the PROIEL annotation of the Classical Armenian Gospels, then manually corrected and extended with additional information.
+The present release includes a sample treebank of the first ten chapters of the Classical Armenian translation of the Gospel of Luke (11009 tokens in 539 sentences) as part of the UD Classical Armenian-CAVaL treebank project. It results from a conversion of the PROIEL annotation of the Classical Armenian Gospels, then manually corrected and extended with additional information.
 
 # Introduction
 
