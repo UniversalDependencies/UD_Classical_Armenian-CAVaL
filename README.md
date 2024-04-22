@@ -36,8 +36,6 @@ UD_Classical_Armenian-CAVaL data conforms to [CoNLL-U](http://universaldependenc
   * `LId` for homonymous lemmas;
   * `Gloss` for English glosses of lemmas.
 
-# Changelog
-
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.13
