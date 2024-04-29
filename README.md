@@ -4,7 +4,7 @@ The present release includes a treebank of the Classical Armenian translation of
 
 # Introduction
 
-The present release includes a sample treebank of the first ten chapters of the Classical Armenian translation of the Gospel of Luke (95370 tokens in 4146 sentences) as part of the UD Classical Armenian-CAVaL treebank project. The treebank results from a conversion of the PROIEL annotation of the Classical Armenian Gospels (https://github.com/proiel/proiel-treebank; see Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of the Old Indo-European Bible Translations', in: Caroline Sporleder and Kiril Ribarov (eds.), Proceedings of the Second Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2008) (2008), pp. 27-34). The PROIEL annotation is based on a digitalized version of Beda O. Künzle "Das altarmenische Evangelium" (Bern/Frankfurt am Main/New York: Peter Lang, 1984). The convertion from the PROIEL to UD annotation has been performed using a rule-based convertor developed as part of the "CAVaL: Classical Armenian Valency Lexicon" project, which is carried out at the University of Würzburg and funded by the Deutsche Forschungsgemeinschaft (PI Petr Kocharov, programmer Lilit Kharatyan). The convertion result has been manually corrected, adjusted to the UD annotation scheme, and extended a few with relation subtypes, spelling in the Armenian alphabet and English glosses. 
+The present release includes a treebank of the Classical Armenian translation of the four Gospels (95370 tokens in 4146 sentences) as part of the UD Classical Armenian-CAVaL treebank project. The treebank results from a conversion of the PROIEL annotation of the Classical Armenian Gospels (https://github.com/proiel/proiel-treebank; see Dag T. T. Haug and Marius L. Jøhndal. 2008. 'Creating a Parallel Treebank of the Old Indo-European Bible Translations', in: Caroline Sporleder and Kiril Ribarov (eds.), Proceedings of the Second Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2008) (2008), pp. 27-34). The PROIEL annotation is based on a digitalized version of Beda O. Künzle "Das altarmenische Evangelium" (Bern/Frankfurt am Main/New York: Peter Lang, 1984); https://titus.fkidg1.uni-frankfurt.de/texte/etcc/arm/armntbk/armnt.htm. The convertion from the PROIEL to UD annotation has been performed using a rule-based convertor developed as part of the "CAVaL: Classical Armenian Valency Lexicon" project, which is carried out at the University of Würzburg and funded by the Deutsche Forschungsgemeinschaft (PI Petr Kocharov, programmer Lilit Kharatyan). The converted annotation has been manually adjusted to the UD annotation scheme, corrected, and extended with additional morphological features, relation subtypes, spelling in the Armenian alphabet, English translations of sentences, and English glosses.
 
 # Acknowledgments
 
@@ -19,6 +19,7 @@ The development data consists of Matthew 4 and 5, Mark 4 and 5, Luke 3, 4 and 5,
   * First release of the four Gospels in UD
   * Fixed annotation errors
   * The data is split into the train, test and dev sets.
+  * Language-specific documentation for parts of speech.
 * 2023-10-15 UD 2.13
   * First release of the Gospel of Luke, chapters 1-12 in UD
 
