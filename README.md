@@ -19,7 +19,7 @@ The development data consists of Matthew 4 and 5, Mark 4 and 5, Luke 3, 4 and 5,
   * First release of the four Gospels in UD
   * Fixed annotation errors
   * The data is split into the train, test and dev sets.
-  * Language-specific documentation for parts of speech.
+  * Language-specific documentation for UPOS tags.
 * 2023-10-15 UD 2.13
   * First release of the Gospel of Luke, chapters 1-12 in UD
 
