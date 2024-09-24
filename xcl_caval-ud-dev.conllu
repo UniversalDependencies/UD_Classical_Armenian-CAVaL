@@ -10749,7 +10749,7 @@
 13	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	12	det	_	Translit=s|LTranslit=s|Gloss=this
 14	հաւատայցէք	հաւատալ	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	Translit=hawataycʻēkʻ|LTranslit=hawatal|Gloss=believe
 
-# sent_id = 06Khor1_10:1
+# sent_id = MX.Hist_I_10.1
 # text = Յաղագս ապստամբութեանն Հայկայ:
 # transliterated_text = Yałags apstambowtʻeann Haykay.
 # translated_text = Concerning the rebellion of Hayk:
@@ -10759,7 +10759,7 @@
 4	Հայկայ	Հայկ	PROPN	_	Case=Gen|Number=Sing	2	nmod	_	SpaceAfter=No|Translit=Haykay|LTranslit=Hayk|Gloss=Hayk
 5	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_10:2
+# sent_id = MX.Hist_I_10.2
 # text = Այս, ասէ, Հայկ գեղապատշաճ եւ անձնեայ, քաջագանգուր, խայտակն եւ հաստաբազուկ:
 # transliterated_text = Ays, asē, Hayk gełapatšač ew anjneay, kʻaǰagangowr, xaytakn ew hastabazowk.
 # translated_text = Hayk, he says, was handsome and personable, with curly hair, sparkling eyes, and strong arms:
@@ -10779,7 +10779,7 @@
 14	հաստաբազուկ	հաստաբազուկ	ADJ	_	Case=Nom|Number=Sing	6	conj	_	SpaceAfter=No|Translit=hastabazowk|LTranslit=hastabazowk|Gloss=strong_armed
 15	:	:	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_10:3
+# sent_id = MX.Hist_I_10.3
 # text = Սա ի մէջ սկայիցն քաջ եւ երեւելի լեալ, եւ ընդդիմակաց ամենեցուն, որք ամբառնային զձեռն՝ միապետել ի վերայ ամենայն սկայիցն եւ դիւցազանց:
 # transliterated_text = Sa i mēǰ skayicʻn kʻaǰ ew ereweli leal, ew ənddimakacʻ amenecʻown, orkʻ ambaṙnayin zjeṙn; miapetel i veray amenayn skayicʻn ew diwcʻazancʻ.
 # translated_text = Among the giants he was the bravest and most famous, the opponent of all who raised their hand to become absolute ruler over all the giants and heroes:
@@ -10812,7 +10812,7 @@
 27	դիւցազանց	դիւցազն	NOUN	_	Case=Gen|Number=Plur	24	conj	_	SpaceAfter=No|Translit=diwcʻazancʻ|LTranslit=diwcʻazn|Gloss=hero
 28	:	:	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_10:4
+# sent_id = MX.Hist_I_10.4
 # text = Սա խրոխտացեալ ամբարձ զձեռն ընդդէմ բռնաւորութեանն Բելայ, ի տարածանել ազգի մարդկան ընդ լայնութիւն ամենայն երկրի, ի մէջ բազմակոյտ սկայիցն, անհուն խաւլաց եւ ուժաւորաց:
 # transliterated_text = Sa xroxtacʻeal ambarj zjeṙn ənddēm bṙnaworowtʻeann Belay, i taracanel azgi mardkan ənd laynowtʻiwn amenayn erkri, i mēǰ bazmakoyt skayicʻn, anhown xawlacʻ ew owžaworacʻ.
 # translated_text = He intrepidly raised his hand against the tyranny of Bēl when the human race was breeding over the breadth of the whole land amid the multitude of infinitely ferocious and strong giants:
@@ -10847,7 +10847,7 @@
 29	ուժաւորաց	ուժաւոր	ADJ	_	Case=Gen|Number=Plur	27	conj	_	SpaceAfter=No|Translit=owžaworacʻ|LTranslit=owžawor|Gloss=strong
 30	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_10:5
+# sent_id = MX.Hist_I_10.5
 # text = Քանզի անդ մոլեգնեալ այր իւրաքանչիւր, սուր ի կող ընկերի իւրոյ ձգելով՝ ջանային տիրել ի վերայ միմեանց. ուր պատահմունք ի դէպ ելանէին Բելայ՝ բռնանալ ունել զամենայն երկիր:
 # transliterated_text = Kʻanzi and molegneal ayr iwrakʻančʻiwr, sowr i koł ənkeri iwroy jgelov; ǰanayin tirel i veray mimeancʻ: owr patahmownkʻ i dēp elanēin Belay; bṙnanal ownel zamenayn erkir.
 # translated_text = Each man in his rage had drawn his sword against his neighbor’s flank, and they were attempting to dominate each other. These circumstances enabled Bēl to impose his tyranny on the whole land:
@@ -10884,7 +10884,7 @@
 31	երկիր	երկիր	NOUN	_	Case=Acc|Number=Sing	27	obj	_	SpaceAfter=No|Translit=erkir|LTranslit=erkir|Gloss=earth
 32	:	:	PUNCT	_	_	14	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_10:6
+# sent_id = MX.Hist_I_10.6
 # text = Որում ոչ կամեցեալ հնազանդ լինել Հայկայ, յետ ծնանելոյ զորդի իւր զԱրամանեակ ի Բաբելոնի չու արարեալ գնայ յերկիրն Արարադայ, որ է ի կողմանս հիւսիսոյ, հանդերձ որդւովք իւրովք եւ դստերաւք եւ որդւոց որդւովք, արամբք զաւրաւորաւք, թուով իբրեւ երեքհարիւր, եւ այլովք ընդոծնաւք եւ եկաւք յարեցելովք ի նա եւ բոլոր աղխիւ:
 # transliterated_text = Orowm očʻ kamecʻeal hnazand linel Haykay, yet cnaneloy zordi iwr zAramaneak i Babeloni čʻow arareal gnay yerkirn Araraday, or ē i kołmans hiwsisoy, handerj ordwovkʻ iwrovkʻ ew dsterawkʻ ew ordwocʻ ordwovkʻ, arambkʻ zawraworawkʻ, tʻowov ibrew erekʻhariwr, ew aylovkʻ əndocnawkʻ ew ekawkʻ yarecʻelovkʻ i na ew bolor ałxiw.
 # translated_text = But Hayk refused to submit to him, and after begetting his son Aramaneak in Babylon he journey to the land of Ararad, which is in the northern regions, with his sons and daughters and sons’ sons, martial men about three hundred in number, and other domestic servants and the outsiders who had joined his service and all his effects:
@@ -10948,7 +10948,7 @@
 58	աղխիւ	աղխ	NOUN	_	Case=Ins|Number=Sing	33	conj	_	SpaceAfter=No|Translit=ałxiw|LTranslit=ałx|Gloss=ring
 59	:	:	PUNCT	_	_	19	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_10:7
+# sent_id = MX.Hist_I_10.7
 # text = Երթեալ բնակէ ի լեռնոտին միում ի դաշտավայրի, յորում սակաւք ի մարդկանէ յառաջագոյն ցրուելոցն դադարեալ բնակէին. զորս հնազանդ իւր արարեալ Հայկ՝ շինէ անդ տուն բնակութեան կալուածոց եւ տայ ի ժառանգութիւն Կադմեայ որդւոյ Արամանեկայ:
 # transliterated_text = Ertʻeal bnakē i leṙnotin miowm i daštavayri, yorowm sakawkʻ i mardkanē yaṙaǰagoyn cʻrowelocʻn dadareal bnakēin: zors hnazand iwr arareal Hayk; šinē and town bnakowtʻean kalowacocʻ ew tay i žaṙangowtʻiwn Kadmeay ordwoy Aramanekay.
 # translated_text = He came and dwelt at the foot of a mountain in a plain where had lingered and dwelt a few of the human race who had been previously scattered. These Hayk subjected to himself, and he built there a residence for the property and gave it in inheritance to Cadmos, the son of Aramaneak:
@@ -10992,7 +10992,7 @@
 38	Արամանեկայ	Արամանեակ	PROPN	_	Case=Gen|Number=Sing	37	nmod	_	SpaceAfter=No|Translit=Aramanekay|LTranslit=Aramaneak|Gloss=Aramaneak
 39	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_10:8
+# sent_id = MX.Hist_I_10.8
 # text = Այս արդարացուցանէ զանգիր հին ասացեալ զրոյցս:
 # transliterated_text = Ays ardaracʻowcʻanē zangir hin asacʻeal zroycʻs.
 # translated_text = This verifies the old unwritten tales mentioned above:
@@ -11006,7 +11006,7 @@
 8	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	7	det	_	SpaceAfter=No|Translit=s|LTranslit=s|Gloss=this
 9	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_10:9
+# sent_id = MX.Hist_I_10.9
 # text = Եւ ինքն խաղայ, ասէ, այլով աղխիւն ընդ արեւմուտս հիւսիսոյ. գայ բնակէ ի բարձրաւանդակ դաշտի միում, եւ անուանէ զանուն լեռնադաշտին Հարք, այս ինքն թէ հարք են աստէն բնակեալք՝ ազգի տանն Թորգոմայ:
 # transliterated_text = Ew inkʻn xałay, asē, aylov ałxiwn ənd arewmowts hiwsisoy: gay bnakē i barjrawandak dašti miowm, ew anowanē zanown leṙnadaštin Harkʻ, ays inkʻn tʻē harkʻ en astēn bnakealkʻ; azgi tann Tʻorgomay.
 # translated_text = He himself hastened, he says, with the rest of his entourage to the northwest. He came and dwelt in an elevated plain and called the name of the plateau Hark’ that is, here dwelt the fathers of the family of the house of Torgom:
@@ -11052,7 +11052,7 @@
 40	Թորգոմայ	Թորգոմ	PROPN	_	Case=Gen|Number=Sing	38	nmod	_	SpaceAfter=No|Translit=Tʻorgomay|LTranslit=Tʻorgom|Gloss=Tʻorgom
 41	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_10:10
+# sent_id = MX.Hist_I_10.10
 # text = Շինէ եւ գիւղ մի, եւ անուանէ յիւր անուն Հայկաշէն:
 # transliterated_text = Šinē ew giwł mi, ew anowanē yiwr anown Haykašēn.
 # translated_text = He also built a village and called it after his own name Haykashēn:
@@ -11069,7 +11069,7 @@
 11	Հայկաշէն	Հայկաշէն	PROPN	_	Case=Nom|Number=Sing	7	xcomp	_	SpaceAfter=No|Translit=Haykašēn|LTranslit=Haykašēn|Gloss=Haykašēn
 12	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_10:11
+# sent_id = MX.Hist_I_10.11
 # text = Յիշի եւ աստանաւր ի պատմութեանս՝ ի հարաւոյ կողմանէ դաշտիս այսորիկ, առ երկայնանստիւ միով լերամբ, բնակեալ յառաջագոյն արք սակաւք, ինքնակամ հնազանդեալ դիւցազինն:
 # transliterated_text = Yiši ew astanawr i patmowtʻeans; i harawoy kołmanē daštis aysorik, aṙ erkaynanstiw miov leramb, bnakeal yaṙaǰagoyn arkʻ sakawkʻ, inkʻnakam hnazandeal diwcʻazinn.
 # translated_text = It is also recorded in this history that on the southern side of this plain at the foot of a long mountain there already dwelt a few men who willingly submitted to the hero:
@@ -11103,7 +11103,7 @@
 28	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	27	det	_	SpaceAfter=No|Translit=n|LTranslit=n|Gloss=that
 29	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_10:12
+# sent_id = MX.Hist_I_10.12
 # text = Արդարացուցանէ եւ այս զասացեալ զրոյցս անգիրս:
 # transliterated_text = Ardaracʻowcʻanē ew ays zasacʻeal zroycʻs angirs.
 # translated_text = This too verifies the unwritten tales mentioned above:
