@@ -52,12 +52,12 @@ UD_Classical_Armenian-CAVaL data conforms to [CoNLL-U](http://universaldependenc
 Data available since: UD v2.13
 License: CC BY-NC-ND 4.0
 Includes text: yes
-Genre: bible, historiography
+Genre: bible, fiction
 Lemmas: converted with corrections
 UPOS: converted with corrections
 XPOS: not available
 Features: converted with corrections
-Relations: converted with corrections (Gospels), automatically generated with corrections (Movses Khorenatsi)
+Relations: automatic with corrections | converted with corrections
 Contributors: Kocharov, Petr; Kharatyan, Lilit
 Contributing: here
 Contact: petr.kocharov@uni-wuerzburg.de
