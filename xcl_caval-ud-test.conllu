@@ -13338,7 +13338,7 @@
 9	յառնէ	յառնել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	SpaceAfter=No|Translit=yaṙnē|LTranslit=yaṙnel|Gloss=rise
 10	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_3:1
+# sent_id = MX.Hist_I_3.1
 # text = Յաղագս անիմաստասէր բարուց առաջնոցն մերոց թագաւորաց եւ իշխանաց:
 # transliterated_text = Yałags animastasēr barowcʻ aṙaǰnocʻn merocʻ tʻagaworacʻ ew išxanacʻ.
 # translated_text = Concerning the unscholarly habits of our first kings and princes:
@@ -13353,7 +13353,7 @@
 9	իշխանաց	իշխան	NOUN	_	Case=Gen|Number=Plur	7	conj	_	SpaceAfter=No|Translit=išxanacʻ|LTranslit=išxan|Gloss=ruler
 10	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_3:2
+# sent_id = MX.Hist_I_3.2
 # text = Կամիմ զանիմաստասէր բարս առաջնոցն մերոց նախնեացն ոչ առանց յիշատակի բամբասանաց թողուլ, այլ աստէն իսկ, ի սկզբան մերոյ գործառնութեանս, զվասն նոցա կշտամբութեան յարմարել զբանս:
 # transliterated_text = Kamim zanimastasēr bars aṙaǰnocʻn merocʻ naxneacʻn očʻ aṙancʻ yišataki bambasanacʻ tʻołowl, ayl astēn isk, i skzban meroy gorcaṙnowtʻeans, zvasn nocʻa kštambowtʻean yarmarel zbans.
 # translated_text = I do not wish to leave the unscholarly habits of our first ancestors without a word of censure but to insert here at the very beginning of our work the reason for reprehending them:
@@ -13391,7 +13391,7 @@
 32	բանս	բան	NOUN	_	Case=Acc|Number=Plur	30	obj	_	SpaceAfter=No|Translit=bans|LTranslit=ban|Gloss=word
 33	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_3:3
+# sent_id = MX.Hist_I_3.3
 # text = Զի թէ արդարեւ արժանի գովութեան այնք ի թագաւորաց իցեն, որք գրով եւ պատմութեամբ զիւրեանցն հաստատեալ կարգեցին զժամանակս, եւ զգործս իմաստութեան եւ զքաջութիւն իւրաքանչիւր արձանացուցին ի վէպս եւ ի պատմութիւնս՝ ըստ նոցանէ եւ պարապեալքն այսպիսում ճգնութեան դիւանագիրք մատենից՝ ներբողականաց ի մէնջ արժանի եղեն ասից. ի ձեռն որոց եւ մեք յընթեռնուլն զառ ի նոցանէ շարածս բանից՝ ըստ աշխարհաւրէն կարգաց իմաստնանալ ասիմք, եւ քաղաքականս ուսանել կարգս, յորժամ զայսպիսիս ընթերցասիրիցեմք իմաստութեան ճառս եւ զրուցատրութիւնս, որք են Քաղդէացւոց եւ Ասորեստանեայց, Եգիպտացւոց եւ Հելլենացւոց. առ այսոքիւք եւ փափագիցեմք եւս արդեաւք իմաստութեան արանցն այնոցիկ, որ զայսպիսի փոյթ յանձին կալան. ապա ուրեմն ամենեցուն մեզ յայտնի է թագաւորացն մերոց եւ այլոց առաջնոցն առ ի յիմաստն տխմարութիւն, եւ անկատարութիւն ոգւոյն բանականի:
 # transliterated_text = Zi tʻē ardarew aržani govowtʻean aynkʻ i tʻagaworacʻ icʻen, orkʻ grov ew patmowtʻeamb ziwreancʻn hastateal kargecʻin zžamanaks, ew zgorcs imastowtʻean ew zkʻaǰowtʻiwn iwrakʻančʻiwr arjanacʻowcʻin i vēps ew i patmowtʻiwns; əst nocʻanē ew parapealkʻn ayspisowm čgnowtʻean diwanagirkʻ matenicʻ; nerbołakanacʻ i mēnǰ aržani ełen asicʻ: i jeṙn orocʻ ew mekʻ yəntʻeṙnowln zaṙ i nocʻanē šaracs banicʻ; əst ašxarhawrēn kargacʻ imastnanal asimkʻ, ew kʻałakʻakans owsanel kargs, yoržam zayspisis əntʻercʻasiricʻemkʻ imastowtʻean čaṙs ew zrowcʻatrowtʻiwns, orkʻ en Kʻałdēacʻwocʻ ew Asorestaneaycʻ, Egiptacʻwocʻ ew Hellenacʻwocʻ: aṙ aysokʻiwkʻ ew pʻapʻagicʻemkʻ ews ardeawkʻ imastowtʻean arancʻn aynocʻik, or zayspisi pʻoytʻ yanjin kalan: apa owremn amenecʻown mez yaytni ē tʻagaworacʻn merocʻ ew aylocʻ aṙaǰnocʻn aṙ i yimastn txmarowtʻiwn, ew ankatarowtʻiwn ogwoyn banakani.
 # translated_text = If in truth those kings are worthy of praise who in written accounts fixed and ordered their annals and wise acts and inscribed each one’s valor in narratives and histories, then like them the compilers of books of archives who were occupied with similar efforts are worthy of our eulogies. Through these, I say, when we read their accounts, we become informed about the course of the world, and we learn about the state of civilization when we peruse such wise discourses and narratives those of the Chaldaeans, Assyrians, Egyptians, and Hellenes. It is indeed to the wisdom of these men, who undertook such studies, that we aspire. So, then it is clear to us all that our kings and other forefathers were negligent toward scholarship and unconcerned with the life of reason:
@@ -13541,7 +13541,7 @@
 144	բանականի	բանական	ADJ	_	Case=Gen|Number=Sing	142	amod	_	SpaceAfter=No|Translit=banakani|LTranslit=banakan|Gloss=rational
 145	:	:	PUNCT	_	_	124	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_3:4
+# sent_id = MX.Hist_I_3.4
 # text = Զի թէպէտ եւ եմք ածու փոքր, եւ թուով յոյժ ընդ փոքու սահմանեալ, եւ զաւրութեամբ տկար, եւ ընդ այլով յոլով անգամ նուաճեալ թագաւորութեամբ՝ սակայն բազում գործք արութեան գտանին գործեալ եւ ի մերում աշխարհիս, եւ արժանի գրոյ յիշատակի, զոր եւ ոչ մի ոք ի նոցանէ պէտ յանձին կալաւ մատենագրել:
 # transliterated_text = Zi tʻēpēt ew emkʻ acow pʻokʻr, ew tʻowov yoyž ənd pʻokʻow sahmaneal, ew zawrowtʻeamb tkar, ew ənd aylov yolov angam nowačeal tʻagaworowtʻeamb; sakayn bazowm gorckʻ arowtʻean gtanin gorceal ew i merowm ašxarhis, ew aržani groy yišataki, zor ew očʻ mi okʻ i nocʻanē pēt yanjin kalaw matenagrel.
 # translated_text = For although we are a small country and very restricted in numbers, weak in power, and often subject to another’s rule, yet many manly deeds have been performed in our land worthy of being recorded in writing; nonetheless not one of these undertook to have them written down:
@@ -13603,7 +13603,7 @@
 56	մատենագրել	մատենագրել	VERB	_	VerbForm=Inf	55	xcomp	_	SpaceAfter=No|Translit=matenagrel|LTranslit=matenagrel|Gloss=compose_books
 57	:	:	PUNCT	_	_	55	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_3:5
+# sent_id = MX.Hist_I_3.5
 # text = Արդ՝ այնոքիկ, որ եւ ոչ անձանց խորհեցան բարի առնել, եւ անուն յիշատակի յաշխարհի թողուլ, զի՞ արդեաւք եւ մեղադրութիւն մեր այնպիսեացն ի ճահ պատահիցէ, զեւս մեծագոյնս ի նոցանէ պահանջել եւ որ ինչ հնագոյն քան զնոսա:
 # transliterated_text = Ard; aynokʻik, or ew očʻ anjancʻ xorhecʻan bari aṙnel, ew anown yišataki yašxarhi tʻołowl, zi? ardeawkʻ ew meładrowtʻiwn mer aynpiseacʻn i čah patahicʻē, zews mecagoyns i nocʻanē pahanǰel ew or inčʻ hnagoyn kʻan znosa.
 # translated_text = So if they did not think of benefiting themselves and leaving a memorial to their name in the world, how appropriate is our reproach of such men in demanding still greater things of them and accounts of what occurred earlier than them:
@@ -13654,7 +13654,7 @@
 44	նոսա	նա	DET	_	Case=Acc|Deixis=Remt|Number=Plur|PronType=Dem	41	nmod	_	SpaceAfter=No|Translit=nosa|LTranslit=na|Gloss=that
 45	:	:	PUNCT	_	_	40	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_3:6
+# sent_id = MX.Hist_I_3.6
 # text = Այլ ասիցէ ոք արդեաւք. վասն ոչ լինելոյ գիր եւ դպրութիւն ի ժամանակին, կամ վասն պէս պէս պատերազմացն, որ կուռ զմիմեանց զկնի ի վերայ գային:
 # transliterated_text = Ayl asicʻē okʻ ardeawkʻ: vasn očʻ lineloy gir ew dprowtʻiwn i žamanakin, kam vasn pēs pēs paterazmacʻn, or kowṙ zmimeancʻ zkni i veray gayin.
 # translated_text = But then someone might say: it was because there was no writing or literature at the time, or because of the various wars that succeeded each other without a pause:
@@ -13690,7 +13690,7 @@
 30	գային	գալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	acl	_	SpaceAfter=No|Translit=gayin|LTranslit=gal|Gloss=come
 31	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_3:7
+# sent_id = MX.Hist_I_3.7
 # text = Այլ ոչ արդարեւ այսոքիկ կարծեցեալ լինի. քանզի գտանին եւ միջոցք լեալ պատերազմացն, եւ գիր Պարսից եւ Յունաց, որովք այժմ գիւղից եւ գաւառաց, եւս եւ իւրաքանչիւր տանց առանձնականութեանց, եւ հանուրց հակառակութեանց եւ դաշանց այժմ առ մեզ գտանին անբաւ զրուցաց մատեանք, մանաւանդ որ ի սեպհական ազատութեան պայազատութիւն:
 # transliterated_text = Ayl očʻ ardarew aysokʻik karcecʻeal lini: kʻanzi gtanin ew miǰocʻkʻ leal paterazmacʻn, ew gir Parsicʻ ew Yownacʻ, orovkʻ ayžm giwłicʻ ew gawaṙacʻ, ews ew iwrakʻančʻiwr tancʻ aṙanjnakanowtʻeancʻ, ew hanowrcʻ hakaṙakowtʻeancʻ ew dašancʻ ayžm aṙ mez gtanin anbaw zrowcʻacʻ mateankʻ, manawand or i sephakan azatowtʻean payazatowtʻiwn.
 # translated_text = However, these suggestions are not justified because there were indeed intervals between the wars, and the Persians and Greeks had scripts that today are used among us for books with innumerable accounts of villages and provinces and even private families and of controversies and pacts, especially those that concern the succession of the noble families:
@@ -13748,7 +13748,7 @@
 52	պայազատութիւն	պայազատութիւն	NOUN	_	Case=Loc|Number=Sing	32	acl	_	SpaceAfter=No|Translit=payazatowtʻiwn|LTranslit=payazatowtʻiwn|Gloss=nobility
 53	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_3:8
+# sent_id = MX.Hist_I_3.8
 # text = Այլ ինձ թուի, որպէս այժմ՝ եւ առ հինսն Հայաստանեայցս լեալ անսիրելութիւն իմաստութեան եւ երգարանաց բանաւորաց:
 # transliterated_text = Ayl inj tʻowi, orpēs ayžm; ew aṙ hinsn Hayastaneaycʻs leal ansirelowtʻiwn imastowtʻean ew ergaranacʻ banaworacʻ.
 # translated_text = But it seems to me that nowadays, just as in the past, the Armenians were not enamored of scholarship or intellectual books:
@@ -13773,7 +13773,7 @@
 19	բանաւորաց	բանաւոր	ADJ	_	Case=Gen|Number=Plur	18	amod	_	SpaceAfter=No|Translit=banaworacʻ|LTranslit=banawor|Gloss=rational
 20	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_3:9
+# sent_id = MX.Hist_I_3.9
 # text = Վասն որոյ աւելորդ է մեզ եւ այլ յաղագս արանց անբանից, թուլամտաց, վայրենեաց ճառել:
 # transliterated_text = Vasn oroy awelord ē mez ew ayl yałags arancʻ anbanicʻ, tʻowlamtacʻ, vayreneacʻ čaṙel.
 # translated_text = Therefore it is superfluous for us to say anything more about those unlettered, lazy, and barbarous men:
@@ -13794,7 +13794,7 @@
 15	ճառել	ճառել	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No|Translit=čaṙel|LTranslit=čaṙel|Gloss=speak
 16	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_3:10
+# sent_id = MX.Hist_I_3.10
 # text = Բայց ընդ քո յոյժ զարմացեալ եմ ընդ մտացդ ծննդականութիւն, որ ի սկզբանցն մերոց ազգաց մինչեւ ցայժմուսս միայն գտար զայսպիսւոյ մեծէ իրէ բուռն հարկանել, եւ մեզ խոյզ խնդրոյ առաջի արկանել երկար եւ շահաւոր գործով զազգիս մերոյ կարգել զպատմութիւնն ճշդիւ՝ զթագաւորացն եւ զնախարարականաց ազգաց եւ տոհմից, թէ ո՛վ յումմէ, եւ զի՛նչ իւրաքանչիւր ոք ի նոցանէ գործեաց, եւ ո՛վ ոք ի ցեղիցս որոշելոց ընտանի եւ մերազնեայ, եւ ո՛յք ոմանք եկք ընտանեցեալք եւ մերազնացեալք. եւ զգործս եւ զժամանակս իւրաքանչիւր գրով դրոշմել, ի ժամանակէ անկարգ ամբարտակին շինուածոյ մինչեւ ցայժմ. գեղեցիկ զայս քեզ համարեալ ի փառս եւ անջան հեշտութիւն:
 # transliterated_text = Baycʻ ənd kʻo yoyž zarmacʻeal em ənd mtacʻd cnndakanowtʻiwn, or i skzbancʻn merocʻ azgacʻ minčʻew cʻayžmowss miayn gtar zayspiswoy mecē irē bowṙn harkanel, ew mez xoyz xndroy aṙaǰi arkanel erkar ew šahawor gorcov zazgis meroy kargel zpatmowtʻiwnn čšdiw; ztʻagaworacʻn ew znaxararakanacʻ azgacʻ ew tohmicʻ, tʻē o!v yowmmē, ew zi!nčʻ iwrakʻančʻiwr okʻ i nocʻanē gorceacʻ, ew o!v okʻ i cʻełicʻs orošelocʻ əntani ew merazneay, ew o!ykʻ omankʻ ekkʻ əntanecʻealkʻ ew meraznacʻealkʻ: ew zgorcs ew zžamanaks iwrakʻančʻiwr grov drošmel, i žamanakē ankarg ambartakin šinowacoy minčʻew cʻayžm: gełecʻik zays kʻez hamareal i pʻaṙs ew anǰan heštowtʻiwn.
 # translated_text = But I am greatly amazed at the fertility of your mind, that from the beginnings of our nation up to the present you alone have been found to undertake such a great task and to present us with this request to write the history of our nation in a long and useful work, to deal accurately with the kings and the princely clans and families: who descended from whom, what each one of them did, which of the various tribes are indigenous and native and which are of foreign origin but naturalized, to set down in writing each one’s deeds and times from the time of confusion at the building of the tower up to the present reckoning this as a noble tribute to you for your glory and untiring delight:
@@ -13931,7 +13931,7 @@
 127	հեշտութիւն	հեշտութիւն	NOUN	_	Case=Acc|Number=Sing	124	obj	_	SpaceAfter=No|Translit=heštowtʻiwn|LTranslit=heštowtʻiwn|Gloss=ease
 128	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_3:11
+# sent_id = MX.Hist_I_3.11
 # text = Առ որ այսչափ միայն ասացից. միթէ մատեա՞ն մերձ կայցէ ինձ, որպէս ասի ի Յովբ, կամ դպրութիւն քոց հայրենեացն, որով նմանագոյնս արդեաւք Եբրայեցւոցն պատմագրաց՝ ի վերուստ ի քեզ իջուցանիցեմ անսխալ, կամ ի քէն եւ յայլոց սկսեալ՝ անդր ի վեր հանիցեմ ի սկիզբն:
 # transliterated_text = Aṙ or aysčʻapʻ miayn asacʻicʻ: mitʻē matea?n merj kaycʻē inj, orpēs asi i Yovb, kam dprowtʻiwn kʻocʻ hayreneacʻn, orov nmanagoyns ardeawkʻ Ebrayecʻwocʻn patmagracʻ; i verowst i kʻez iǰowcʻanicʻem ansxal, kam i kʻēn ew yaylocʻ skseal; andr i ver hanicʻem i skizbn.
 # translated_text = For which reason I shall say only this. Is there not a book near to me, as is said in Job:, or the literature of your homeland by means of which, like the Hebrew historians, I can bring down my account without error from the beginning as far as you, or starting from you and others work backward to the beginning:
@@ -13991,7 +13991,7 @@
 53	սկիզբն	սկիզբն	NOUN	_	Case=Acc|Number=Sing	51	obl	_	SpaceAfter=No|Translit=skizbn|LTranslit=skizbn|Gloss=beginning
 54	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_3:12
+# sent_id = MX.Hist_I_3.12
 # text = Բայց սակայն սկսայց, թէպէտ եւ ջանիւ. միայն թէ շնորհակալ ոք մերոցս գտանիցի աշխատութեանցս:
 # transliterated_text = Baycʻ sakayn sksaycʻ, tʻēpēt ew ǰaniw: miayn tʻē šnorhakal okʻ merocʻs gtanicʻi ašxatowtʻeancʻs.
 # translated_text = Nonetheless I shall begin, though with an effort, provided that one of our countrymen be found who will be grateful for these labors:
@@ -14014,7 +14014,7 @@
 17	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	16	det	_	SpaceAfter=No|Translit=s|LTranslit=s|Gloss=this
 18	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = 06Khor1_3:13
+# sent_id = MX.Hist_I_3.13
 # text = Եւ սկսայց՝ յորոց եւ այլքն, որք յեկեղեցւոջ եւ ոյք ըստ Քրիստոսի, աւելորդ համարելով զարտաքնոցն երկրորդել յաղագս սկզբանն առասպելս, բայց եթէ զկնիսն ժամանակս ինչ արդեաւք եւ զարս յայտնիս, որում եւ աստուածայինքն ի ճահ գայցեն պատմութիւնք բանից. մինչեւ ի հարկէ երթեալ հասանիցեմք ի հեթանոսականսն զրուցատրութիւնս. սակայն եւ ի նոցանէ՝ զոր ինչ հաւաստին կարծեմք, առնուլ:
 # transliterated_text = Ew sksaycʻ; yorocʻ ew aylkʻn, orkʻ yekełecʻwoǰ ew oykʻ əst Kʻristosi, awelord hamarelov zartakʻnocʻn erkrordel yałags skzbann aṙaspels, baycʻ etʻē zknisn žamanaks inčʻ ardeawkʻ ew zars yaytnis, orowm ew astowacayinkʻn i čah gaycʻen patmowtʻiwnkʻ banicʻ: minčʻew i harkē ertʻeal hasanicʻemkʻ i hetʻanosakansn zrowcʻatrowtʻiwns: sakayn ew i nocʻanē; zor inčʻ hawastin karcemkʻ, aṙnowl.
 # translated_text = And I shall begin where the others did who were in the church and Christians, considering it superfluous to repeat the fables of pagans concerning the beginnings, though I shall mention some of the later times and the famous men where the divine Scriptures concur until we necessarily reach the pagan narratives; and from these we shall take whatever we consider reliable:
