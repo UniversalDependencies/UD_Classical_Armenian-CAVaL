@@ -52,7 +52,7 @@ UD_Classical_Armenian-CAVaL data conforms to [CoNLL-U](http://universaldependenc
 Data available since: UD v2.13
 License: CC BY-NC-ND 4.0
 Includes text: yes
-Genre: bible, fiction
+Genre: bible fiction
 Lemmas: converted with corrections
 UPOS: converted with corrections
 XPOS: not available
