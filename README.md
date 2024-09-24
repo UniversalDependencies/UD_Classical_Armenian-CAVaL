@@ -57,7 +57,7 @@ Lemmas: converted with corrections
 UPOS: converted with corrections
 XPOS: not available
 Features: converted with corrections
-Relations: automatic with corrections | converted with corrections
+Relations: converted with corrections
 Contributors: Kocharov, Petr; Kharatyan, Lilit
 Contributing: here
 Contact: petr.kocharov@uni-wuerzburg.de
