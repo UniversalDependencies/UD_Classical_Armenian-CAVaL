@@ -11598,20 +11598,20 @@
 14	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	13	det	_	Translit=n|LTranslit=n|Gloss=that
 15	ձեր	դուք	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	13	nmod	_	Translit=jer|LTranslit=dowkʻ|Gloss=you_(pl.)
 16	զ	զ	ADP	_	Definite=Def	17	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-17	մանանայ	մանանայ	NOUN	_	Case=Acc|Number=Sing	12	obj	_	Translit=mananay|LTranslit=mananay|Gloss=manna
+17	մանանայ	մանանայ	NOUN	_	Case=Acc|Number=Sing	12	obj	_	SpaceAfter=No|Translit=mananay|LTranslit=mananay|Gloss=manna
 18	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	17	det	_	Translit=n|LTranslit=n|Gloss=that
-18	եւ	եւ	CCONJ	_	_	19	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-19	մեռան	մեռանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	12	conj	_	SpaceAfter=No|Translit=meṙan|LTranslit=meṙanel|Gloss=die
-20	.	.	PUNCT	_	_	27	punct	_	Translit=.|LTranslit=.
-21	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	22	nsubj	_	Translit=or|LTranslit=or|Gloss=which
-22	ուտէ	ուտել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	csubj	_	Translit=owtē|LTranslit=owtel|Gloss=eat
-23	զ	զ	ADP	_	Definite=Def	24	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-24	հացս	հաց	NOUN	_	Case=Acc|Number=Plur	22	obj	_	Translit=hacʻs|LTranslit=hacʻ|Gloss=bread
-25	զ	զ	ADP	_	Definite=Def	26	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-26	այս	այս	DET	_	Case=Acc|Deixis=Prox|Number=Sing|PronType=Dem	24	det	_	Translit=ays|LTranslit=ays|Gloss=this
-27	կեցցէ	կեալ	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	conj	_	Translit=kecʻcʻē|LTranslit=keal|Gloss=live
-28	յաւիտեան	յաւիտեան	NOUN	_	Case=Dat|Number=Sing	27	iobj	_	SpaceAfter=No|Translit=yawitean|LTranslit=yawitean|Gloss=eternity
-29	:	:	PUNCT	_	_	1	punct	_	Translit=:|LTranslit=:
+19	եւ	եւ	CCONJ	_	_	20	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+20	մեռան	մեռանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	12	conj	_	SpaceAfter=No|Translit=meṙan|LTranslit=meṙanel|Gloss=die
+21	.	.	PUNCT	_	_	28	punct	_	Translit=.|LTranslit=.
+22	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	23	nsubj	_	Translit=or|LTranslit=or|Gloss=which
+23	ուտէ	ուտել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	csubj	_	Translit=owtē|LTranslit=owtel|Gloss=eat
+24	զ	զ	ADP	_	Definite=Def	25	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+25	հացս	հաց	NOUN	_	Case=Acc|Number=Plur	23	obj	_	Translit=hacʻs|LTranslit=hacʻ|Gloss=bread
+26	զ	զ	ADP	_	Definite=Def	27	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+27	այս	այս	DET	_	Case=Acc|Deixis=Prox|Number=Sing|PronType=Dem	25	det	_	Translit=ays|LTranslit=ays|Gloss=this
+28	կեցցէ	կեալ	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	conj	_	Translit=kecʻcʻē|LTranslit=keal|Gloss=live
+29	յաւիտեան	յաւիտեան	NOUN	_	Case=Dat|Number=Sing	28	iobj	_	SpaceAfter=No|Translit=yawitean|LTranslit=yawitean|Gloss=eternity
+30	:	:	PUNCT	_	_	1	punct	_	Translit=:|LTranslit=:
 
 # sent_id = JOHN_6.59
 # text = Զայս ասաց ի ժողովրդեանն յուսուցանելն ի Կափառնայում:
@@ -11721,10 +11721,10 @@
 17	:	:	PUNCT	_	_	5	punct	_	Translit=:|LTranslit=:
 
 # sent_id = JOHN_6.63
-# text = Հոգին է կենդանարար, մարմին ինչ ոչ աւգնէ. զբանն զոր ես խաւսեցայ ընդ ձեզ` հոգի է եւ կեանք:
-# transliterated_text = Hogin ē kendanarar, marmin inčʻ očʻ awgnē. zbann zor es xawsecʻay ənd jez` hogi ē ew keankʻ:
+# text = Հոգին է կենդանարար, մարմին ինչ ոչ աւգնէ. զբանն զոր ես խաւսեցայ ընդ ձեզ հոգի է եւ կեանք:
+# transliterated_text = Hogin ē kendanarar, marmin inčʻ očʻ awgnē. zbann zor es xawsecʻay ənd jez hogi ē ew keankʻ:
 # translated_text = It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life:
-1	Հոգի	հոգի	NOUN	_	Case=Nom|Number=Sing	0	root	_	Translit=Hogi|LTranslit=hogi|Gloss=soul
+1	Հոգի	հոգի	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=Hogi|LTranslit=hogi|Gloss=soul
 2	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	2	det	_	Translit=n|LTranslit=n|Gloss=that
 3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Translit=ē|LTranslit=em|Gloss=be
 4	կենդանարար	կենդանարար	ADJ	_	Case=Nom|Number=Sing	1	nsubj	_	SpaceAfter=No|Translit=kendanarar|LTranslit=kendanarar|Gloss=make_alive
