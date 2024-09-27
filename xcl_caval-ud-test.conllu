@@ -11725,7 +11725,7 @@
 # transliterated_text = Hogin ē kendanarar, marmin inčʻ očʻ awgnē. zbann zor es xawsecʻay ənd jez hogi ē ew keankʻ:
 # translated_text = It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life:
 1	Հոգի	հոգի	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No|Translit=Hogi|LTranslit=hogi|Gloss=soul
-2	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	2	det	_	Translit=n|LTranslit=n|Gloss=that
+2	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	1	det	_	Translit=n|LTranslit=n|Gloss=that
 3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	Translit=ē|LTranslit=em|Gloss=be
 4	կենդանարար	կենդանարար	ADJ	_	Case=Nom|Number=Sing	1	nsubj	_	SpaceAfter=No|Translit=kendanarar|LTranslit=kendanarar|Gloss=make_alive
 5	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
