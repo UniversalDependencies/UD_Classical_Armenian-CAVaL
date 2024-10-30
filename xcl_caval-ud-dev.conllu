@@ -31,7 +31,7 @@
 27	որոյ	որ	PRON	_	Case=Gen|Number=Sing|PronType=Rel	28	obl	_	Translit=oroy|LTranslit=or|Gloss=which
 28	ասացաւ	ասել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	24	acl	_	Translit=asacʻaw|LTranslit=asel|Gloss=say
 29	ի	ի	ADP	_	_	31	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
-30	ձեռն	ձեռն	NOUN	_	_	29	fixed	_	Translit=jeṙn|LTranslit=jeṙn|Gloss=by_means_of
+30	ձեռն	ձեռն	ADP	_	_	29	fixed	_	Translit=jeṙn|LTranslit=jeṙn|Gloss=by_hand
 31	Էսայայ	Էսայի	PROPN	_	Case=Gen|Number=Sing	28	obl	_	Translit=Ēsayay|LTranslit=Ēsayi|Gloss=Ēsayi
 32	մարգարէի	մարգարէ	NOUN	_	Case=Gen|Number=Sing	31	appos	_	Translit=margarēi|LTranslit=margarē|Gloss=prophet
 33	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	34	nsubj	_	Translit=or|LTranslit=or|Gloss=which
@@ -797,7 +797,7 @@
 23	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	24	nsubj:pass	_	Translit=or|LTranslit=or|Gloss=which
 24	ասացաւ	ասել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	21	acl	_	Translit=asacʻaw|LTranslit=asel|Gloss=say
 25	ի	ի	ADP	_	_	27	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
-26	ձեռն	ձեռն	NOUN	_	_	25	fixed	_	Translit=jeṙn|LTranslit=jeṙn|Gloss=by_means_of
+26	ձեռն	ձեռն	ADP	_	_	25	fixed	_	Translit=jeṙn|LTranslit=jeṙn|Gloss=by_hand
 27	Էսայայ	Էսայի	PROPN	_	Case=Gen|Number=Sing	24	obl	_	Translit=Ēsayay|LTranslit=Ēsayi|Gloss=Ēsayi
 28	մարգարէի	մարգարէ	NOUN	_	Case=Gen|Number=Sing	27	appos	_	SpaceAfter=No|Translit=margarēi|LTranslit=margarē|Gloss=prophet
 29	՝	՝	PUNCT	_	_	30	punct	_	Translit=;|LTranslit=;
@@ -3847,7 +3847,7 @@
 20	՝	՝	PUNCT	_	_	24	punct	_	Translit=;|LTranslit=;
 21	եւ	եւ	CCONJ	_	_	24	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 22	զ	զ	ADP	_	Definite=Def	23	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-23	ահի	ահ	NOUN	_	Case=Loc|Number=Sing	24	obl	_	Translit=ahi|LTranslit=ah|Gloss=fear
+23	ահի	ահ	NOUN	_	Case=Gen|Number=Sing	24	obl	_	Translit=ahi|LTranslit=ah|Gloss=fear
 24	հարան	հարկանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	conj	_	SpaceAfter=No|Translit=haran|LTranslit=harkanel|Gloss=strike
 25	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
@@ -4865,7 +4865,7 @@
 50	երբեք	երբէք	ADV	_	_	51	advmod	_	Translit=erbekʻ|LTranslit=erbēkʻ|Gloss=never
 51	հարցես	հարկանել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	26	conj	_	Translit=harcʻes|LTranslit=harkanel|Gloss=strike
 52	զ	զ	ADP	_	Definite=Def	53	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-53	քարի	քար	NOUN	_	Case=Loc|Number=Sing	51	obl	_	Translit=kʻari|LTranslit=kʻar|Gloss=rock
+53	քարի	քար	NOUN	_	Case=Gen|Number=Sing	51	obl	_	Translit=kʻari|LTranslit=kʻar|Gloss=rock
 54	զ	զ	ADP	_	Definite=Def	55	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 55	ոտն	ոտն	NOUN	_	Case=Acc|Number=Sing	51	obj	_	Translit=otn|LTranslit=otn|Gloss=foot
 56	քո	դու	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	55	nmod	_	SpaceAfter=No|Translit=kʻo|LTranslit=dow|Gloss=you_(sg.)
@@ -10875,7 +10875,7 @@
 22	ի	ի	ADP	_	_	25	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 23	դէպ	դէպ	ADP	_	_	22	fixed	_	Translit=dēp|LTranslit=dēp|Gloss=towards
 24	ելանէին	ելանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	advcl	_	Translit=elanēin|LTranslit=elanel|Gloss=go_out
-25	Բելայ	Բէլ	PROPN	_	Case=Nom|Number=Sing	24	obl	_	SpaceAfter=No|Translit=Belay|LTranslit=Bēl|Gloss=Bēl
+25	Բելայ	Բէլ	PROPN	_	Case=Dat|Number=Sing	24	obl	_	SpaceAfter=No|Translit=Belay|LTranslit=Bēl|Gloss=Bēl
 26	՝	՝	PUNCT	_	_	27	punct	_	Translit=;|LTranslit=;
 27	բռնանալ	բռնանալ	VERB	_	VerbForm=Inf	24	xcomp	_	Translit=bṙnanal|LTranslit=bṙnanal|Gloss=violent_toward
 28	ունել	ունել	VERB	_	VerbForm=Inf	27	parataxis	_	Translit=ownel|LTranslit=ownel|Gloss=have
