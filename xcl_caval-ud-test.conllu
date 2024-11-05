@@ -11020,7 +11020,7 @@
 14	այղ	այլ	CCONJ	_	_	16	cc	_	Translit=aył|LTranslit=ayl|Gloss=but
 15	զ	զ	ADP	_	Definite=Def	16	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 16	կամս	կամք	NOUN	_	Case=Acc|Number=Plur	10	conj	_	Translit=kams|LTranslit=kamkʻ|Gloss=will
-17	այնորիկ	այն	DET	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	16	det	_	Translit=aynorik|LTranslit=ayn|Gloss=that
+17	այնորիկ	այն	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	16	nmod	_	Translit=aynorik|LTranslit=ayn|Gloss=that
 18	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	19	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 19	առաքեաց	առաքել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	acl	_	SpaceAfter=No|Translit=aṙakʻeacʻ|LTranslit=aṙakʻel|Gloss=send
 20	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	18	det	_	Translit=n|LTranslit=n|Gloss=that
@@ -13384,7 +13384,7 @@
 23	գործառնութեան	գործառնութիւն	NOUN	_	Case=Gen|Number=Sing	21	nmod	_	SpaceAfter=No|Translit=gorcaṙnowtʻean|LTranslit=gorcaṙnowtʻiwn|Gloss=action
 24	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	23	det	_	SpaceAfter=No|Translit=s|LTranslit=s|Gloss=this
 25	,	,	PUNCT	_	_	23	punct	_	Translit=,|LTranslit=,
-26	զ	զ	ADP	_	Definite=Def	32	dislocated	_	SpaceAfter=No|Translit=z|LTranslit=z
+26	զ	զ	ADP	_	Definite=Def	30	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 27	վասն	վասն	ADP	_	_	28	case	_	Translit=vasn|LTranslit=vasn|Gloss=about/because_of
 28	նոցա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Plur|PronType=Dem	30	obl	_	Translit=nocʻa|LTranslit=na|Gloss=that
 29	կշտամբութեան	կշտամբութիւն	NOUN	_	Case=Gen|Number=Sing	28	nmod	_	Translit=kštambowtʻean|LTranslit=kštambowtʻiwn|Gloss=scolding

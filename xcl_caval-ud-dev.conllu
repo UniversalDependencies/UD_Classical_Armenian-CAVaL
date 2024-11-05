@@ -1956,7 +1956,7 @@
 4	ձեզ	դուք	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	SpaceAfter=No|Translit=jez|LTranslit=dowkʻ|Gloss=you_(pl.)
 5	՝	՝	PUNCT	_	_	20	punct	_	Translit=;|LTranslit=;
 6	եթե	եթե	SCONJ	_	_	20	mark	_	Translit=etʻe|LTranslit=etʻe|Gloss=whether
-7	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	17	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+7	ամենայն	ամենայն	PRON	_	Case=Nom|Number=Sing|PronType=Tot	20	dislocated	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 8	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 9	արձակէ	արձակել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl	_	Translit=arjakē|LTranslit=arjakel|Gloss=release
 10	զ	զ	ADP	_	Definite=Def	11	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -4644,7 +4644,7 @@
 7	յ	ի	ADP	_	_	8	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
 8	աւուրս	աւր	NOUN	_	Case=Loc|Number=Plur	6	obl	_	SpaceAfter=No|Translit=awowrs|LTranslit=awr|Gloss=day
 9	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	8	det	_	Translit=n|LTranslit=n|Gloss=that
-10	յ	ի	ADP	_	_	11	advcl	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
+10	յ	ի	ADP	_	_	11	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
 11	այնոսիկ	այն	DET	_	Case=Loc|Deixis=Remt|Number=Plur|PronType=Dem	8	det	_	SpaceAfter=No|Translit=aynosik|LTranslit=ayn|Gloss=that
 12	:	:	PUNCT	_	_	18	punct	_	Translit=.|LTranslit=.
 13	Եւ	եւ	CCONJ	_	_	18	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
@@ -8881,7 +8881,7 @@
 11	արարից	առնել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	8	advcl	_	Translit=araricʻ|LTranslit=aṙnel|Gloss=make
 12	զ	զ	ADP	_	Definite=Def	13	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 13	կամս	կամք	NOUN	_	Case=Acc|Number=Plur	11	obj	_	Translit=kams|LTranslit=kamkʻ|Gloss=will
-14	այնորիկ	այն	DET	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	13	det	_	Translit=aynorik|LTranslit=ayn|Gloss=that
+14	այնորիկ	այն	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	13	nmod	_	Translit=aynorik|LTranslit=ayn|Gloss=that
 15	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	16	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 16	առաքեաց	առաքել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	acl	_	SpaceAfter=No|Translit=aṙakʻeacʻ|LTranslit=aṙakʻel|Gloss=send
 17	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	15	det	_	Translit=n|LTranslit=n|Gloss=that
@@ -9983,7 +9983,7 @@
 46	որդի	որդի	NOUN	_	Case=Acc|Number=Sing	44	obj	_	SpaceAfter=No|Translit=ordi|LTranslit=ordi|Gloss=son
 47	.	.	PUNCT	_	_	52	punct	_	Translit=:|LTranslit=:
 48	եւ	եւ	CCONJ	_	_	52	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-49	զ	զ	ADP	_	Definite=Def	50	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+49	զ	զ	ADP	_	Definite=Def	51	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 50	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	51	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 51	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	52	obj	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
 52	ցուցանէ	ցուցանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	44	conj	_	Translit=cʻowcʻanē|LTranslit=cʻowcʻanel|Gloss=show
@@ -9991,7 +9991,7 @@
 54	զ	զ	ADP	_	Definite=Def	55	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 55	որ	որ	PRON	_	Case=Acc|Number=Sing|PronType=Rel	57	obj	_	Translit=or|LTranslit=or|Gloss=which
 56	ինքն	ինքն	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	57	nsubj	_	Translit=inkʻn|LTranslit=inkʻn|Gloss=he/she/self
-57	առնէ	առնել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	50	acl	_	SpaceAfter=No|Translit=aṙnē|LTranslit=aṙnel|Gloss=make
+57	առնէ	առնել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	51	acl	_	SpaceAfter=No|Translit=aṙnē|LTranslit=aṙnel|Gloss=make
 58	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = JOHN_5.20b-21
@@ -10298,7 +10298,7 @@
 20	այղ	այլ	CCONJ	_	_	22	cc	_	Translit=aył|LTranslit=ayl|Gloss=but
 21	զ	զ	ADP	_	Definite=Def	22	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 22	կամս	կամք	NOUN	_	Case=Acc|Number=Plur	17	conj	_	Translit=kams|LTranslit=kamkʻ|Gloss=will
-23	այնորիկ	այն	DET	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	22	det	_	Translit=aynorik|LTranslit=ayn|Gloss=that
+23	այնորիկ	այն	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	22	nmod	_	Translit=aynorik|LTranslit=ayn|Gloss=that
 24	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	25	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 25	առաքեաց	առաքել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	acl	_	SpaceAfter=No|Translit=aṙakʻeacʻ|LTranslit=aṙakʻel|Gloss=send
 26	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	25	det	_	Translit=n|LTranslit=n|Gloss=that
