@@ -5,7 +5,7 @@
 1	Յ	ի	ADP	_	_	2	case	_	SpaceAfter=No|Translit=Y|LTranslit=i|LId=ի-2|Gloss=in
 2	աւուրս	աւր	NOUN	_	Case=Loc|Number=Plur	5	obl	_	Translit=awowrs|LTranslit=awr|Gloss=day
 3	յ	ի	ADP	_	_	4	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
-4	այնոսիկ	այն	DET	_	Case=Loc|Deixis=Remt|Number=Plur|PronType=Dem	2	amod	_	Translit=aynosik|LTranslit=ayn|Gloss=that
+4	այնոսիկ	այն	DET	_	Case=Loc|Deixis=Remt|Number=Plur|PronType=Dem	2	det	_	Translit=aynosik|LTranslit=ayn|Gloss=that
 5	գայ	գալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=gay|LTranslit=gal|Gloss=come
 6	Յովհաննէս	Յովհաննէս	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	Translit=Yovhannēs|LTranslit=Yovhannēs|Gloss=Yovhannēs
 7	մկրտիչ	մկրտիչ	NOUN	_	Case=Nom|Number=Sing	6	appos	_	Translit=mkrtičʻ|LTranslit=mkrtičʻ|Gloss=baptist
@@ -94,15 +94,15 @@
 2	ելանեին	ելանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=elanein|LTranslit=elanel|Gloss=go_out
 3	առ	առ	ADP	_	_	4	case	_	Translit=aṙ|LTranslit=aṙ|Gloss=by
 4	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	2	obl	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
-5	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	6	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+5	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	6	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 6	Երուսաղէմացիք	Երուսաղեմացի	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	SpaceAfter=No|Translit=Erowsałēmacʻikʻ|LTranslit=Erowsałemacʻi|Gloss=inhabitant_of_Jerusalem
 7	՝	՝	PUNCT	_	_	10	punct	_	Translit=;|LTranslit=;
 8	եւ	եւ	CCONJ	_	_	10	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-9	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	10	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+9	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	10	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 10	Հրէաստան	Հրէաստան	PROPN	_	Case=Nom|Number=Sing	6	conj	_	SpaceAfter=No|Translit=Hrēastan|LTranslit=Hrēastan|Gloss=Hrēastan
 11	՝	՝	PUNCT	_	_	14	punct	_	Translit=;|LTranslit=;
 12	եւ	եւ	CCONJ	_	_	14	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-13	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	14	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+13	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	14	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 14	կողմն	կողմն	NOUN	_	Case=Nom|Number=Sing	6	conj	_	Translit=kołmn|LTranslit=kołmn|Gloss=side
 15	Յորդանանու	Յորդանան	PROPN	_	Case=Gen|Number=Sing	14	nmod	_	SpaceAfter=No|Translit=Yordananow|LTranslit=Yordanan|Gloss=Yordanan
 16	,	,	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,
@@ -199,7 +199,7 @@
 8	ի	ի	ADP	_	_	9	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 9	քարանց	քար	NOUN	_	Case=Abl|Number=Plur	12	obl	_	Translit=kʻarancʻ|LTranslit=kʻar|Gloss=rock
 10	յ	ի	ADP	_	_	11	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-3|Gloss=from
-11	այսցանէ	այս	DET	_	Case=Abl|Deixis=Prox|Number=Plur|PronType=Dem	9	amod	_	Translit=ayscʻanē|LTranslit=ays|Gloss=this
+11	այսցանէ	այս	DET	_	Case=Abl|Deixis=Prox|Number=Plur|PronType=Dem	9	det	_	Translit=ayscʻanē|LTranslit=ays|Gloss=this
 12	յարուցանել	յարուցանել	VERB	_	VerbForm=Inf|Voice=Cau	5	xcomp	_	Translit=yarowcʻanel|LTranslit=yarowcʻanel|Gloss=raise
 13	որդիս	որդի	NOUN	_	Case=Acc|Number=Sing	12	obj	_	Translit=ordis|LTranslit=ordi|Gloss=son
 14	Աբրահամու	Աբրահամ	PROPN	_	Case=Dat|Number=Sing	12	iobj	_	SpaceAfter=No|Translit=Abrahamow|LTranslit=Abraham|Gloss=Abraham
@@ -218,7 +218,7 @@
 # text = ամենայն ծառ որ ոչ առնիցէ զպտուղ բարի. հատանի եւ ի հուր արկանի՝
 # transliterated_text = amenayn caṙ or očʻ aṙnicʻē zptowł bari: hatani ew i howr arkani;
 # translated_text = Every tree which bringeth not forth good fruit is hewn down, and cast into the fire.
-1	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	2	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+1	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	2	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 2	ծառ	ծառ	NOUN	_	Case=Nom|Number=Sing	10	nsubj:pass	_	Translit=caṙ|LTranslit=caṙ|Gloss=tree
 3	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	5	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 4	ոչ	ոչ	PART	_	Polarity=Neg	5	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
@@ -295,7 +295,7 @@
 3	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	2	det	_	Translit=n|LTranslit=n|Gloss=that
 4	ի	ի	ADP	_	_	5	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
 5	ձեռին	ձեռն	NOUN	_	Case=Loc|Number=Sing	9	csubj	_	Translit=jeṙin|LTranslit=jeṙn|Gloss=hand
-6	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	5	amod	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
+6	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
 7	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
 8	եւ	եւ	CCONJ	_	_	9	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 9	սրբեսցէ	սրբել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=srbescʻē|LTranslit=srbel|Gloss=cleanse
@@ -390,7 +390,7 @@
 17	մեզ	մեք	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	15	iobj	_	Translit=mez|LTranslit=mekʻ|Gloss=we
 18	լնուլ	լնուլ	VERB	_	VerbForm=Inf	15	xcomp	_	Translit=lnowl|LTranslit=lnowl|Gloss=fill
 19	զ	զ	ADP	_	Definite=Def	21	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-20	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	21	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+20	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	21	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 21	արդարութիւն	արդարութիւն	NOUN	_	Case=Acc|Number=Sing	18	obj	_	SpaceAfter=No|Translit=ardarowtʻiwn|LTranslit=ardarowtʻiwn|Gloss=justice
 22	՝	՝	PUNCT	_	_	26	punct	_	Translit=;|LTranslit=;
 23	եւ	եւ	CCONJ	_	_	26	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -522,7 +522,7 @@
 15	զի	զի	SCONJ	_	_	19	mark	_	Translit=zi|LTranslit=zi|Gloss=because
 16	քարինք	քար	NOUN	_	Case=Nom|Number=Plur	19	nsubj	_	SpaceAfter=No|Translit=kʻarinkʻ|LTranslit=kʻar|Gloss=rock
 17	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	16	det	_	Translit=s|LTranslit=s|Gloss=this
-18	այսոքիկ	այս	DET	_	Case=Nom|Deixis=Prox|Number=Plur|PronType=Dem	16	amod	_	Translit=aysokʻik|LTranslit=ays|Gloss=this
+18	այսոքիկ	այս	DET	_	Case=Nom|Deixis=Prox|Number=Plur|PronType=Dem	16	det	_	Translit=aysokʻik|LTranslit=ays|Gloss=this
 19	հաց	հաց	NOUN	_	Case=Nom|Number=Sing	14	ccomp	_	Translit=hacʻ|LTranslit=hacʻ|Gloss=bread
 20	լինիցին	լինիմ	AUX	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass	19	cop	_	SpaceAfter=No|Translit=linicʻin|LTranslit=linim|Gloss=become
 21	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
@@ -547,7 +547,7 @@
 14	կեցցէ	կեալ	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	7	ccomp	_	Translit=kecʻcʻē|LTranslit=keal|Gloss=live
 15	մարդ	մարդ	NOUN	_	Case=Nom|Number=Sing	14	nsubj	_	Translit=mard|LTranslit=mard|Gloss=man
 16	այլ	այլ	CCONJ	_	_	18	cc	_	Translit=ayl|LTranslit=ayl|Gloss=but
-17	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	18	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+17	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	18	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 18	բանիւ	բան	NOUN	_	Case=Ins|Number=Sing	12	conj	_	Translit=baniw|LTranslit=ban|Gloss=word
 19	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	20	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 20	ելանէ	ելանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl	_	Translit=elanē|LTranslit=elanel|Gloss=go_out
@@ -604,7 +604,7 @@
 42	՝	՝	PUNCT	_	_	46	punct	_	Translit=;|LTranslit=;
 43	թե	թե	SCONJ	_	_	46	mark	_	Translit=tʻe|LTranslit=tʻe|Gloss=whether
 44	հրեշտեկաց	հրեշտակ	NOUN	_	Case=Dat|Number=Plur	46	iobj	_	Translit=hreštekacʻ|LTranslit=hreštak|Gloss=angel
-45	իւրոց	իւր	DET	_	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	44	amod	_	Translit=iwrocʻ|LTranslit=iwr|Gloss=own
+45	իւրոց	իւր	DET	_	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	44	det	_	Translit=iwrocʻ|LTranslit=iwr|Gloss=own
 46	պատուիրեալ	պատուիրել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	32	ccomp	_	Translit=patowireal|LTranslit=patowirel|Gloss=order
 47	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	46	aux	_	Translit=ē|LTranslit=em|Gloss=be
 48	վասն	վասն	ADP	_	_	49	case	_	Translit=vasn|LTranslit=vasn|Gloss=about/because_of
@@ -671,7 +671,7 @@
 14	ցուցանէ	ցուցանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	Translit=cʻowcʻanē|LTranslit=cʻowcʻanel|Gloss=show
 15	նմա	նա	PRON	_	Case=Dat|Deixis=Remt|Number=Sing|PronType=Dem	14	iobj	_	Translit=nma|LTranslit=na|Gloss=he/she/it/that
 16	զ	զ	ADP	_	Definite=Def	18	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-17	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	18	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+17	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	18	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 18	թագաւորութիւնս	թագաւորութիւն	NOUN	_	Case=Acc|Number=Plur	14	obj	_	Translit=tʻagaworowtʻiwns|LTranslit=tʻagaworowtʻiwn|Gloss=kingdom
 19	աշխարհի	աշխարհ	NOUN	_	Case=Gen|Number=Sing	18	nmod	_	SpaceAfter=No|Translit=ašxarhi|LTranslit=ašxarh|Gloss=world
 20	.	.	PUNCT	_	_	23	punct	_	Translit=:|LTranslit=:
@@ -686,7 +686,7 @@
 29	՝	՝	PUNCT	_	_	34	punct	_	Translit=;|LTranslit=;
 30	զ	զ	ADP	_	Definite=Def	31	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 31	այս	այս	PRON	_	Case=Acc|Deixis=Prox|Number=Sing|PronType=Dem	34	obj	_	Translit=ays|LTranslit=ays|Gloss=this
-32	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	31	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+32	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	31	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 33	քեզ	դու	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	34	iobj	_	Translit=kʻez|LTranslit=dow|Gloss=you_(sg.)
 34	տաց	տալ	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	26	ccomp	_	SpaceAfter=No|Translit=tacʻ|LTranslit=tal|Gloss=give
 35	,	,	PUNCT	_	_	39	punct	_	Translit=,|LTranslit=,
@@ -718,7 +718,7 @@
 15	,	,	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,
 16	Տեառն	Տէր	NOUN	_	Case=Dat|Number=Sing	20	iobj	_	Translit=Teaṙn|LTranslit=Tēr|Gloss=Lord
 17	Աստուածոյ	Աստուած	NOUN	_	Case=Dat|Number=Sing	16	appos	_	Translit=Astowacoy|LTranslit=Astowac|Gloss=God
-18	քում	քո	DET	_	Case=Dat|Number=Sing|Person=2|Poss=Yes|PronType=Prs	17	amod	_	Translit=kʻowm|LTranslit=kʻo|Gloss=your_(sg.)
+18	քում	քո	DET	_	Case=Dat|Number=Sing|Person=2|Poss=Yes|PronType=Prs	17	det	_	Translit=kʻowm|LTranslit=kʻo|Gloss=your_(sg.)
 19	երկիր	երկիր	NOUN	_	Case=Acc|Number=Sing	20	obj	_	Translit=erkir|LTranslit=erkir|Gloss=earth
 20	պագցես	պագանել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	13	ccomp	_	SpaceAfter=No|Translit=pagcʻes|LTranslit=paganel|Gloss=worship
 21	,	,	PUNCT	_	_	26	punct	_	Translit=,|LTranslit=,
@@ -845,7 +845,7 @@
 # transliterated_text = Yaynm hetē sksaw kʻarozel Yisows ew asel, apašxarecʻēkʻ; zi merjeal ē arkʻayowtʻiwn erknicʻ.
 # translated_text = From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.
 1	Յ	ի	ADP	_	_	3	case	_	SpaceAfter=No|Translit=Y|LTranslit=i|LId=ի-3|Gloss=from
-2	այնմ	այն	DET	_	Case=Abl|Deixis=Remt|Number=Sing|PronType=Dem	3	amod	_	Translit=aynm|LTranslit=ayn|Gloss=that
+2	այնմ	այն	DET	_	Case=Abl|Deixis=Remt|Number=Sing|PronType=Dem	3	det	_	Translit=aynm|LTranslit=ayn|Gloss=that
 3	հետէ	հետ	NOUN	_	Case=Abl|Number=Sing	4	obl	_	Translit=hetē|LTranslit=het|Gloss=following
 4	սկսաւ	սկսանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=sksaw|LTranslit=sksanel|Gloss=begin
 5	քարոզել	քարոզել	VERB	_	VerbForm=Inf	4	xcomp	_	Translit=kʻarozel|LTranslit=kʻarozel|Gloss=preach
@@ -1006,7 +1006,7 @@
 1	Եւ	եւ	CCONJ	_	_	2	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
 2	շրջէր	շրջել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=šrǰēr|LTranslit=šrǰel|Gloss=surround
 3	ընդ	ընդ	ADP	_	_	5	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
-4	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	5	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+4	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	5	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 5	կողմն	կողմն	NOUN	_	Case=Acc|Number=Sing	2	obl	_	Translit=kołmn|LTranslit=kołmn|Gloss=side
 6	Գաղիղեացւոց	Գաղիղեացի	NOUN	_	Case=Gen|Number=Plur	5	nmod	_	SpaceAfter=No|Translit=Gałiłeacʻwocʻ|LTranslit=Gałiłeacʻi|Gloss=Galilean
 7	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
@@ -1025,11 +1025,11 @@
 20	եւ	եւ	CCONJ	_	_	21	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 21	բժշկէր	բժշկել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Translit=bžškēr|LTranslit=bžškel|Gloss=heal
 22	զ	զ	ADP	_	Definite=Def	24	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-23	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	24	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+23	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	24	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 24	հիւանդութիւնս	հիւանդութիւն	NOUN	_	Case=Acc|Number=Plur	21	obj	_	Translit=hiwandowtʻiwns|LTranslit=hiwandowtʻiwn|Gloss=illness
 25	եւ	եւ	CCONJ	_	_	28	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 26	զ	զ	ADP	_	Definite=Def	28	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-27	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	28	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+27	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	28	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 28	ախտս	ախտ	NOUN	_	Case=Acc|Number=Plur	24	conj	_	Translit=axts|LTranslit=axt|Gloss=disease
 29	ի	ի	ADP	_	_	30	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
 30	ժողովրդեան	ժողովուրդ	NOUN	_	Case=Loc|Number=Sing	24	conj	_	SpaceAfter=No|Translit=žołovrdean|LTranslit=žołovowrd|Gloss=people
@@ -1046,7 +1046,7 @@
 4	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	3	det	_	Translit=n|LTranslit=n|Gloss=that
 5	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	3	nmod	_	Translit=nora|LTranslit=na|Gloss=he/she/it/that
 6	ընդ	ընդ	ADP	_	_	8	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
-7	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	8	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+7	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	8	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 8	երկիր	երկիր	NOUN	_	Case=Acc|Number=Sing	2	obl	_	SpaceAfter=No|Translit=erkir|LTranslit=erkir|Gloss=earth
 9	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	8	det	_	Translit=n|LTranslit=n|Gloss=that
 10	Ասորւոց	Ասորի	ADJ	_	Case=Gen|Number=Plur	8	amod	_	SpaceAfter=No|Translit=Asorwocʻ|LTranslit=Asori|Gloss=Syrian
@@ -1061,7 +1061,7 @@
 3	առ	առ	ADP	_	_	4	case	_	Translit=aṙ|LTranslit=aṙ|Gloss=by
 4	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	2	obl	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
 5	զ	զ	ADP	_	Definite=Def	7	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-6	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	7	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+6	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	7	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 7	հիւանդս	հիւանդ	ADJ	_	Case=Acc|Number=Plur	2	obj	_	SpaceAfter=No|Translit=hiwands|LTranslit=hiwand|Gloss=sick
 8	.	.	PUNCT	_	_	10	punct	_	Translit=:|LTranslit=:
 9	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	10	nsubj:pass	_	Translit=or|LTranslit=or|Gloss=which
@@ -1101,7 +1101,7 @@
 3	զհետ	զհետ	ADP	_	_	4	case	_	Translit=zhet|LTranslit=zhet|Gloss=after
 4	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	2	obl	_	Translit=nora|LTranslit=na|Gloss=he/she/it/that
 5	ժողովուրդք	ժողովուրդ	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	Translit=žołovowrdkʻ|LTranslit=žołovowrd|Gloss=people
-6	բազումք	բազում	DET	_	Case=Nom|Number=Plur	5	amod	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
+6	բազումք	բազում	DET	_	Case=Nom|Number=Plur	5	det	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
 7	ի	ի	ADP	_	_	8	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 8	Գաղիղեէ	Գաղիղեա	PROPN	_	Case=Abl|Number=Sing	2	obl	_	SpaceAfter=No|Translit=Gałiłeē|LTranslit=Gałiłea|Gloss=Gałiłea
 9	.	.	PUNCT	_	_	12	punct	_	Translit=:|LTranslit=:
@@ -1306,7 +1306,7 @@
 10	եւ	եւ	CCONJ	_	_	11	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 11	ասիցեն	ասել	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	5	conj	_	Translit=asicʻen|LTranslit=asel|Gloss=say
 12	զ	զ	ADP	_	Definite=Def	14	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-13	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	14	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+13	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	14	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 14	բան	բան	NOUN	_	Case=Acc|Number=Sing	11	obj	_	Translit=ban|LTranslit=ban|Gloss=word
 15	չար	չար	ADJ	_	Case=Acc|Number=Sing	14	amod	_	Translit=čʻar|LTranslit=čʻar|Gloss=evil
 16	զ	զ	ADP	_	Definite=Def	17	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -1535,7 +1535,7 @@
 # text = Որ ոք լուծցէ մի ինչ ի պատուիրանաց յայսցանէ ի փոքունց՝ եւ ուսուսցէ այնպէս զմարդիկ. փոքր կոչեսցի յարքայութեան երկնից,
 # transliterated_text = Or okʻ lowccʻē mi inčʻ i patowiranacʻ yayscʻanē i pʻokʻowncʻ; ew owsowscʻē aynpēs zmardik: pʻokʻr kočʻescʻi yarkʻayowtʻean erknicʻ,
 # translated_text = Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven.
-1	Որ	որ	DET	_	Case=Nom|Number=Sing|PronType=Rel	2	amod	_	Translit=Or|LTranslit=or|Gloss=who
+1	Որ	որ	DET	_	Case=Nom|Number=Sing|PronType=Rel	2	det	_	Translit=Or|LTranslit=or|Gloss=who
 2	ոք	ոք	PRON	_	Animacy=Anim|Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	3	nsubj	_	Translit=okʻ|LTranslit=okʻ|Gloss=anyone
 3	լուծցէ	լուծանել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	20	csubj:pass	_	Translit=lowccʻē|LTranslit=lowcanel|Gloss=loose
 4	մի	մի	NUM	_	Case=Acc|Number=Sing|NumType=Card	5	nummod	_	Translit=mi|LTranslit=mi|Gloss=one
@@ -1543,7 +1543,7 @@
 6	ի	ի	ADP	_	_	7	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 7	պատուիրանաց	պատուիրան	NOUN	_	Case=Abl|Number=Plur	4	nmod	_	Translit=patowiranacʻ|LTranslit=patowiran|Gloss=commandment
 8	յ	ի	ADP	_	_	9	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-3|Gloss=from
-9	այսցանէ	այս	DET	_	Case=Abl|Deixis=Prox|Number=Plur|PronType=Dem	7	amod	_	Translit=ayscʻanē|LTranslit=ays|Gloss=this
+9	այսցանէ	այս	DET	_	Case=Abl|Deixis=Prox|Number=Plur|PronType=Dem	7	det	_	Translit=ayscʻanē|LTranslit=ays|Gloss=this
 10	ի	ի	ADP	_	_	11	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 11	փոքունց	փոքր	ADJ	_	Case=Abl|Number=Plur	7	amod	_	SpaceAfter=No|Translit=pʻokʻowncʻ|LTranslit=pʻokʻr|Gloss=little
 12	՝	՝	PUNCT	_	_	14	punct	_	Translit=;|LTranslit=;
@@ -1644,7 +1644,7 @@
 8	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 9	բարկանայ	բարկանալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl	_	Translit=barkanay|LTranslit=barkanal|Gloss=anger
 10	եղբաւր	եղբայր	NOUN	_	Case=Dat|Number=Sing	9	iobj	_	Translit=ełbawr|LTranslit=ełbayr|Gloss=brother
-11	իւրում	իւր	DET	_	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	10	amod	_	Translit=iwrowm|LTranslit=iwr|Gloss=own
+11	իւրում	իւր	DET	_	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	10	det	_	Translit=iwrowm|LTranslit=iwr|Gloss=own
 12	տարապարտուց	տարապարտուց	ADV	_	_	9	advmod	_	SpaceAfter=No|Translit=tarapartowcʻ|LTranslit=tarapartowcʻ|Gloss=idle
 13	.	.	PUNCT	_	_	7	punct	_	Translit=:|LTranslit=:
 14	պարտաւոր	պարտաւոր	ADJ	_	Case=Nom|Number=Sing	3	ccomp	_	Translit=partawor|LTranslit=partawor|Gloss=obliged
@@ -1709,7 +1709,7 @@
 14	եղբայր	եղբայր	NOUN	_	Case=Nom|Number=Sing	16	nsubj	_	Translit=ełbayr|LTranslit=ełbayr|Gloss=brother
 15	քո	դու	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	14	nmod	_	Translit=kʻo|LTranslit=dow|Gloss=you_(sg.)
 16	ունիցի	ունել	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	12	ccomp	_	Translit=ownicʻi|LTranslit=ownel|Gloss=have
-17	ինչ	ինչ	DET	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	18	amod	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=any
+17	ինչ	ինչ	DET	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	18	det	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=any
 18	խէթ	խէթ	NOUN	_	Case=Acc|Number=Sing	16	obj	_	Translit=xētʻ|LTranslit=xētʻ|Gloss=crooked
 19	զ	զ	ADP	_	Definite=Def	20	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 20	քէն	դու	PRON	_	Case=Abl|Number=Sing|Person=2|PronType=Prs	16	obl	_	SpaceAfter=No|Translit=kʻēn|LTranslit=dow|Gloss=you_(sg.)
@@ -1728,7 +1728,7 @@
 33	հաշտեաց	հաշտել	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	22	conj	_	Translit=hašteacʻ|LTranslit=haštel|Gloss=reconcile
 34	ընդ	ընդ	ADP	_	_	35	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
 35	եղբաւր	եղբայր	NOUN	_	Case=Loc|Number=Sing	33	obl	_	Translit=ełbawr|LTranslit=ełbayr|Gloss=brother
-36	քում	քո	DET	_	Case=Loc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	35	amod	_	SpaceAfter=No|Translit=kʻowm|LTranslit=kʻo|Gloss=your_(sg.)
+36	քում	քո	DET	_	Case=Loc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	35	det	_	SpaceAfter=No|Translit=kʻowm|LTranslit=kʻo|Gloss=your_(sg.)
 37	.	.	PUNCT	_	_	41	punct	_	Translit=:|LTranslit=:
 38	եւ	եւ	CCONJ	_	_	41	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 39	ապա	ապա	ADV	_	_	41	advmod	_	Translit=apa|LTranslit=apa|Gloss=then
@@ -1748,7 +1748,7 @@
 2	իրաւախորհ	իրաւախորհ	ADJ	_	Case=Nom|Number=Sing	0	root	_	Translit=irawaxorh|LTranslit=irawaxorh|Gloss=just
 3	ընդ	ընդ	ADP	_	_	4	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
 4	աւսոխի	աւսոխ	NOUN	_	Case=Loc|Number=Sing	2	obl	_	Translit=awsoxi|LTranslit=awsox|Gloss=adversary
-5	քում	քո	DET	_	Case=Loc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	amod	_	Translit=kʻowm|LTranslit=kʻo|Gloss=your_(sg.)
+5	քում	քո	DET	_	Case=Loc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	det	_	Translit=kʻowm|LTranslit=kʻo|Gloss=your_(sg.)
 6	վաղգոյն	վաղգոյն	ADV	_	_	2	advmod	_	SpaceAfter=No|Translit=vałgoyn|LTranslit=vałgoyn|Gloss=sooner
 7	,	,	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,
 8	մինչդեռ	մինչդեռ	SCONJ	_	_	13	mark	_	Translit=minčʻdeṙ|LTranslit=minčʻdeṙ|Gloss=while
@@ -1822,7 +1822,7 @@
 4	ձեզ	դուք	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	SpaceAfter=No|Translit=jez|LTranslit=dowkʻ|Gloss=you_(pl.)
 5	՝	՝	PUNCT	_	_	19	punct	_	Translit=;|LTranslit=;
 6	թե	թե	SCONJ	_	_	19	mark	_	Translit=tʻe|LTranslit=tʻe|Gloss=whether
-7	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	12	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+7	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	12	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 8	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 9	հայի	հայել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	acl	_	Translit=hayi|LTranslit=hayel|Gloss=look
 10	ի	ի	ADP	_	_	11	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
@@ -1839,7 +1839,7 @@
 21	նմա	նա	PRON	_	Case=Loc|Deixis=Remt|Number=Sing|PronType=Dem	19	obl	_	Translit=nma|LTranslit=na|Gloss=he/she/it/that
 22	ի	ի	ADP	_	_	23	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
 23	սրտի	սիրտ	NOUN	_	Case=Loc|Number=Sing	19	obl	_	Translit=srti|LTranslit=sirt|Gloss=heart
-24	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	23	amod	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
+24	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	23	det	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
 25	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MATT_5.29
@@ -1870,15 +1870,15 @@
 22	մի	մի	NUM	_	Case=Nom|Number=Sing|NumType=Card	26	nsubj	_	Translit=mi|LTranslit=mi|Gloss=one
 23	յ	ի	ADP	_	_	24	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-3|Gloss=from
 24	անդամոց	անդամ	NOUN	_	Case=Abl|Number=Plur	22	nmod	_	Translit=andamocʻ|LTranslit=andam|Gloss=member
-25	քոց	քո	DET	_	Case=Abl|Number=Plur|Person=2|Poss=Yes|PronType=Prs	24	amod	_	Translit=kʻocʻ|LTranslit=kʻo|Gloss=your_(sg.)
+25	քոց	քո	DET	_	Case=Abl|Number=Plur|Person=2|Poss=Yes|PronType=Prs	24	det	_	Translit=kʻocʻ|LTranslit=kʻo|Gloss=your_(sg.)
 26	կորիցէ	կորնչել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	18	ccomp	_	SpaceAfter=No|Translit=koricʻē|LTranslit=kornčʻel|Gloss=perish
 27	,	,	PUNCT	_	_	34	punct	_	Translit=,|LTranslit=,
 28	եւ	եւ	CCONJ	_	_	34	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 29	մի	մի	PART	_	Polarity=Neg	31	advmod	_	Translit=mi|LTranslit=mi|Gloss=don't
-30	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	31	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+30	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	31	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 31	մարմին	մարմին	NOUN	_	Case=Nom|Number=Sing	34	nsubj:pass	_	SpaceAfter=No|Translit=marmin|LTranslit=marmin|Gloss=body
 32	դ	դ	DET	_	Definite=Def|Deixis=Med|PronType=Art	31	det	_	Translit=d|LTranslit=d|Gloss=that
-33	քո	քո	DET	_	Case=Nom|Number=Sing|Person=2|Poss=Yes|PronType=Prs	31	amod	_	Translit=kʻo|LTranslit=kʻo|Gloss=your_(sg.)
+33	քո	քո	DET	_	Case=Nom|Number=Sing|Person=2|Poss=Yes|PronType=Prs	31	det	_	Translit=kʻo|LTranslit=kʻo|Gloss=your_(sg.)
 34	անկանիցի	անկանել	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	26	conj	_	Translit=ankanicʻi|LTranslit=ankanel|LId=անկանել-1|Gloss=fall
 35	ի	ի	ADP	_	_	36	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 36	գեհեն	գեհեն	NOUN	_	Case=Acc|Number=Sing	34	obl	_	SpaceAfter=No|Translit=gehen|LTranslit=gehen|Gloss=hell
@@ -1912,12 +1912,12 @@
 22	մի	մի	NUM	_	Case=Nom|Number=Sing|NumType=Card	26	nsubj	_	Translit=mi|LTranslit=mi|Gloss=one
 23	յ	ի	ADP	_	_	24	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-3|Gloss=from
 24	անդամոց	անդամ	NOUN	_	Case=Abl|Number=Plur	22	nmod	_	Translit=andamocʻ|LTranslit=andam|Gloss=member
-25	քոց	քո	DET	_	Case=Abl|Number=Plur|Person=2|Poss=Yes|PronType=Prs	24	amod	_	Translit=kʻocʻ|LTranslit=kʻo|Gloss=your_(sg.)
+25	քոց	քո	DET	_	Case=Abl|Number=Plur|Person=2|Poss=Yes|PronType=Prs	24	det	_	Translit=kʻocʻ|LTranslit=kʻo|Gloss=your_(sg.)
 26	կորիցէ	կորնչել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	18	ccomp	_	SpaceAfter=No|Translit=koricʻē|LTranslit=kornčʻel|Gloss=perish
 27	,	,	PUNCT	_	_	34	punct	_	Translit=,|LTranslit=,
 28	եւ	եւ	CCONJ	_	_	34	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 29	մի	մի	PART	_	Polarity=Neg	34	advmod	_	Translit=mi|LTranslit=mi|Gloss=don't
-30	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	31	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+30	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	31	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 31	մարմին	մարմին	NOUN	_	Case=Nom|Number=Sing	34	nsubj:pass	_	SpaceAfter=No|Translit=marmin|LTranslit=marmin|Gloss=body
 32	դ	դ	DET	_	Definite=Def|Deixis=Med|PronType=Art	31	det	_	Translit=d|LTranslit=d|Gloss=that
 33	քո	դու	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	31	nmod	_	Translit=kʻo|LTranslit=dow|Gloss=you_(sg.)
@@ -1956,7 +1956,7 @@
 4	ձեզ	դուք	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	SpaceAfter=No|Translit=jez|LTranslit=dowkʻ|Gloss=you_(pl.)
 5	՝	՝	PUNCT	_	_	20	punct	_	Translit=;|LTranslit=;
 6	եթե	եթե	SCONJ	_	_	20	mark	_	Translit=etʻe|LTranslit=etʻe|Gloss=whether
-7	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	17	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+7	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	17	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 8	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 9	արձակէ	արձակել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl	_	Translit=arjakē|LTranslit=arjakel|Gloss=release
 10	զ	զ	ADP	_	Definite=Def	11	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -2261,7 +2261,7 @@
 16	բարի	բարի	ADJ	_	Case=Acc|Number=Sing	17	obj	_	Translit=bari|LTranslit=bari|Gloss=good
 17	արարէք	առնել	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	6	conj	_	Translit=ararēkʻ|LTranslit=aṙnel|Gloss=make
 18	ատելեաց	ատելի	ADJ	_	Case=Dat|Number=Plur	17	iobj	_	Translit=ateleacʻ|LTranslit=ateli|Gloss=hateful
-19	ձերոց	ձեր	DET	_	Case=Gen|Number=Plur|Person=2|Poss=Yes|PronType=Prs	18	amod	_	SpaceAfter=No|Translit=jerocʻ|LTranslit=jer|Gloss=your_(pl.)
+19	ձերոց	ձեր	DET	_	Case=Gen|Number=Plur|Person=2|Poss=Yes|PronType=Prs	18	det	_	SpaceAfter=No|Translit=jerocʻ|LTranslit=jer|Gloss=your_(pl.)
 20	.	.	PUNCT	_	_	22	punct	_	Translit=:|LTranslit=:
 21	եւ	եւ	CCONJ	_	_	22	orphan	_	Translit=ew|LTranslit=ew|Gloss=and
 22	աղաւթս	աղաւթք	NOUN	_	Case=Acc|Number=Plur	17	conj	_	Translit=aławtʻs|LTranslit=aławtʻkʻ|Gloss=prayer
@@ -2279,7 +2279,7 @@
 34	եղիջիք	լինիմ	AUX	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|VerbForm=Fin	35	cop	_	Translit=ełiǰikʻ|LTranslit=linim|Gloss=become
 35	որդիք	որդի	NOUN	_	Case=Nom|Number=Plur	22	orphan	_	Translit=ordikʻ|LTranslit=ordi|Gloss=son
 36	հաւր	հայր	NOUN	_	Case=Gen|Number=Sing	35	nmod	_	Translit=hawr|LTranslit=hayr|Gloss=father
-37	ձերոյ	ձեր	DET	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	36	amod	_	Translit=jeroy|LTranslit=jer|Gloss=your_(pl.)
+37	ձերոյ	ձեր	DET	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	36	det	_	Translit=jeroy|LTranslit=jer|Gloss=your_(pl.)
 38	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	40	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 39	յ	ի	ADP	_	_	40	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
 40	երկինս	երկին	NOUN	_	Case=Loc|Number=Plur	36	acl	_	SpaceAfter=No|Translit=erkins|LTranslit=erkin|Gloss=heaven
@@ -2344,7 +2344,7 @@
 4	միայն	միայն	ADV	_	_	3	advmod	_	Translit=miayn|LTranslit=miayn|Gloss=only
 5	ողջոյն	ողջոյն	NOUN	_	Case=Acc|Number=Sing	3	obj	_	Translit=ołǰoyn|LTranslit=ołǰoyn|Gloss=greeting
 6	բարեկամաց	բարեկամ	ADJ	_	Case=Dat|Number=Plur	3	iobj	_	Translit=barekamacʻ|LTranslit=barekam|Gloss=familiar
-7	ձերոց	ձեր	DET	_	Case=Dat|Number=Plur|Person=2|Poss=Yes|PronType=Prs	6	amod	_	SpaceAfter=No|Translit=jerocʻ|LTranslit=jer|Gloss=your_(pl.)
+7	ձերոց	ձեր	DET	_	Case=Dat|Number=Plur|Person=2|Poss=Yes|PronType=Prs	6	det	_	SpaceAfter=No|Translit=jerocʻ|LTranslit=jer|Gloss=your_(pl.)
 8	,	,	PUNCT	_	_	3	punct	_	Translit=,|LTranslit=,
 9-10	զի՞նչ	_	_	_	_	_	_	_	Translit=zi?nčʻ
 9	զինչ	զինչ	PRON	_	Animacy=Inan|Case=Acc|Number=Sing|PronType=Int	11	nmod	_	Translit=zinčʻ|LTranslit=zinčʻ|Gloss=what
@@ -2405,7 +2405,7 @@
 3	զ	զ	ADP	_	Definite=Def	4	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 4	նովաւ	նա	PRON	_	Case=Ins|Deixis=Remt|Number=Sing|PronType=Dem	2	obl	_	Translit=novaw|LTranslit=na|Gloss=he/she/it/that
 5	ժողովուրդք	ժողովուրդ	NOUN	_	Case=Nom|Number=Plur	2	nsubj	_	Translit=žołovowrdkʻ|LTranslit=žołovowrd|Gloss=people
-6	բազումք	բազում	DET	_	Case=Nom|Number=Plur	5	amod	_	SpaceAfter=No|Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
+6	բազումք	բազում	DET	_	Case=Nom|Number=Plur	5	det	_	SpaceAfter=No|Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
 7	.	.	PUNCT	_	_	11	punct	_	Translit=:|LTranslit=:
 8	մինչեւ	մինչեւ	ADP	_	_	11	case	_	Translit=minčʻew|LTranslit=minčʻew|Gloss=until
 9	ի	ի	ADP	_	_	10	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
@@ -2419,7 +2419,7 @@
 17	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	16	det	_	SpaceAfter=No|Translit=n|LTranslit=n|Gloss=that
 18	՝	՝	PUNCT	_	_	29	punct	_	Translit=;|LTranslit=;
 19	եւ	եւ	CCONJ	_	_	29	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-20	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	21	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+20	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	21	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 21	ժողովուրդք	ժողովուրդ	NOUN	_	Case=Nom|Number=Plur	29	nsubj	_	SpaceAfter=No|Translit=žołovowrdkʻ|LTranslit=žołovowrd|Gloss=people
 22	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	21	det	_	Translit=n|LTranslit=n|Gloss=that
 23	զ	զ	ADP	_	Definite=Def	24	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -2440,7 +2440,7 @@
 3	զ	զ	ADP	_	Definite=Def	4	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 4	նոսա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Plur|PronType=Dem	2	obj	_	Translit=nosa|LTranslit=na|Gloss=he/she/it/that
 5	առակաւք	առակ	NOUN	_	Case=Ins|Number=Plur	2	obl	_	Translit=aṙakawkʻ|LTranslit=aṙak|Gloss=parable
-6	բազում	բազում	DET	_	Case=Acc|Number=Sing	7	amod	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
+6	բազում	բազում	DET	_	Case=Acc|Number=Sing	7	det	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
 7	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	2	obj	_	SpaceAfter=No|Translit=inčʻ|LTranslit=inčʻ|Gloss=something
 8	:	:	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 9	Եւ	եւ	CCONJ	_	_	10	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
@@ -2448,7 +2448,7 @@
 11	նոցա	նա	PRON	_	Case=Dat|Deixis=Remt|Number=Plur|PronType=Dem	10	iobj	_	Translit=nocʻa|LTranslit=na|Gloss=he/she/it/that
 12	ի	ի	ADP	_	_	13	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
 13	վարդապետութեան	վարդապետութիւն	NOUN	_	Case=Loc|Number=Sing	10	obl	_	Translit=vardapetowtʻean|LTranslit=vardapetowtʻiwn|Gloss=teaching
-14	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	13	amod	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
+14	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
 15	:	:	PUNCT	_	_	16	punct	_	Translit=.|LTranslit=.
 16	Լսէք	լսել	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	2	ccomp	_	SpaceAfter=No|Translit=Lsēkʻ|LTranslit=lsel|Gloss=hear
 17	՝	՝	PUNCT	_	_	18	punct	_	Translit=;|LTranslit=;
@@ -2495,7 +2495,7 @@
 8	ոչ	ոչ	PART	_	Polarity=Neg	9	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
 9	գոյր	գոմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl	_	Translit=goyr|LTranslit=gom|Gloss=exist
 10	հող	հող	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	Translit=hoł|LTranslit=hoł|Gloss=earth
-11	բազում	բազում	DET	_	Case=Nom|Number=Sing	10	amod	_	SpaceAfter=No|Translit=bazowm|LTranslit=bazowm|Gloss=many
+11	բազում	բազում	DET	_	Case=Nom|Number=Sing	10	det	_	SpaceAfter=No|Translit=bazowm|LTranslit=bazowm|Gloss=many
 12	.	.	PUNCT	_	_	15	punct	_	Translit=:|LTranslit=:
 13	եւ	եւ	CCONJ	_	_	15	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 14	վաղվաղակի	վաղվաղակի	ADV	_	_	15	advmod	_	Translit=vałvałaki|LTranslit=vałvałaki|Gloss=suddenly
@@ -2649,7 +2649,7 @@
 4	արտաքինք	արտաքին	ADJ	_	Case=Nom|Number=Plur	2	acl	_	SpaceAfter=No|Translit=artakʻinkʻ|LTranslit=artakʻin|Gloss=outer
 5	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	4	det	_	Translit=n|LTranslit=n|Gloss=that
 6	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Translit=en|LTranslit=em|Gloss=be
-7	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	8	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+7	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	8	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 8	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	10	nsubj	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
 9	առակաւք	առակ	NOUN	_	Case=Ins|Number=Plur	10	obl	_	Translit=aṙakawkʻ|LTranslit=aṙak|Gloss=parable
 10	լինի	լինիմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=lini|LTranslit=linim|Gloss=become
@@ -2694,14 +2694,14 @@
 9	առակ	առակ	NOUN	_	Case=Acc|Number=Sing	7	obj	_	SpaceAfter=No|Translit=aṙak|LTranslit=aṙak|Gloss=parable
 10	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	9	det	_	Translit=s|LTranslit=s|Gloss=this
 11	զ	զ	ADP	_	Definite=Def	12	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-12	այս	այս	DET	_	Case=Acc|Deixis=Prox|Number=Sing|PronType=Dem	9	amod	_	SpaceAfter=No|Translit=ays|LTranslit=ays|Gloss=this
+12	այս	այս	DET	_	Case=Acc|Deixis=Prox|Number=Sing|PronType=Dem	9	det	_	SpaceAfter=No|Translit=ays|LTranslit=ays|Gloss=this
 13	.	.	PUNCT	_	_	21	punct	_	Translit=:|LTranslit=:
 14	եւ	եւ	CCONJ	_	_	21	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 15-16	զիա՞րդ	_	_	_	_	_	_	_	Translit=zia?rd
 15	զիարդ	զիարդ	ADV	_	PronType=Int	21	mark	_	Translit=ziard|LTranslit=ziard|Gloss=why
 16	՞	՞	PUNCT	_	_	15	punct	_	Translit=?|LTranslit=?
 17	զ	զ	ADP	_	Definite=Def	19	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-18	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	19	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+18	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	19	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 19	առակս	առակ	NOUN	_	Case=Acc|Number=Plur	21	obj	_	SpaceAfter=No|Translit=aṙaks|LTranslit=aṙak|Gloss=parable
 20	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	19	det	_	Translit=n|LTranslit=n|Gloss=that
 21	գիտիցէք	գիտել	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No|Translit=giticʻēkʻ|LTranslit=gitel|Gloss=know
@@ -3007,7 +3007,7 @@
 # text = Որ ոք ունիցի. տացի նմա.
 # transliterated_text = Or okʻ ownicʻi: tacʻi nma:
 # translated_text = For he that hath, to him shall be given.
-1	Որ	որ	DET	_	Case=Nom|Number=Sing|PronType=Rel	2	amod	_	Translit=Or|LTranslit=or|Gloss=who
+1	Որ	որ	DET	_	Case=Nom|Number=Sing|PronType=Rel	2	det	_	Translit=Or|LTranslit=or|Gloss=who
 2	ոք	ոք	PRON	_	Animacy=Anim|Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	3	nsubj	_	Translit=okʻ|LTranslit=okʻ|Gloss=anyone
 3	ունիցի	ունել	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	6	acl	_	SpaceAfter=No|Translit=ownicʻi|LTranslit=ownel|Gloss=have
 4	.	.	PUNCT	_	_	3	punct	_	Translit=:|LTranslit=:
@@ -3144,7 +3144,7 @@
 11	՝	՝	PUNCT	_	_	16	punct	_	Translit=;|LTranslit=;
 12	կամ	կամ	CCONJ	_	_	16	cc	_	Translit=kam|LTranslit=kam|Gloss=or
 13-14	որո՞վ	_	_	_	_	_	_	_	Translit=oro?v
-13	որով	որ	DET	_	Case=Ins|Number=Sing|PronType=Int	15	amod	_	Translit=orov|LTranslit=or|Gloss=who
+13	որով	որ	DET	_	Case=Ins|Number=Sing|PronType=Int	15	det	_	Translit=orov|LTranslit=or|Gloss=who
 14	՞	՞	PUNCT	_	_	13	punct	_	Translit=?|LTranslit=?
 15	առակաւ	առակ	NOUN	_	Case=Ins|Number=Sing	16	obl	_	Translit=aṙakaw|LTranslit=aṙak|Gloss=parable
 16	առակեսցուք	առակել	VERB	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|VerbForm=Fin	6	conj	_	Translit=aṙakescʻowkʻ|LTranslit=aṙakel|Gloss=stray
@@ -3171,7 +3171,7 @@
 13	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	Translit=ē|LTranslit=em|Gloss=be
 14	քան	քան	ADP	_	_	18	case	_	Translit=kʻan|LTranslit=kʻan|Gloss=than
 15	զ	զ	ADP	_	Definite=Def	18	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-16	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	17	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+16	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	17	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 17	բանջար	բանջար	NOUN	_	Case=Acc|Number=Sing	18	nmod	_	Translit=banǰar|LTranslit=banǰar|Gloss=vegetable
 18	սերմանիս	սերմանիք	NOUN	_	Case=Acc|Number=Plur	12	nmod	_	Translit=sermanis|LTranslit=sermanikʻ|Gloss=seed
 19	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	22	nsubj	_	Translit=or|LTranslit=or|Gloss=which
@@ -3189,7 +3189,7 @@
 31	մեծ	մեծ	ADJ	_	Case=Nom|Number=Sing	28	conj	_	Translit=mec|LTranslit=mec|Gloss=great
 32	քան	քան	ADP	_	_	35	case	_	Translit=kʻan|LTranslit=kʻan|Gloss=than
 33	զ	զ	ADP	_	Definite=Def	35	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-34	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	35	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+34	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	35	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 35	բանջար	բանջար	NOUN	_	Case=Acc|Number=Sing	31	nmod	_	SpaceAfter=No|Translit=banǰar|LTranslit=banǰar|Gloss=vegetable
 36	՝	՝	PUNCT	_	_	38	punct	_	Translit=;|LTranslit=;
 37	եւ	եւ	CCONJ	_	_	38	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -3213,7 +3213,7 @@
 # transliterated_text = Ew aynpisi aṙakawkʻ xawsēr ənd nosa zbann; orpēs karoł linein lsel;
 # translated_text = And with many such parables spake he the word unto them, as they were able to hear.
 1	Եւ	եւ	CCONJ	_	_	4	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
-2	այնպիսի	այնպիսի	DET	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	3	amod	_	Translit=aynpisi|LTranslit=aynpisi|Gloss=such
+2	այնպիսի	այնպիսի	DET	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	3	det	_	Translit=aynpisi|LTranslit=aynpisi|Gloss=such
 3	առակաւք	առակ	NOUN	_	Case=Ins|Number=Plur	4	obl	_	Translit=aṙakawkʻ|LTranslit=aṙak|Gloss=parable
 4	խաւսէր	խաւսել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=xawsēr|LTranslit=xawsel|Gloss=speak
 5	ընդ	ընդ	ADP	_	_	6	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
@@ -3246,7 +3246,7 @@
 12	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	11	det	_	Translit=n|LTranslit=n|Gloss=that
 13	աշակերտաց	աշակերտ	NOUN	_	Case=Dat|Number=Plur	16	iobj	_	SpaceAfter=No|Translit=ašakertacʻ|LTranslit=ašakert|Gloss=disciple
 14	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	13	det	_	Translit=n|LTranslit=n|Gloss=that
-15	իւրոց	իւր	DET	_	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	13	amod	_	Translit=iwrocʻ|LTranslit=iwr|Gloss=own
+15	իւրոց	իւր	DET	_	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	Translit=iwrocʻ|LTranslit=iwr|Gloss=own
 16	մեկնէ	մեկնել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	Translit=meknē|LTranslit=meknel|Gloss=leave
 17	զ	զ	ADP	_	Definite=Def	18	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 18	ամենայն	ամենայն	PRON	_	Case=Acc|Number=Sing|PronType=Tot	16	obj	_	SpaceAfter=No|Translit=amenayn|LTranslit=amenayn|Gloss=all
@@ -3264,7 +3264,7 @@
 6	աւուր	աւր	NOUN	_	Case=Loc|Number=Sing	2	obl	_	SpaceAfter=No|Translit=awowr|LTranslit=awr|Gloss=day
 7	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	6	det	_	Translit=n|LTranslit=n|Gloss=that
 8	յ	ի	ADP	_	_	9	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
-9	այնմիկ	այն	DET	_	Case=Loc|Deixis=Remt|Number=Sing|PronType=Dem	6	amod	_	Translit=aynmik|LTranslit=ayn|Gloss=that
+9	այնմիկ	այն	DET	_	Case=Loc|Deixis=Remt|Number=Sing|PronType=Dem	6	det	_	Translit=aynmik|LTranslit=ayn|Gloss=that
 10	իբրեւ	իբրեւ	SCONJ	_	_	12	mark	_	Translit=ibrew|LTranslit=ibrew|Gloss=if
 11	ընդ	ընդ	ADP	_	_	12	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
 12	երեկս	երեկ	NOUN	_	Case=Acc|Number=Plur	2	advcl	_	Translit=ereks|LTranslit=erek|Gloss=yesterday
@@ -3521,7 +3521,7 @@
 40	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	38	obj	_	SpaceAfter=No|Translit=na|LTranslit=na|Gloss=he/she/it/that
 41	,	,	PUNCT	_	_	48	punct	_	Translit=,|LTranslit=,
 42	վասն	վասն	ADP	_	_	48	case	_	Translit=vasn|LTranslit=vasn|Gloss=about/because_of
-43	բազում	բազում	DET	_	Case=Acc|Number=Sing	44	amod	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
+43	բազում	բազում	DET	_	Case=Acc|Number=Sing	44	det	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
 44	անգամ	անգամ	NOUN	_	Case=Acc|Number=Sing	48	nmod	_	Translit=angam|LTranslit=angam|Gloss=once
 45	ոտնկապաւք	ոտնկապ	NOUN	_	Case=Ins|Number=Plur	48	nmod	_	Translit=otnkapawkʻ|LTranslit=otnkap|Gloss=fetter
 46	եւ	եւ	CCONJ	_	_	47	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -3721,7 +3721,7 @@
 1	աղաչեցին	աղաչել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=ałačʻecʻin|LTranslit=ałačʻel|Gloss=pray_for
 2	զ	զ	ADP	_	Definite=Def	3	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 3	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	1	obj	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
-4	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	5	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+4	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	5	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 5	դեւք	դեւ	NOUN	_	Case=Nom|Number=Plur	1	nsubj	_	SpaceAfter=No|Translit=dewkʻ|LTranslit=dew|Gloss=demon
 6	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	5	det	_	Translit=n|LTranslit=n|Gloss=that
 7	եւ	եւ	CCONJ	_	_	8	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -3941,7 +3941,7 @@
 21	եւ	եւ	CCONJ	_	_	22	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 22	պատմեա	պատմել	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	13	conj	_	Translit=patmea|LTranslit=patmel|Gloss=tell
 23	նոցա	նա	PRON	_	Case=Dat|Deixis=Remt|Number=Plur|PronType=Dem	22	iobj	_	Translit=nocʻa|LTranslit=na|Gloss=he/she/it/that
-24	որ	որ	DET	_	Case=Acc|Number=Sing|PronType=Rel	25	amod	_	Translit=or|LTranslit=or|Gloss=who
+24	որ	որ	DET	_	Case=Acc|Number=Sing|PronType=Rel	25	det	_	Translit=or|LTranslit=or|Gloss=who
 25	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	28	obj	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
 26	միանգամ	միանգամ	ADV	_	_	28	advmod	_	Translit=miangam|LTranslit=miangam|Gloss=once
 27	Տէր	Տէր	NOUN	_	Case=Nom|Number=Sing	28	nsubj	_	Translit=Tēr|LTranslit=Tēr|Gloss=Lord
@@ -3966,7 +3966,7 @@
 8	Դեկապողի	Դեկապողիս	PROPN	_	Case=Loc|Number=Sing	6	obl	_	SpaceAfter=No|Translit=Dekapołi|LTranslit=Dekapołis|Gloss=Dekapołis
 9	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	8	det	_	Translit=n|LTranslit=n|Gloss=that
 10	զ	զ	ADP	_	Definite=Def	12	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-11	որ	որ	DET	_	Case=Acc|Number=Sing|PronType=Rel	12	amod	_	Translit=or|LTranslit=or|Gloss=who
+11	որ	որ	DET	_	Case=Acc|Number=Sing|PronType=Rel	12	det	_	Translit=or|LTranslit=or|Gloss=who
 12	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	13	obj	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
 13	արար	առնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	Translit=arar|LTranslit=aṙnel|Gloss=make
 14	նմա	նա	PRON	_	Case=Dat|Deixis=Remt|Number=Sing|PronType=Dem	13	iobj	_	Translit=nma|LTranslit=na|Gloss=he/she/it/that
@@ -3992,7 +3992,7 @@
 9	առ	առ	ADP	_	_	10	case	_	Translit=aṙ|LTranslit=aṙ|Gloss=by
 10	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	8	obl	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
 11	ժողովուրդ	ժողովուրդ	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	Translit=žołovowrd|LTranslit=žołovowrd|Gloss=people
-12	բազում	բազում	DET	_	Case=Nom|Number=Sing	11	amod	_	SpaceAfter=No|Translit=bazowm|LTranslit=bazowm|Gloss=many
+12	բազում	բազում	DET	_	Case=Nom|Number=Sing	11	det	_	SpaceAfter=No|Translit=bazowm|LTranslit=bazowm|Gloss=many
 13	՝	՝	PUNCT	_	_	17	punct	_	Translit=;|LTranslit=;
 14	եւ	եւ	CCONJ	_	_	17	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 15	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	Translit=ēr|LTranslit=em|Gloss=be
@@ -4076,7 +4076,7 @@
 1	երթայր	երթալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=ertʻayr|LTranslit=ertʻal|Gloss=go
 2	եւ	եւ	CCONJ	_	_	3	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 3	ժողովուրդ	ժողովուրդ	NOUN	_	Case=Nom|Number=Sing	1	nsubj	_	Translit=žołovowrd|LTranslit=žołovowrd|Gloss=people
-4	բազում	բազում	DET	_	Case=Nom|Number=Sing	3	amod	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
+4	բազում	բազում	DET	_	Case=Nom|Number=Sing	3	det	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
 5	զհետ	զհետ	ADP	_	_	6	case	_	Translit=zhet|LTranslit=zhet|Gloss=after
 6	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	1	obl	_	SpaceAfter=No|Translit=nora|LTranslit=na|Gloss=he/she/it/that
 7	.	.	PUNCT	_	_	9	punct	_	Translit=:|LTranslit=:
@@ -4105,7 +4105,7 @@
 13	յոյժ	յոյժ	ADV	_	_	14	advmod	_	Translit=yoyž|LTranslit=yoyž|Gloss=much
 14	վշտացեալ	վշտանալ	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	Translit=vštacʻeal|LTranslit=vštanal|Gloss=grieve
 15	ի	ի	ADP	_	_	17	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
-16	բազում	բազում	DET	_	Case=Nom|Number=Sing	17	amod	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
+16	բազում	բազում	DET	_	Case=Nom|Number=Sing	17	det	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
 17	բժշկաց	բժիշկ	NOUN	_	Case=Abl|Number=Plur	14	obl	_	SpaceAfter=No|Translit=bžškacʻ|LTranslit=bžišk|Gloss=doctor
 18	.	.	PUNCT	_	_	20	punct	_	Translit=:|LTranslit=:
 19	եւ	եւ	CCONJ	_	_	20	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -4114,7 +4114,7 @@
 22	ինչս	ինչ	NOUN	_	Case=Acc|Number=Plur	20	obj	_	Translit=inčʻs|LTranslit=inčʻ|Gloss=thing
 23	իւր	իւր	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	22	nmod	_	Translit=iwr|LTranslit=iwr|Gloss=oneself
 24	զ	զ	ADP	_	Definite=Def	25	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-25	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	22	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+25	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	22	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 26	եւ	եւ	CCONJ	_	_	30	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 27	չ	ոչ	PART	_	Polarity=Neg	28	advmod	_	SpaceAfter=No|Translit=čʻ|LTranslit=očʻ|Gloss=not
 28	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	aux	_	Translit=ēr|LTranslit=em|Gloss=be
@@ -4299,7 +4299,7 @@
 25	եւ	եւ	CCONJ	_	_	26	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 26	ասաց	ասել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	conj	_	Translit=asacʻ|LTranslit=asel|Gloss=say
 27	զ	զ	ADP	_	Definite=Def	29	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-28	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	29	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+28	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	29	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 29	իրս	իր	NOUN	_	Case=Acc|Number=Plur	26	obj	_	SpaceAfter=No|Translit=irs|LTranslit=ir|Gloss=thing
 30	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	29	det	_	Translit=n|LTranslit=n|Gloss=that
 31	ստուգութեամբ	ստուգութիւն	NOUN	_	Case=Ins|Number=Sing	26	obl	_	SpaceAfter=No|Translit=stowgowtʻeamb|LTranslit=stowgowtʻiwn|Gloss=accuracy
@@ -4333,7 +4333,7 @@
 22	ի	ի	ADP	_	_	23	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 23	տանջանաց	տանջանք	NOUN	_	Case=Abl|Number=Plur	21	obl	_	SpaceAfter=No|Translit=tanǰanacʻ|LTranslit=tanǰankʻ|Gloss=torture
 24	դ	դ	DET	_	Definite=Def|Deixis=Med|PronType=Art	23	det	_	Translit=d|LTranslit=d|Gloss=that
-25	քոց	քո	DET	_	Case=Abl|Number=Plur|Person=2|Poss=Yes|PronType=Prs	23	amod	_	SpaceAfter=No|Translit=kʻocʻ|LTranslit=kʻo|Gloss=your_(sg.)
+25	քոց	քո	DET	_	Case=Abl|Number=Plur|Person=2|Poss=Yes|PronType=Prs	23	det	_	SpaceAfter=No|Translit=kʻocʻ|LTranslit=kʻo|Gloss=your_(sg.)
 26	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MARK_5.35
@@ -4645,7 +4645,7 @@
 8	աւուրս	աւր	NOUN	_	Case=Loc|Number=Plur	6	obl	_	SpaceAfter=No|Translit=awowrs|LTranslit=awr|Gloss=day
 9	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	8	det	_	Translit=n|LTranslit=n|Gloss=that
 10	յ	ի	ADP	_	_	11	advcl	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
-11	այնոսիկ	այն	DET	_	Case=Loc|Deixis=Remt|Number=Plur|PronType=Dem	8	amod	_	SpaceAfter=No|Translit=aynosik|LTranslit=ayn|Gloss=that
+11	այնոսիկ	այն	DET	_	Case=Loc|Deixis=Remt|Number=Plur|PronType=Dem	8	det	_	SpaceAfter=No|Translit=aynosik|LTranslit=ayn|Gloss=that
 12	:	:	PUNCT	_	_	18	punct	_	Translit=.|LTranslit=.
 13	Եւ	եւ	CCONJ	_	_	18	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
 14	ի	ի	ADP	_	_	15	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
@@ -4673,7 +4673,7 @@
 12	ասա	ասել	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	ccomp	_	Translit=asa|LTranslit=asel|Gloss=say
 13	քարի	քար	NOUN	_	Case=Dat|Number=Sing	12	iobj	_	SpaceAfter=No|Translit=kʻari|LTranslit=kʻar|Gloss=rock
 14	դ	դ	DET	_	Definite=Def|Deixis=Med|PronType=Art	13	det	_	Translit=d|LTranslit=d|Gloss=that
-15	այդմիկ	այդ	DET	_	Case=Dat|Deixis=Med|Number=Sing|PronType=Dem	13	amod	_	Translit=aydmik|LTranslit=ayd|Gloss=this
+15	այդմիկ	այդ	DET	_	Case=Dat|Deixis=Med|Number=Sing|PronType=Dem	13	det	_	Translit=aydmik|LTranslit=ayd|Gloss=this
 16	զի	զի	SCONJ	_	_	18	mark	_	Translit=zi|LTranslit=zi|Gloss=because
 17	հաց	հաց	NOUN	_	Case=Nom|Number=Sing	18	nsubj	_	Translit=hacʻ|LTranslit=hacʻ|Gloss=bread
 18	լիցի	լինիմ	AUX	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	12	ccomp	_	SpaceAfter=No|Translit=licʻi|LTranslit=linim|Gloss=become
@@ -4696,12 +4696,12 @@
 11	եթե	եթե	SCONJ	_	_	15	mark	_	Translit=etʻe|LTranslit=tʻe|Gloss=whether
 12	ոչ	ոչ	PART	_	Polarity=Neg	13	amod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
 13	հացիւ	հաց	NOUN	_	Case=Ins|Number=Sing	15	obl	_	Translit=hacʻiw|LTranslit=hacʻ|Gloss=bread
-14	միայն	միայն	DET	_	Case=Nom|Number=Sing	13	amod	_	Translit=miayn|LTranslit=miayn|Gloss=alone
+14	միայն	միայն	DET	_	Case=Nom|Number=Sing	13	det	_	Translit=miayn|LTranslit=miayn|Gloss=alone
 15	կեցցէ	կեալ	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	8	ccomp	_	Translit=kecʻcʻē|LTranslit=keal|Gloss=live
 16	մարդ	մարդ	NOUN	_	Case=Nom|Number=Sing	15	nsubj	_	SpaceAfter=No|Translit=mard|LTranslit=mard|Gloss=man
 17	՝	՝	PUNCT	_	_	20	punct	_	Translit=;|LTranslit=;
 18	այղ	այլ	CCONJ	_	_	20	orphan	_	Translit=aył|LTranslit=ayl|Gloss=but
-19	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	20	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+19	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	20	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 20	բանիւ	բան	NOUN	_	Case=Ins|Number=Sing	15	conj	_	Translit=baniw|LTranslit=ban|Gloss=word
 21	Աստուածոյ	Աստուած	NOUN	_	Case=Gen|Number=Sing	20	nmod	_	SpaceAfter=No|Translit=Astowacoy|LTranslit=Astowac|Gloss=God
 22	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
@@ -4722,7 +4722,7 @@
 10	եցոյց	ցուցանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=ecʻoycʻ|LTranslit=cʻowcʻanel|Gloss=show
 11	նմա	նա	PRON	_	Case=Dat|Deixis=Remt|Number=Sing|PronType=Dem	10	iobj	_	Translit=nma|LTranslit=na|Gloss=he/she/it/that
 12	զ	զ	ADP	_	Definite=Def	14	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-13	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	14	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+13	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	14	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 14	թագաւորութիւնս	թագաւորութիւն	NOUN	_	Case=Acc|Number=Plur	10	obj	_	Translit=tʻagaworowtʻiwns|LTranslit=tʻagaworowtʻiwn|Gloss=kingdom
 15	աշխարհի	աշխարհ	NOUN	_	Case=Gen|Number=Sing	14	nmod	_	Translit=ašxarhi|LTranslit=ašxarh|Gloss=world
 16	ի	ի	ADP	_	_	17	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
@@ -4743,8 +4743,8 @@
 7	քեզ	դու	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	8	iobj	_	Translit=kʻez|LTranslit=dow|Gloss=you_(sg.)
 8	տաց	տալ	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	2	ccomp	_	Translit=tacʻ|LTranslit=tal|Gloss=give
 9	զ	զ	ADP	_	Definite=Def	12	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-10	այս	այս	DET	_	Case=Acc|Deixis=Prox|Number=Sing|PronType=Dem	12	amod	_	Translit=ays|LTranslit=ays|Gloss=this
-11	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	12	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+10	այս	այս	DET	_	Case=Acc|Deixis=Prox|Number=Sing|PronType=Dem	12	det	_	Translit=ays|LTranslit=ays|Gloss=this
+11	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	12	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 12	իշխանութիւն	իշխանութիւն	NOUN	_	Case=Acc|Number=Sing	8	obj	_	Translit=išxanowtʻiwn|LTranslit=išxanowtʻiwn|Gloss=power
 13	եւ	եւ	CCONJ	_	_	15	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 14	զ	զ	ADP	_	Definite=Def	15	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -4800,12 +4800,12 @@
 12	պագցես	պագանել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	8	ccomp	_	Translit=pagcʻes|LTranslit=paganel|Gloss=worship
 13	Տեառն	Տէր	NOUN	_	Case=Dat|Number=Sing	12	iobj	_	Translit=Teaṙn|LTranslit=Tēr|Gloss=Lord
 14	Աստուածոյ	Աստուած	NOUN	_	Case=Dat|Number=Sing	13	appos	_	Translit=Astowacoy|LTranslit=Astowac|Gloss=God
-15	քում	քո	DET	_	Case=Dat|Number=Sing|Person=2|Poss=Yes|PronType=Prs	14	amod	_	SpaceAfter=No|Translit=kʻowm|LTranslit=kʻo|Gloss=your_(sg.)
+15	քում	քո	DET	_	Case=Dat|Number=Sing|Person=2|Poss=Yes|PronType=Prs	14	det	_	SpaceAfter=No|Translit=kʻowm|LTranslit=kʻo|Gloss=your_(sg.)
 16	.	.	PUNCT	_	_	21	punct	_	Translit=:|LTranslit=:
 17	եւ	եւ	CCONJ	_	_	21	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 18	զ	զ	ADP	_	Definite=Def	19	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 19	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	21	obj	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
-20	միայն	միայն	DET	_	Case=Acc|Number=Sing	19	amod	_	Translit=miayn|LTranslit=miayn|Gloss=alone
+20	միայն	միայն	DET	_	Case=Acc|Number=Sing	19	det	_	Translit=miayn|LTranslit=miayn|Gloss=alone
 21	պաշտեսցես	պաշտել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	12	conj	_	SpaceAfter=No|Translit=paštescʻes|LTranslit=paštel|Gloss=worship
 22	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -4851,7 +4851,7 @@
 36	՝	՝	PUNCT	_	_	40	punct	_	Translit=;|LTranslit=;
 37	եթե	եթե	SCONJ	_	_	40	mark	_	Translit=etʻe|LTranslit=tʻe|Gloss=whether
 38	հրեշտեկաց	հրեշտակ	NOUN	_	Case=Dat|Number=Plur	40	iobj	_	Translit=hreštekacʻ|LTranslit=hreštak|Gloss=angel
-39	իւրոց	իւր	DET	_	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	38	amod	_	Translit=iwrocʻ|LTranslit=iwr|Gloss=own
+39	իւրոց	իւր	DET	_	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	38	det	_	Translit=iwrocʻ|LTranslit=iwr|Gloss=own
 40	պատուիրեալ	պատուիրել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	34	ccomp	_	Translit=patowireal|LTranslit=patowirel|Gloss=order
 41	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	aux	_	Translit=ē|LTranslit=em|Gloss=be
 42	վասն	վասն	ADP	_	_	43	case	_	Translit=vasn|LTranslit=vasn|Gloss=about/because_of
@@ -4901,7 +4901,7 @@
 1	Եւ	եւ	CCONJ	_	_	2	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
 2	կատարեալ	կատարել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	Translit=katareal|LTranslit=katarel|Gloss=complete
 3	զ	զ	ADP	_	Definite=Def	5	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-4	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	5	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+4	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	5	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 5	փորձութիւն	փորձութիւն	NOUN	_	Case=Acc|Number=Sing	2	obj	_	SpaceAfter=No|Translit=pʻorjowtʻiwn|LTranslit=pʻorjowtʻiwn|Gloss=temptation
 6	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	5	det	_	Translit=n|LTranslit=n|Gloss=that
 7	սատանայի	սատանայ	PROPN	_	Case=Gen|Number=Sing	2	obl:arg	_	SpaceAfter=No|Translit=satanayi|LTranslit=satanay|Gloss=devil
@@ -4940,7 +4940,7 @@
 4	զ	զ	ADP	_	Definite=Def	5	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 5	նմանէ	նա	PRON	_	Case=Abl|Deixis=Remt|Number=Sing|PronType=Dem	2	obl	_	Translit=nmanē|LTranslit=na|Gloss=he/she/it/that
 6	ընդ	ընդ	ADP	_	_	8	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
-7	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	8	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+7	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	8	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 8	կողմանս	կողմն	NOUN	_	Case=Acc|Number=Plur	2	obl	_	Translit=kołmans|LTranslit=kołmn|Gloss=side
 9	գաւառի	գաւառ	NOUN	_	Case=Gen|Number=Sing	8	nmod	_	SpaceAfter=No|Translit=gawaṙi|LTranslit=gawaṙ|Gloss=province
 10	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	9	det	_	SpaceAfter=No|Translit=n|LTranslit=n|Gloss=that
@@ -4979,7 +4979,7 @@
 11	եմուտ	մտանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Translit=emowt|LTranslit=mtanel|Gloss=enter
 12	ըստ	ըստ	ADP	_	_	13	case	_	Translit=əst|LTranslit=əst|Gloss=according_to
 13	սովորութեան	սովորութիւն	NOUN	_	Case=Dat|Number=Sing	11	obl	_	Translit=sovorowtʻean|LTranslit=sovorowtʻiwn|Gloss=custom
-14	իւրում	իւր	DET	_	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	13	amod	_	Translit=iwrowm|LTranslit=iwr|Gloss=own
+14	իւրում	իւր	DET	_	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	13	det	_	Translit=iwrowm|LTranslit=iwr|Gloss=own
 15	յ	ի	ADP	_	_	16	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
 16	աւուր	աւր	NOUN	_	Case=Loc|Number=Sing	11	obl	_	SpaceAfter=No|Translit=awowr|LTranslit=awr|Gloss=day
 17	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	16	det	_	Translit=n|LTranslit=n|Gloss=that
@@ -5014,7 +5014,7 @@
 19	.	.	PUNCT	_	_	15	punct	_	Translit=:|LTranslit=:
 20	եգիտ	գտանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Translit=egit|LTranslit=gtanel|Gloss=find
 21	զ	զ	ADP	_	Definite=Def	23	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-22	այն	այն	DET	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	23	amod	_	Translit=ayn|LTranslit=ayn|Gloss=that
+22	այն	այն	DET	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	23	det	_	Translit=ayn|LTranslit=ayn|Gloss=that
 23	տեղի	տեղի	NOUN	_	Case=Acc|Number=Sing	20	obj	_	Translit=tełi|LTranslit=tełi|Gloss=place
 24	յ	ի	ADP	_	_	25	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
 25	որում	որ	PRON	_	Case=Loc|Number=Sing|PronType=Rel	26	obl	_	Translit=orowm|LTranslit=or|Gloss=which
@@ -5113,7 +5113,7 @@
 8	լցան	լնուլ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	ccomp	_	Translit=lcʻan|LTranslit=lnowl|Gloss=fill
 9	գիրք	գիր	NOUN	_	Case=Nom|Number=Plur	8	nsubj	_	SpaceAfter=No|Translit=girkʻ|LTranslit=gir|Gloss=letter
 10	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	9	det	_	Translit=s|LTranslit=s|Gloss=this
-11	այս	այս	DET	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	9	amod	_	Translit=ays|LTranslit=ays|Gloss=this
+11	այս	այս	DET	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	9	det	_	Translit=ays|LTranslit=ays|Gloss=this
 12	յ	ի	ADP	_	_	13	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
 13	ականջս	ունկն	NOUN	_	Case=Loc|Number=Plur	8	obl	_	Translit=akanǰs|LTranslit=ownkn|Gloss=ear
 14	ձեր	դուք	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	13	nmod	_	SpaceAfter=No|Translit=jer|LTranslit=dowkʻ|Gloss=you_(pl.)
@@ -5172,7 +5172,7 @@
 12	առակ	առակ	NOUN	_	Case=Acc|Number=Sing	7	obj	_	SpaceAfter=No|Translit=aṙak|LTranslit=aṙak|Gloss=parable
 13	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	12	det	_	Translit=s|LTranslit=s|Gloss=this
 14	զ	զ	ADP	_	Definite=Def	15	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-15	այս	այս	DET	_	Case=Acc|Deixis=Prox|Number=Sing|PronType=Dem	12	amod	_	SpaceAfter=No|Translit=ays|LTranslit=ays|Gloss=this
+15	այս	այս	DET	_	Case=Acc|Deixis=Prox|Number=Sing|PronType=Dem	12	det	_	SpaceAfter=No|Translit=ays|LTranslit=ays|Gloss=this
 16	՝	՝	PUNCT	_	_	17	punct	_	Translit=;|LTranslit=;
 17	բժիշկ	բժիշկ	NOUN	_	Case=Nom|Number=Sing	19	vocative	_	SpaceAfter=No|Translit=bžišk|LTranslit=bžišk|Gloss=doctor
 18	.	.	PUNCT	_	_	17	punct	_	Translit=:|LTranslit=:
@@ -5193,7 +5193,7 @@
 33	եւ	եւ	CCONJ	_	_	34	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 34	աստ	աստ	ADV	_	Deixis=Prox|PronType=Dem	32	advmod	_	Translit=ast|LTranslit=ast|Gloss=here
 35	ի	ի	ADP	_	_	37	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
-36	քում	քո	DET	_	Case=Loc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	37	amod	_	Translit=kʻowm|LTranslit=kʻo|Gloss=your_(sg.)
+36	քում	քո	DET	_	Case=Loc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	37	det	_	Translit=kʻowm|LTranslit=kʻo|Gloss=your_(sg.)
 37	գաւառի	գաւառ	NOUN	_	Case=Loc|Number=Sing	32	obl	_	SpaceAfter=No|Translit=gawaṙi|LTranslit=gawaṙ|Gloss=province
 38	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
@@ -5215,7 +5215,7 @@
 12	ընդունելի	ընդունելի	ADJ	_	Case=Nom|Number=Sing	5	ccomp	_	Translit=əndowneli|LTranslit=əndowneli|Gloss=acceptable
 13	ի	ի	ADP	_	_	14	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
 14	քաղաքի	քաղաք	NOUN	_	Case=Loc|Number=Sing	12	obl	_	Translit=kʻałakʻi|LTranslit=kʻałakʻ|Gloss=city
-15	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	14	amod	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
+15	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	14	det	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
 16	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = LUKE_4.25-26
@@ -5227,7 +5227,7 @@
 3	ձեզ	դուք	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	iobj	_	SpaceAfter=No|Translit=jez|LTranslit=dowkʻ|Gloss=you_(pl.)
 4	՝	՝	PUNCT	_	_	8	punct	_	Translit=;|LTranslit=;
 5	զի	զի	SCONJ	_	_	8	mark	_	Translit=zi|LTranslit=zi|Gloss=because
-6	բազում	բազում	DET	_	Case=Nom|Number=Sing	7	amod	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
+6	բազում	բազում	DET	_	Case=Nom|Number=Sing	7	det	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
 7	այրիք	այրի	NOUN	_	Case=Nom|Number=Plur	8	nsubj	_	Translit=ayrikʻ|LTranslit=ayri|Gloss=widow
 8	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	Translit=ein|LTranslit=em|Gloss=be
 9	յ	ի	ADP	_	_	10	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
@@ -5254,7 +5254,7 @@
 30	սով	սով	NOUN	_	Case=Nom|Number=Sing	29	nsubj	_	Translit=sov|LTranslit=sov|Gloss=famine
 31	մեծ	մեծ	ADJ	_	Case=Nom|Number=Sing	30	amod	_	Translit=mec|LTranslit=mec|Gloss=great
 32	ընդ	ընդ	ADP	_	_	34	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
-33	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	34	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+33	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	34	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 34	երկիր	երկիր	NOUN	_	Case=Acc|Number=Sing	29	obl	_	SpaceAfter=No|Translit=erkir|LTranslit=erkir|Gloss=earth
 35	,	,	PUNCT	_	_	42	punct	_	Translit=,|LTranslit=,
 36	եւ	եւ	CCONJ	_	_	42	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -5282,7 +5282,7 @@
 # transliterated_text = Ew bazowm borotkʻ ein yIsrayełi aṙ Ełiseiw margarēiw: ew očʻ okʻ i nocʻanē srbecʻaw: baycʻ miayn Neeman Asori.
 # translated_text = And many lepers were in Israel in the time of Eliseus the prophet; and none of them was cleansed, saving Naaman the Syrian.
 1	Եւ	եւ	CCONJ	_	_	4	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
-2	բազում	բազում	DET	_	Case=Nom|Number=Sing	3	amod	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
+2	բազում	բազում	DET	_	Case=Nom|Number=Sing	3	det	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
 3	բորոտք	բորոտ	ADJ	_	Case=Nom|Number=Plur	4	nsubj	_	Translit=borotkʻ|LTranslit=borot|Gloss=leper
 4	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=ein|LTranslit=em|Gloss=be
 5	յ	ի	ADP	_	_	6	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
@@ -5299,7 +5299,7 @@
 16	սրբեցաւ	սրբել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	conj	_	SpaceAfter=No|Translit=srbecʻaw|LTranslit=srbel|Gloss=cleanse
 17	.	.	PUNCT	_	_	20	punct	_	Translit=:|LTranslit=:
 18	բայց	բայց	CCONJ	_	_	20	orphan	_	Translit=baycʻ|LTranslit=baycʻ|Gloss=but
-19	միայն	միայն	DET	_	Case=Nom|Number=Sing	20	amod	_	Translit=miayn|LTranslit=miayn|Gloss=alone
+19	միայն	միայն	DET	_	Case=Nom|Number=Sing	20	det	_	Translit=miayn|LTranslit=miayn|Gloss=alone
 20	Նեեման	Նեեման	PROPN	_	Case=Nom|Number=Sing	4	conj	_	Translit=Neeman|LTranslit=Neeman|Gloss=Neeman
 21	Ասորի	Ասորի	ADJ	_	Case=Nom|Number=Sing	20	amod	_	SpaceAfter=No|Translit=Asori|LTranslit=Asori|Gloss=Syrian
 22	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
@@ -5530,7 +5530,7 @@
 9	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	Translit=ē|LTranslit=em|Gloss=be
 10	բան	բան	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	SpaceAfter=No|Translit=ban|LTranslit=ban|Gloss=word
 11	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	10	det	_	Translit=s|LTranslit=s|Gloss=this
-12	այս	այս	DET	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	10	amod	_	SpaceAfter=No|Translit=ays|LTranslit=ays|Gloss=this
+12	այս	այս	DET	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	10	det	_	SpaceAfter=No|Translit=ays|LTranslit=ays|Gloss=this
 13	,	,	PUNCT	_	_	18	punct	_	Translit=,|LTranslit=,
 14	զի	զի	SCONJ	_	_	18	mark	_	Translit=zi|LTranslit=zi|Gloss=because
 15	իշխանութեամբ	իշխանութիւն	NOUN	_	Case=Ins|Number=Sing	18	obl	_	Translit=išxanowtʻeamb|LTranslit=išxanowtʻiwn|Gloss=power
@@ -5554,7 +5554,7 @@
 4	զ	զ	ADP	_	Definite=Def	5	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 5	նմանէ	նա	PRON	_	Case=Abl|Deixis=Remt|Number=Sing|PronType=Dem	2	obl	_	Translit=nmanē|LTranslit=na|Gloss=he/she/it/that
 6	յ	ի	ADP	_	_	8	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-1|Gloss=to
-7	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	8	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+7	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	8	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 8	տեղիս	տեղի	NOUN	_	Case=Acc|Number=Plur	2	obl	_	Translit=tełis|LTranslit=tełi|Gloss=place
 9	շուրջ	շուրջ	ADP	_	_	11	case	_	Translit=šowrǰ|LTranslit=šowrǰ|Gloss=around
 10	զ	զ	ADP	_	Definite=Def	11	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -5659,7 +5659,7 @@
 # translated_text = And he laid his hands on every one of them, and healed them.
 1	Եւ	եւ	CCONJ	_	_	7	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
 2	նա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	7	nsubj	_	Translit=na|LTranslit=na|Gloss=he/she/it/that
-3	իւրաքանչիւր	իւրաքանչիւր	DET	_	Case=Nom|Number=Sing	4	amod	_	Translit=iwrakʻančʻiwr|LTranslit=iwrakʻančʻiwr|Gloss=each
+3	իւրաքանչիւր	իւրաքանչիւր	DET	_	Case=Nom|Number=Sing	4	det	_	Translit=iwrakʻančʻiwr|LTranslit=iwrakʻančʻiwr|Gloss=each
 4	ումեք	ոք	PRON	_	Animacy=Anim|Case=Dat|Definite=Ind|Number=Sing|PronType=Ind	7	iobj	_	Translit=owmekʻ|LTranslit=okʻ|Gloss=anyone
 5	ի	ի	ADP	_	_	6	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 6	նոցանէ	նա	PRON	_	Case=Abl|Deixis=Remt|Number=Plur|PronType=Dem	4	nmod	_	Translit=nocʻanē|LTranslit=na|Gloss=he/she/it/that
@@ -5939,7 +5939,7 @@
 9	վարդապետ	վարդապետ	NOUN	_	Case=Nom|Number=Sing	15	vocative	_	SpaceAfter=No|Translit=vardapet|LTranslit=vardapet|Gloss=teacher
 10	.	.	PUNCT	_	_	9	punct	_	Translit=:|LTranslit=:
 11	զ	զ	ADP	_	Definite=Def	13	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-12	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	13	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+12	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	13	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 13	գիշերս	գիշեր	NOUN	_	Case=Acc|Number=Plur	15	obl	_	Translit=gišers|LTranslit=gišer|Gloss=night
 14	աշխատ	աշխատ	NOUN	_	Case=Acc|Number=Sing	15	obj	_	Translit=ašxat|LTranslit=ašxat|Gloss=effort
 15	եղեաք	լինիմ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	ccomp	_	SpaceAfter=No|Translit=ełeakʻ|LTranslit=linim|Gloss=become
@@ -6108,7 +6108,7 @@
 # transliterated_text = yaysm hetē zmardik orsaycʻes i keans.
 # translated_text = From henceforth thou shalt catch men.
 1	յ	ի	ADP	_	_	3	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-3|Gloss=from
-2	այսմ	այս	DET	_	Case=Abl|Deixis=Prox|Number=Sing|PronType=Dem	3	amod	_	Translit=aysm|LTranslit=ays|Gloss=this
+2	այսմ	այս	DET	_	Case=Abl|Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	Translit=aysm|LTranslit=ays|Gloss=this
 3	հետէ	հետ	NOUN	_	Case=Abl|Number=Sing	6	obl	_	Translit=hetē|LTranslit=het|Gloss=following
 4	զ	զ	ADP	_	Definite=Def	5	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 5	մարդիկ	մարդիկ	NOUN	_	Case=Acc|Number=Sing	6	obj	_	Translit=mardik|LTranslit=mardik|Gloss=people
@@ -6274,7 +6274,7 @@
 9	եւ	եւ	CCONJ	_	_	10	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 10	ժողովեին	ժողովել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Translit=žołovein|LTranslit=žołovel|Gloss=meet
 11	ժողովուրդք	ժողովուրդ	NOUN	_	Case=Nom|Number=Plur	10	nsubj	_	Translit=žołovowrdkʻ|LTranslit=žołovowrd|Gloss=people
-12	բազումք	բազում	DET	_	Case=Nom|Number=Plur	11	amod	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
+12	բազումք	բազում	DET	_	Case=Nom|Number=Plur	11	det	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
 13	լսել	լսել	VERB	_	VerbForm=Inf	10	xcomp	_	SpaceAfter=No|Translit=lsel|LTranslit=lsel|Gloss=hear
 14	.	.	PUNCT	_	_	16	punct	_	Translit=:|LTranslit=:
 15	եւ	եւ	CCONJ	_	_	16	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -6329,7 +6329,7 @@
 21	ժողովեալ	ժողովել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	11	acl	_	Translit=žołoveal|LTranslit=žołovel|Gloss=meet
 22	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	21	aux	_	Translit=ein|LTranslit=em|Gloss=be
 23	յ	ի	ADP	_	_	25	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-1|Gloss=to
-24	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	25	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+24	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	25	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 25	քաղաքաց	քաղաք	NOUN	_	Case=Abl|Number=Plur	21	obl	_	Translit=kʻałakʻacʻ|LTranslit=kʻałakʻ|Gloss=city
 26	Գաղիղեացւոց	Գաղիղեացի	NOUN	_	Case=Gen|Number=Plur	25	nmod	_	SpaceAfter=No|Translit=Gałiłeacʻwocʻ|LTranslit=Gałiłeacʻi|Gloss=Galilean
 27	,	,	PUNCT	_	_	29	punct	_	Translit=,|LTranslit=,
@@ -6481,7 +6481,7 @@
 23	մեղս	մեղ	NOUN	_	Case=Acc|Number=Plur	21	obj	_	SpaceAfter=No|Translit=mełs|LTranslit=meł|Gloss=sin
 24	.	.	PUNCT	_	_	27	punct	_	Translit=:|LTranslit=:
 25	բայց	բայց	CCONJ	_	_	27	cc	_	Translit=baycʻ|LTranslit=baycʻ|Gloss=but
-26	միայն	միայն	DET	_	Case=Nom|Number=Sing	27	amod	_	Translit=miayn|LTranslit=miayn|Gloss=alone
+26	միայն	միայն	DET	_	Case=Nom|Number=Sing	27	det	_	Translit=miayn|LTranslit=miayn|Gloss=alone
 27	Աստուած	Աստուած	NOUN	_	Case=Nom|Number=Sing	10	conj	_	SpaceAfter=No|Translit=Astowac|LTranslit=Astowac|Gloss=God
 28	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
@@ -6694,7 +6694,7 @@
 6	Ղեւի	Ղեւի	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	Translit=Łewi|LTranslit=Łewi|Gloss=Łewi
 7	ի	ի	ADP	_	_	8	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
 8	տան	տուն	NOUN	_	Case=Loc|Number=Sing	2	obl	_	Translit=tan|LTranslit=town|Gloss=house
-9	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	8	amod	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
+9	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
 10	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = LUKE_5.29b
@@ -6704,7 +6704,7 @@
 1	Եւ	եւ	CCONJ	_	_	2	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
 2	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=ēr|LTranslit=em|Gloss=be
 3	ժողով	ժողովուրդ	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	Translit=žołov|LTranslit=žołovowrd|Gloss=people
-4	բազում	բազում	DET	_	Case=Nom|Number=Sing	3	amod	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
+4	բազում	բազում	DET	_	Case=Nom|Number=Sing	3	det	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
 5	մաքսաւորաց	մաքսաւոր	NOUN	_	Case=Gen|Number=Plur	3	nmod	_	SpaceAfter=No|Translit=makʻsaworacʻ|LTranslit=makʻsawor|Gloss=publican
 6	՝	՝	PUNCT	_	_	8	punct	_	Translit=;|LTranslit=;
 7	եւ	եւ	CCONJ	_	_	8	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -6881,7 +6881,7 @@
 4	աւուրս	աւր	NOUN	_	Case=Loc|Number=Plur	2	obl	_	SpaceAfter=No|Translit=awowrs|LTranslit=awr|Gloss=day
 5	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	4	det	_	Translit=n|LTranslit=n|Gloss=that
 6	յ	ի	ADP	_	_	7	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
-7	այնոսիկ	այն	DET	_	Case=Loc|Deixis=Remt|Number=Plur|PronType=Dem	4	amod	_	SpaceAfter=No|Translit=aynosik|LTranslit=ayn|Gloss=that
+7	այնոսիկ	այն	DET	_	Case=Loc|Deixis=Remt|Number=Plur|PronType=Dem	4	det	_	SpaceAfter=No|Translit=aynosik|LTranslit=ayn|Gloss=that
 8	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = LUKE_5.36
@@ -7057,7 +7057,7 @@
 23	ոք	ոք	PRON	_	Animacy=Anim|Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	24	nsubj	_	Translit=okʻ|LTranslit=okʻ|Gloss=anyone
 24	կարէ	կարել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	Translit=karē|LTranslit=karel|Gloss=be_able
 25	զ	զ	ADP	_	Definite=Def	27	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-26	այդ	այդ	DET	_	Case=Acc|Deixis=Med|Number=Sing|PronType=Dem	27	amod	_	Translit=ayd|LTranslit=ayd|Gloss=this
+26	այդ	այդ	DET	_	Case=Acc|Deixis=Med|Number=Sing|PronType=Dem	27	det	_	Translit=ayd|LTranslit=ayd|Gloss=this
 27	նշանս	նշան	NOUN	_	Case=Acc|Number=Plur	28	obj	_	Translit=nšans|LTranslit=nšan|Gloss=sign
 28	առնել	առնել	VERB	_	VerbForm=Inf	24	xcomp	_	Translit=aṙnel|LTranslit=aṙnel|Gloss=make
 29	զ	զ	ADP	_	Definite=Def	30	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -7239,7 +7239,7 @@
 35	՝	՝	PUNCT	_	_	36	punct	_	Translit=;|LTranslit=;
 36	սոյնպէս	սոյնպէս	ADV	_	_	18	conj	_	Translit=soynpēs|LTranslit=soynpēs|Gloss=in_the_same_way
 37	եւ	եւ	CCONJ	_	_	39	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-38	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	39	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+38	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	39	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 39	ծնեալ	ծնանել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	36	nsubj	_	SpaceAfter=No|Translit=cneal|LTranslit=cnanel|Gloss=be_born/give_birth
 40	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	39	det	_	Translit=n|LTranslit=n|Gloss=that
 41	ի	ի	ADP	_	_	42	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
@@ -7303,7 +7303,7 @@
 5	՝	՝	PUNCT	_	_	11	punct	_	Translit=;|LTranslit=;
 6	զի	զի	SCONJ	_	_	11	mark	_	Translit=zi|LTranslit=zi|Gloss=because
 7	զ	զ	ADP	_	Definite=Def	9	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-8	որ	որ	DET	_	Case=Acc|Number=Sing|PronType=Rel	9	amod	_	Translit=or|LTranslit=or|Gloss=who
+8	որ	որ	DET	_	Case=Acc|Number=Sing|PronType=Rel	9	det	_	Translit=or|LTranslit=or|Gloss=who
 9	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	10	obj	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
 10	գիտեմք	գիտել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	ccomp	_	Translit=gitemkʻ|LTranslit=gitel|Gloss=know
 11	խաւսիմք	խաւսել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	3	ccomp	_	SpaceAfter=No|Translit=xawsimkʻ|LTranslit=xawsel|Gloss=speak
@@ -7807,7 +7807,7 @@
 # transliterated_text = Ard ays owraxowtʻiwn or ims ē lcʻeal ē
 # translated_text = This my joy therefore is fulfilled.
 1	Արդ	արդ	ADV	_	_	8	advmod	_	Translit=Ard|LTranslit=ard|Gloss=now
-2	այս	այս	DET	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	3	amod	_	Translit=ays|LTranslit=ays|Gloss=this
+2	այս	այս	DET	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	Translit=ays|LTranslit=ays|Gloss=this
 3	ուրախութիւն	ուրախութիւն	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	Translit=owraxowtʻiwn|LTranslit=owraxowtʻiwn|Gloss=joy
 4	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	5	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 5	իմ	ես	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	acl	_	SpaceAfter=No|Translit=im|LTranslit=es|Gloss=I
@@ -7879,7 +7879,7 @@
 5	գայ	գալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	csubj	_	SpaceAfter=No|Translit=gay|LTranslit=gal|Gloss=come
 6	.	.	PUNCT	_	_	5	punct	_	Translit=:|LTranslit=:
 7	զ	զ	ADP	_	Definite=Def	9	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-8	որ	որ	DET	_	Case=Acc|Number=Sing|PronType=Rel	9	amod	_	Translit=or|LTranslit=or|Gloss=who
+8	որ	որ	DET	_	Case=Acc|Number=Sing|PronType=Rel	9	det	_	Translit=or|LTranslit=or|Gloss=who
 9	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	10	obj	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
 10	ետես	տեսանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	ccomp	_	Translit=etes|LTranslit=tesanel|Gloss=see
 11	եւ	եւ	CCONJ	_	_	14	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -7952,7 +7952,7 @@
 5	.	.	PUNCT	_	_	10	punct	_	Translit=:|LTranslit=:
 6	եւ	եւ	CCONJ	_	_	10	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 7	զ	զ	ADP	_	Definite=Def	9	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-8	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	9	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+8	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	9	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 9	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	10	obj	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
 10	ետ	տալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Translit=et|LTranslit=tal|Gloss=give
 11	ի	ի	ADP	_	_	13	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
@@ -8009,7 +8009,7 @@
 7	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	6	det	_	Translit=n|LTranslit=n|Gloss=that
 8	եթե	եթե	SCONJ	_	_	12	mark	_	Translit=etʻe|LTranslit=etʻe|Gloss=whether
 9	Յիսուս	Յիսուս	PROPN	_	Case=Nom|Number=Sing	12	nsubj	_	Translit=Yisows|LTranslit=Yisows|Gloss=Jesus
-10	բազում	բազում	DET	_	Case=Acc|Number=Sing	11	amod	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
+10	բազում	բազում	DET	_	Case=Acc|Number=Sing	11	det	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
 11	աշակերտս	աշակերտ	NOUN	_	Case=Acc|Number=Plur	12	obj	_	Translit=ašakerts|LTranslit=ašakert|Gloss=disciple
 12	առնէ	առնել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	Translit=aṙnē|LTranslit=aṙnel|Gloss=make
 13	եւ	եւ	CCONJ	_	_	14	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -8078,7 +8078,7 @@
 18	ետ	տալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	acl	_	Translit=et|LTranslit=tal|Gloss=give
 19	Յակովբ	Յակովբ	PROPN	_	Case=Nom|Number=Sing	18	nsubj	_	Translit=Yakovb|LTranslit=Yakovb|Gloss=Yakovb
 20	որդւոյ	որդի	NOUN	_	Case=Dat|Number=Sing	22	nmod	_	Translit=ordwoy|LTranslit=ordi|Gloss=son
-21	իւրում	իւր	DET	_	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	20	amod	_	Translit=iwrowm|LTranslit=iwr|Gloss=own
+21	իւրում	իւր	DET	_	Case=Dat|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	20	det	_	Translit=iwrowm|LTranslit=iwr|Gloss=own
 22	Յովսէփա	Յովսէփ	PROPN	_	Case=Dat|Number=Sing	18	iobj	_	SpaceAfter=No|Translit=Yovsēpʻa|LTranslit=Yovsēpʻ|Gloss=Yovsēpʻ
 23	՝	՝	PUNCT	_	_	25	punct	_	Translit=;|LTranslit=;
 24	եւ	եւ	CCONJ	_	_	25	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -8295,7 +8295,7 @@
 15	,	,	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,
 16	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	20	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 17	զ	զ	ADP	_	Definite=Def	19	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-18	այս	այս	DET	_	Case=Acc|Deixis=Prox|Number=Sing|PronType=Dem	19	amod	_	Translit=ays|LTranslit=ays|Gloss=this
+18	այս	այս	DET	_	Case=Acc|Deixis=Prox|Number=Sing|PronType=Dem	19	det	_	Translit=ays|LTranslit=ays|Gloss=this
 19	ջրհոր	ջրհոր	NOUN	_	Case=Acc|Number=Sing	20	obj	_	Translit=ǰrhor|LTranslit=ǰrhor|Gloss=well
 20	ետ	տալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	acl	_	Translit=et|LTranslit=tal|Gloss=give
 21	մեզ	մեք	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	20	iobj	_	SpaceAfter=No|Translit=mez|LTranslit=mekʻ|Gloss=we
@@ -8330,7 +8330,7 @@
 11	ի	ի	ADP	_	_	12	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 12	ջրոյ	ջուր	NOUN	_	Case=Abl|Number=Sing	10	obl	_	Translit=ǰroy|LTranslit=ǰowr|Gloss=water
 13	յ	ի	ADP	_	_	14	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-3|Gloss=from
-14	այդմանէ	այդ	DET	_	Case=Abl|Deixis=Med|Number=Sing|PronType=Dem	12	amod	_	SpaceAfter=No|Translit=aydmanē|LTranslit=ayd|Gloss=this
+14	այդմանէ	այդ	DET	_	Case=Abl|Deixis=Med|Number=Sing|PronType=Dem	12	det	_	SpaceAfter=No|Translit=aydmanē|LTranslit=ayd|Gloss=this
 15	.	.	PUNCT	_	_	8	punct	_	Translit=:|LTranslit=:
 16	միւսանգամ	միւսանգամ	ADV	_	_	17	advmod	_	Translit=miwsangam|LTranslit=miwsangam|Gloss=next_time
 17	ծարաւէ	ծարաւել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	SpaceAfter=No|Translit=carawē|LTranslit=carawel|Gloss=thirst
@@ -8391,7 +8391,7 @@
 12	ջուր	ջուր	NOUN	_	Case=Acc|Number=Sing	9	obj	_	SpaceAfter=No|Translit=ǰowr|LTranslit=ǰowr|Gloss=water
 13	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	12	det	_	Translit=n|LTranslit=n|Gloss=that
 14	զ	զ	ADP	_	Definite=Def	15	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-15	այն	այն	DET	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	12	amod	_	Translit=ayn|LTranslit=ayn|Gloss=that
+15	այն	այն	DET	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	12	det	_	Translit=ayn|LTranslit=ayn|Gloss=that
 16	զի	զի	SCONJ	_	_	18	mark	_	Translit=zi|LTranslit=zi|Gloss=because
 17	մի	մի	PART	_	Polarity=Neg	18	advmod	_	Translit=mi|LTranslit=mi|Gloss=don't
 18	ծարաւեցից	ծարաւել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	advcl	_	SpaceAfter=No|Translit=carawecʻicʻ|LTranslit=carawel|Gloss=thirst
@@ -8514,7 +8514,7 @@
 4	ի	ի	ADP	_	_	5	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
 5	լերինս	լեառն	NOUN	_	Case=Loc|Number=Plur	9	obl	_	Translit=lerins|LTranslit=leaṙn|Gloss=mountain
 6	յ	ի	ADP	_	_	7	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
-7	այսմիկ	այս	DET	_	Case=Loc|Deixis=Prox|Number=Sing|PronType=Dem	5	amod	_	Translit=aysmik|LTranslit=ays|Gloss=this
+7	այսմիկ	այս	DET	_	Case=Loc|Deixis=Prox|Number=Sing|PronType=Dem	5	det	_	Translit=aysmik|LTranslit=ays|Gloss=this
 8	երկիր	երկիր	NOUN	_	Case=Acc|Number=Sing	9	obj	_	Translit=erkir|LTranslit=erkir|Gloss=earth
 9	պագին	պագանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=pagin|LTranslit=paganel|Gloss=worship
 10	՝	՝	PUNCT	_	_	13	punct	_	Translit=;|LTranslit=;
@@ -8558,7 +8558,7 @@
 18	ի	ի	ADP	_	_	19	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
 19	լերինս	լեառն	NOUN	_	Case=Loc|Number=Plur	28	obl	_	Translit=lerins|LTranslit=leaṙn|Gloss=mountain
 20	յ	ի	ADP	_	_	21	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
-21	այսմիկ	այս	DET	_	Case=Loc|Deixis=Prox|Number=Sing|PronType=Dem	19	amod	_	SpaceAfter=No|Translit=aysmik|LTranslit=ays|Gloss=this
+21	այսմիկ	այս	DET	_	Case=Loc|Deixis=Prox|Number=Sing|PronType=Dem	19	det	_	SpaceAfter=No|Translit=aysmik|LTranslit=ays|Gloss=this
 22	.	.	PUNCT	_	_	19	punct	_	Translit=:|LTranslit=:
 23	եւ	եւ	CCONJ	_	_	26	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 24	ոչ	ոչ	PART	_	Polarity=Neg	26	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
@@ -8706,7 +8706,7 @@
 # translated_text = And upon this came his disciples, and marvelled that he talked with the woman: yet no man said, What seekest thou? or, Why talkest thou with her.
 1	Եւ	եւ	CCONJ	_	_	5	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
 2	յ	ի	ADP	_	_	4	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-1|Gloss=to
-3	այն	այն	DET	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	4	amod	_	Translit=ayn|LTranslit=ayn|Gloss=that
+3	այն	այն	DET	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	4	det	_	Translit=ayn|LTranslit=ayn|Gloss=that
 4	բան	բան	NOUN	_	Case=Acc|Number=Sing	5	obl	_	Translit=ban|LTranslit=ban|Gloss=word
 5	եկին	գալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=ekin|LTranslit=gal|Gloss=come
 6	աշակերտք	աշակերտ	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	SpaceAfter=No|Translit=ašakertkʻ|LTranslit=ašakert|Gloss=disciple
@@ -8771,7 +8771,7 @@
 27	ինձ	ես	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	26	iobj	_	Translit=inj|LTranslit=es|Gloss=I
 28	զ	զ	ADP	_	Definite=Def	29	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 29	ամենայն	ամենայն	PRON	_	Case=Acc|Number=Sing|PronType=Tot	26	obj	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
-30	որ	որ	DET	_	Case=Nom|Number=Sing|PronType=Rel	31	amod	_	Translit=or|LTranslit=or|Gloss=who
+30	որ	որ	DET	_	Case=Nom|Number=Sing|PronType=Rel	31	det	_	Translit=or|LTranslit=or|Gloss=who
 31	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	33	nsubj	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
 32	իմ	ես	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	33	obl	_	Translit=im|LTranslit=es|Gloss=I
 33	գործեալ	գործել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	29	acl	_	Translit=gorceal|LTranslit=gorcel|Gloss=work
@@ -8881,7 +8881,7 @@
 11	արարից	առնել	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	8	advcl	_	Translit=araricʻ|LTranslit=aṙnel|Gloss=make
 12	զ	զ	ADP	_	Definite=Def	13	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 13	կամս	կամք	NOUN	_	Case=Acc|Number=Plur	11	obj	_	Translit=kams|LTranslit=kamkʻ|Gloss=will
-14	այնորիկ	այն	DET	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	13	amod	_	Translit=aynorik|LTranslit=ayn|Gloss=that
+14	այնորիկ	այն	DET	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	13	det	_	Translit=aynorik|LTranslit=ayn|Gloss=that
 15	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	16	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 16	առաքեաց	առաքել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	acl	_	SpaceAfter=No|Translit=aṙakʻeacʻ|LTranslit=aṙakʻel|Gloss=send
 17	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	15	det	_	Translit=n|LTranslit=n|Gloss=that
@@ -9033,7 +9033,7 @@
 3	քաղաքէ	քաղաք	NOUN	_	Case=Abl|Number=Sing	8	nmod	_	SpaceAfter=No|Translit=kʻałakʻē|LTranslit=kʻałakʻ|Gloss=city
 4	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	3	det	_	Translit=n|LTranslit=n|Gloss=that
 5	յ	ի	ADP	_	_	6	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-3|Gloss=from
-6	այնմանէ	այն	DET	_	Case=Abl|Deixis=Remt|Number=Sing|PronType=Dem	3	amod	_	Translit=aynmanē|LTranslit=ayn|Gloss=that
+6	այնմանէ	այն	DET	_	Case=Abl|Deixis=Remt|Number=Sing|PronType=Dem	3	det	_	Translit=aynmanē|LTranslit=ayn|Gloss=that
 7	Սամարացւոց	Սամարացի	NOUN	_	Case=Gen|Number=Plur	8	nmod	_	Translit=Samaracʻwocʻ|LTranslit=Samaracʻi|Gloss=Samaritan
 8	բազումք	բազում	DET	_	Case=Nom|Number=Plur	9	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
 9	հաւատացին	հաւատալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=hawatacʻin|LTranslit=hawatal|Gloss=believe
@@ -9050,7 +9050,7 @@
 20	ինձ	ես	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	19	iobj	_	Translit=inj|LTranslit=es|Gloss=I
 21	զ	զ	ADP	_	Definite=Def	22	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 22	ամենայն	ամենայն	PRON	_	Case=Acc|Number=Sing|PronType=Tot	19	obj	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
-23	որ	որ	DET	_	Case=Nom|Number=Sing|PronType=Rel	24	amod	_	Translit=or|LTranslit=or|Gloss=who
+23	որ	որ	DET	_	Case=Nom|Number=Sing|PronType=Rel	24	det	_	Translit=or|LTranslit=or|Gloss=who
 24	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	26	nsubj	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
 25	իմ	ես	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	26	obl	_	Translit=im|LTranslit=es|Gloss=I
 26	գործեալ	գործել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	22	acl	_	Translit=gorceal|LTranslit=gorcel|Gloss=work
@@ -9158,7 +9158,7 @@
 6	եթե	եթե	SCONJ	_	_	13	mark	_	Translit=etʻe|LTranslit=etʻe|Gloss=whether
 7	մարգարէ	մարգարէ	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	Translit=margarē|LTranslit=margarē|Gloss=prophet
 8	յ	ի	ADP	_	_	10	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
-9	իրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	10	amod	_	Translit=irowm|LTranslit=iwr|Gloss=own
+9	իրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	10	det	_	Translit=irowm|LTranslit=iwr|Gloss=own
 10	գաւառի	գաւառ	NOUN	_	Case=Loc|Number=Sing	13	obl	_	Translit=gawaṙi|LTranslit=gawaṙ|Gloss=province
 11	պատիւ	պատիւ	NOUN	_	Case=Acc|Number=Sing	13	obj	_	Translit=patiw|LTranslit=patiw|Gloss=honorable
 12	ոչ	ոչ	PART	_	Polarity=Neg	13	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
@@ -9187,7 +9187,7 @@
 16	եւս	եւս	ADV	_	_	15	advmod	_	Translit=ews|LTranslit=ews|Gloss=even
 17	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	Translit=ēr|LTranslit=em|Gloss=be
 18	զ	զ	ADP	_	Definite=Def	20	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-19	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	20	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+19	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	20	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 20	նշանս	նշան	NOUN	_	Case=Acc|Number=Plur	15	obj	_	SpaceAfter=No|Translit=nšans|LTranslit=nšan|Gloss=sign
 21	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	20	det	_	Translit=n|LTranslit=n|Gloss=that
 22	զ	զ	ADP	_	Definite=Def	23	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -9293,7 +9293,7 @@
 6	եթե	եթե	SCONJ	_	_	12	mark	_	Translit=etʻe|LTranslit=etʻe|Gloss=whether
 7	ոչ	ոչ	PART	_	Polarity=Neg	12	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
 8	նշանս	նշան	NOUN	_	Case=Acc|Number=Plur	12	obj	_	Translit=nšans|LTranslit=nšan|Gloss=sign
-9	ինչ	ինչ	DET	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	8	amod	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=any
+9	ինչ	ինչ	DET	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	8	det	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=any
 10	եւ	եւ	CCONJ	_	_	11	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 11	արուեստս	արուեստ	NOUN	_	Case=Acc|Number=Plur	8	conj	_	Translit=arowests|LTranslit=arowest|Gloss=art
 12	տեսանէք	տեսանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	SpaceAfter=No|Translit=tesanēkʻ|LTranslit=tesanel|Gloss=see
@@ -9433,7 +9433,7 @@
 4	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	2	nmod	_	Translit=nora|LTranslit=na|Gloss=he/she/it/that
 5	եթե	եթե	SCONJ	_	_	8	mark	_	Translit=etʻe|LTranslit=etʻe|Gloss=whether
 6	յ	ի	ADP	_	_	8	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
-7	այնմ	այն	DET	_	Case=Loc|Deixis=Remt|Number=Sing|PronType=Dem	8	amod	_	Translit=aynm|LTranslit=ayn|Gloss=that
+7	այնմ	այն	DET	_	Case=Loc|Deixis=Remt|Number=Sing|PronType=Dem	8	det	_	Translit=aynm|LTranslit=ayn|Gloss=that
 8	ժամու	ժամ	NOUN	_	Case=Loc|Number=Sing	1	ccomp	_	Translit=žamow|LTranslit=žam|Gloss=hour
 9	յ	ի	ADP	_	_	10	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
 10	որում	որ	PRON	_	Case=Loc|Number=Sing|PronType=Rel	11	obl	_	Translit=orowm|LTranslit=or|Gloss=which
@@ -9458,7 +9458,7 @@
 2	հաւատաց	հաւատալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=hawatacʻ|LTranslit=hawatal|Gloss=believe
 3	ինքն	ինքն	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	nsubj	_	Translit=inkʻn|LTranslit=inkʻn|Gloss=he/she/self
 4	եւ	եւ	CCONJ	_	_	6	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-5	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	6	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+5	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	6	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 6	տուն	տուն	NOUN	_	Case=Nom|Number=Sing	3	conj	_	Translit=town|LTranslit=town|Gloss=house
 7	իւր	իւր	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	nmod	_	SpaceAfter=No|Translit=iwr|LTranslit=iwr|Gloss=oneself
 8	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
@@ -9576,7 +9576,7 @@
 9	եւ	եւ	CCONJ	_	_	10	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 10	գիտաց	գիտել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	Translit=gitacʻ|LTranslit=gitel|Gloss=know
 11	թե	թե	SCONJ	_	_	15	mark	_	Translit=tʻe|LTranslit=tʻe|Gloss=whether
-12	բազում	բազում	DET	_	Case=Nom|Number=Sing	13	amod	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
+12	բազում	բազում	DET	_	Case=Nom|Number=Sing	13	det	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
 13	ժամանակք	ժամանակ	NOUN	_	Case=Nom|Number=Plur	15	nsubj	_	Translit=žamanakkʻ|LTranslit=žamanak|Gloss=time
 14	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	Translit=en|LTranslit=em|Gloss=be
 15	այնուհետեւ	այնուհետեւ	ADV	_	Deixis=Remt|PronType=Dem	10	ccomp	_	SpaceAfter=No|Translit=aynowhetew|LTranslit=aynowhetew|Gloss=then
@@ -9685,7 +9685,7 @@
 5	աւուր	աւր	NOUN	_	Case=Loc|Number=Sing	3	obl	_	SpaceAfter=No|Translit=awowr|LTranslit=awr|Gloss=day
 6	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	5	det	_	Translit=n|LTranslit=n|Gloss=that
 7	յ	ի	ADP	_	_	8	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
-8	այնմիկ	այն	DET	_	Case=Loc|Deixis=Remt|Number=Sing|PronType=Dem	5	amod	_	SpaceAfter=No|Translit=aynmik|LTranslit=ayn|Gloss=that
+8	այնմիկ	այն	DET	_	Case=Loc|Deixis=Remt|Number=Sing|PronType=Dem	5	det	_	SpaceAfter=No|Translit=aynmik|LTranslit=ayn|Gloss=that
 9	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = JOHN_5.10
@@ -9984,7 +9984,7 @@
 47	.	.	PUNCT	_	_	52	punct	_	Translit=:|LTranslit=:
 48	եւ	եւ	CCONJ	_	_	52	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 49	զ	զ	ADP	_	Definite=Def	50	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-50	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	51	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+50	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	51	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 51	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	52	obj	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
 52	ցուցանէ	ցուցանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	44	conj	_	Translit=cʻowcʻanē|LTranslit=cʻowcʻanel|Gloss=show
 53	նմա	նա	PRON	_	Case=Dat|Deixis=Remt|Number=Sing|PronType=Dem	52	iobj	_	Translit=nma|LTranslit=na|Gloss=he/she/it/that
@@ -10049,7 +10049,7 @@
 7	ոք	ոք	PRON	_	Animacy=Anim|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	5	obj	_	Translit=okʻ|LTranslit=okʻ|Gloss=anyone
 8	այղ	այլ	CCONJ	_	_	13	cc	_	Translit=aył|LTranslit=ayl|Gloss=but
 9	զ	զ	ADP	_	Definite=Def	11	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-10	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	11	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+10	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	11	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 11	դատաստան	դատաստան	NOUN	_	Case=Acc|Number=Sing	13	obj	_	SpaceAfter=No|Translit=datastan|LTranslit=datastan|Gloss=judgment
 12	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	11	det	_	Translit=n|LTranslit=n|Gloss=that
 13	ետ	տալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	Translit=et|LTranslit=tal|Gloss=give
@@ -10181,7 +10181,7 @@
 5	կեանս	կեանք	NOUN	_	Case=Acc|Number=Plur	4	obj	_	Translit=keans|LTranslit=keankʻ|Gloss=life
 6	յ	ի	ADP	_	_	7	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
 7	անձին	անձն	NOUN	_	Case=Loc|Number=Sing	4	obl	_	Translit=anjin|LTranslit=anjn|Gloss=person/soul
-8	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	7	amod	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
+8	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
 9	՝	՝	PUNCT	_	_	4	punct	_	Translit=;|LTranslit=;
 10	նոյնպէս	նոյնպէս	ADV	_	Deixis=Remt|PronType=Dem	14	advmod	_	Translit=noynpēs|LTranslit=noynpēs|Gloss=the_same_way
 11	ետ	տամ	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	aux:caus	_	Translit=et|LTranslit=tal|Gloss=give
@@ -10191,7 +10191,7 @@
 15	կեանս	կեանք	NOUN	_	Case=Acc|Number=Plur	14	obj	_	Translit=keans|LTranslit=keankʻ|Gloss=life
 16	յ	ի	ADP	_	_	17	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
 17	անձին	անձն	NOUN	_	Case=Loc|Number=Sing	14	obl	_	Translit=anjin|LTranslit=anjn|Gloss=person/soul
-18	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	17	amod	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
+18	իւրում	իւր	DET	_	Case=Loc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	17	det	_	SpaceAfter=No|Translit=iwrowm|LTranslit=iwr|Gloss=own
 19	:	:	PUNCT	_	_	14	punct	_	Translit=.|LTranslit=.
 
 # sent_id = JOHN_5.27
@@ -10298,7 +10298,7 @@
 20	այղ	այլ	CCONJ	_	_	22	cc	_	Translit=aył|LTranslit=ayl|Gloss=but
 21	զ	զ	ADP	_	Definite=Def	22	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 22	կամս	կամք	NOUN	_	Case=Acc|Number=Plur	17	conj	_	Translit=kams|LTranslit=kamkʻ|Gloss=will
-23	այնորիկ	այն	DET	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	22	amod	_	Translit=aynorik|LTranslit=ayn|Gloss=that
+23	այնորիկ	այն	DET	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	22	det	_	Translit=aynorik|LTranslit=ayn|Gloss=that
 24	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	25	nsubj	_	Translit=or|LTranslit=or|Gloss=which
 25	առաքեաց	առաքել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	acl	_	SpaceAfter=No|Translit=aṙakʻeacʻ|LTranslit=aṙakʻel|Gloss=send
 26	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	25	det	_	Translit=n|LTranslit=n|Gloss=that
@@ -10621,7 +10621,7 @@
 3	յ	ի	ADP	_	_	4	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-1|Gloss=to
 4	անուն	անուն	NOUN	_	Case=Acc|Number=Sing	2	obl	_	Translit=anown|LTranslit=anown|Gloss=name
 5	հաւր	հայր	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	Translit=hawr|LTranslit=hayr|Gloss=father
-6	իմոյ	իմ	DET	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	amod	_	SpaceAfter=No|Translit=imoy|LTranslit=im|Gloss=my
+6	իմոյ	իմ	DET	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	SpaceAfter=No|Translit=imoy|LTranslit=im|Gloss=my
 7	՝	՝	PUNCT	_	_	10	punct	_	Translit=;|LTranslit=;
 8	եւ	եւ	CCONJ	_	_	10	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 9	ոչ	ոչ	PART	_	Polarity=Neg	10	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
@@ -10634,7 +10634,7 @@
 16	ոք	ոք	PRON	_	Animacy=Anim|Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	15	nmod	_	Translit=okʻ|LTranslit=okʻ|Gloss=anyone
 17	եկեցէ	գալ	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	24	advcl	_	Translit=ekecʻē|LTranslit=gal|Gloss=come
 18	յ	ի	ADP	_	_	20	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-1|Gloss=to
-19	իւր	իւր	DET	_	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	20	amod	_	Translit=iwr|LTranslit=iwr|Gloss=own
+19	իւր	իւր	DET	_	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	20	det	_	Translit=iwr|LTranslit=iwr|Gloss=own
 20	անուն	անուն	NOUN	_	Case=Acc|Number=Sing	17	obl	_	SpaceAfter=No|Translit=anown|LTranslit=anown|Gloss=name
 21	.	.	PUNCT	_	_	17	punct	_	Translit=:|LTranslit=:
 22	զ	զ	ADP	_	Definite=Def	23	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -10744,7 +10744,7 @@
 9-10	զիա՞րդ	_	_	_	_	_	_	_	Translit=zia?rd
 9	զիարդ	զիարդ	ADV	_	PronType=Int	14	mark	_	Translit=ziard|LTranslit=ziard|Gloss=why
 10	՞	՞	PUNCT	_	_	9	punct	_	Translit=?|LTranslit=?
-11	իմոց	իմ	DET	_	Case=Dat|Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	amod	_	Translit=imocʻ|LTranslit=im|Gloss=my
+11	իմոց	իմ	DET	_	Case=Dat|Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	det	_	Translit=imocʻ|LTranslit=im|Gloss=my
 12	բանից	բան	NOUN	_	Case=Dat|Number=Plur	14	iobj	_	SpaceAfter=No|Translit=banicʻ|LTranslit=ban|Gloss=word
 13	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	12	det	_	Translit=s|LTranslit=s|Gloss=this
 14	հաւատայցէք	հաւատալ	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	Translit=hawataycʻēkʻ|LTranslit=hawatal|Gloss=believe
@@ -10763,7 +10763,7 @@
 # text = Այս, ասէ, Հայկ գեղապատշաճ եւ անձնեայ, քաջագանգուր, խայտակն եւ հաստաբազուկ:
 # transliterated_text = Ays, asē, Hayk gełapatšač ew anjneay, kʻaǰagangowr, xaytakn ew hastabazowk.
 # translated_text = Hayk, he says, was handsome and personable, with curly hair, sparkling eyes, and strong arms:
-1	Այս	այս	DET	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	5	amod	_	SpaceAfter=No|Translit=Ays|LTranslit=ays|Gloss=this
+1	Այս	այս	DET	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	5	det	_	SpaceAfter=No|Translit=Ays|LTranslit=ays|Gloss=this
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|LTranslit=,
 3	ասէ	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=asē|LTranslit=asel|Gloss=say
 4	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
@@ -10805,7 +10805,7 @@
 20	միապետել	միապետել	VERB	_	VerbForm=Inf	16	xcomp	_	Translit=miapetel|LTranslit=miapetel|Gloss=rule_autocratically
 21	ի	ի	ADP	_	_	24	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 22	վերայ	վերայ	ADV	_	_	21	fixed	_	Translit=veray|LTranslit=veray|Gloss=above
-23	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	24	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+23	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	24	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 24	սկայից	հսկայ	NOUN	_	Case=Gen|Number=Plur	20	obl	_	SpaceAfter=No|Translit=skayicʻ|LTranslit=hskay|Gloss=giant
 25	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	24	det	_	Translit=n|LTranslit=n|Gloss=that
 26	եւ	եւ	CCONJ	_	_	27	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -10832,7 +10832,7 @@
 14	մարդկան	մարդ	NOUN	_	Case=Gen|Number=Plur	13	nmod	_	Translit=mardkan|LTranslit=mard|Gloss=man
 15	ընդ	ընդ	ADP	_	_	16	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
 16	լայնութիւն	լայնութիւն	NOUN	_	Case=Acc|Number=Sing	12	nmod	_	Translit=laynowtʻiwn|LTranslit=laynowtʻiwn|Gloss=width
-17	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	18	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+17	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	18	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 18	երկրի	երկիր	NOUN	_	Case=Gen|Number=Sing	16	nmod	_	SpaceAfter=No|Translit=erkri|LTranslit=erkir|Gloss=earth
 19	,	,	PUNCT	_	_	22	punct	_	Translit=,|LTranslit=,
 20	ի	ի	ADP	_	_	22	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
@@ -10855,13 +10855,13 @@
 2	անդ	անդ	ADV	_	Deixis=Remt|PronType=Dem	3	advmod	_	Translit=and|LTranslit=and|Gloss=there
 3	մոլեգնեալ	մոլեգնել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	Translit=molegneal|LTranslit=molegnel|Gloss=become_furious
 4	այր	այր	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	Translit=ayr|LTranslit=ayr|LId=այր-1|Gloss=man
-5	իւրաքանչիւր	իւրաքանչիւր	DET	_	Case=Nom|Number=Sing	4	amod	_	SpaceAfter=No|Translit=iwrakʻančʻiwr|LTranslit=iwrakʻančʻiwr|Gloss=each
+5	իւրաքանչիւր	իւրաքանչիւր	DET	_	Case=Nom|Number=Sing	4	det	_	SpaceAfter=No|Translit=iwrakʻančʻiwr|LTranslit=iwrakʻančʻiwr|Gloss=each
 6	,	,	PUNCT	_	_	12	punct	_	Translit=,|LTranslit=,
 7	սուր	սուր	NOUN	_	Case=Acc|Number=Sing	12	nmod	_	Translit=sowr|LTranslit=sowr|Gloss=sword
 8	ի	ի	ADP	_	_	9	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 9	կող	կող	NOUN	_	Case=Acc|Number=Sing	12	nmod	_	Translit=koł|LTranslit=koł|Gloss=side
 10	ընկերի	ընկեր	NOUN	_	Case=Gen|Number=Sing	9	nmod	_	Translit=ənkeri|LTranslit=ənker|Gloss=friend
-11	իւրոյ	իւր	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	10	amod	_	Translit=iwroy|LTranslit=iwr|Gloss=own
+11	իւրոյ	իւր	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	10	det	_	Translit=iwroy|LTranslit=iwr|Gloss=own
 12	ձգելով	ձգել	VERB	_	Case=Ins|Number=Sing|VerbForm=Vnoun	3	advcl	_	SpaceAfter=No|Translit=jgelov|LTranslit=jgel|Gloss=stretch
 13	՝	՝	PUNCT	_	_	3	punct	_	Translit=;|LTranslit=;
 14	ջանային	ջանալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=ǰanayin|LTranslit=ǰanal|Gloss=try
@@ -10880,7 +10880,7 @@
 27	բռնանալ	բռնանալ	VERB	_	VerbForm=Inf	24	xcomp	_	Translit=bṙnanal|LTranslit=bṙnanal|Gloss=violent_toward
 28	ունել	ունել	VERB	_	VerbForm=Inf	27	parataxis	_	Translit=ownel|LTranslit=ownel|Gloss=have
 29	զ	զ	ADP	_	Definite=Def	31	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-30	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	31	amod	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+30	ամենայն	ամենայն	DET	_	Case=Acc|Number=Sing|PronType=Tot	31	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
 31	երկիր	երկիր	NOUN	_	Case=Acc|Number=Sing	27	obj	_	SpaceAfter=No|Translit=erkir|LTranslit=erkir|Gloss=earth
 32	:	:	PUNCT	_	_	14	punct	_	Translit=.|LTranslit=.
 
@@ -10899,7 +10899,7 @@
 9	ծնանելոյ	ծնանել	VERB	_	Case=Gen|Number=Sing|VerbForm=Vnoun	19	advcl	_	Translit=cnaneloy|LTranslit=cnanel|Gloss=be_born/give_birth
 10	զ	զ	ADP	_	Definite=Def	11	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 11	որդի	որդի	NOUN	_	Case=Acc|Number=Sing	14	nmod	_	Translit=ordi|LTranslit=ordi|Gloss=son
-12	իւր	իւր	DET	_	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	11	amod	_	Translit=iwr|LTranslit=iwr|Gloss=own
+12	իւր	իւր	DET	_	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	11	det	_	Translit=iwr|LTranslit=iwr|Gloss=own
 13	զ	զ	ADP	_	Definite=Def	14	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 14	Արամանեակ	Արամանեակ	PROPN	_	Case=Acc|Number=Sing	9	obj	_	Translit=Aramaneak|LTranslit=Aramaneak|Gloss=Aramaneak
 15	ի	ի	ADP	_	_	16	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
@@ -10921,7 +10921,7 @@
 31	,	,	PUNCT	_	_	33	punct	_	Translit=,|LTranslit=,
 32	հանդերձ	հանդերձ	ADP	_	_	33	case	_	Translit=handerj|LTranslit=handerj|Gloss=together
 33	որդւովք	որդի	NOUN	_	Case=Ins|Number=Plur	28	obl	_	Translit=ordwovkʻ|LTranslit=ordi|Gloss=son
-34	իւրովք	իւր	DET	_	Case=Ins|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	33	amod	_	Translit=iwrovkʻ|LTranslit=iwr|Gloss=own
+34	իւրովք	իւր	DET	_	Case=Ins|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	33	det	_	Translit=iwrovkʻ|LTranslit=iwr|Gloss=own
 35	եւ	եւ	CCONJ	_	_	36	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 36	դստերաւք	դուստր	NOUN	_	Case=Ins|Number=Plur	33	conj	_	Translit=dsterawkʻ|LTranslit=dowstr|Gloss=daughter
 37	եւ	եւ	CCONJ	_	_	39	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -11038,7 +11038,7 @@
 26	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	25	det	_	Translit=n|LTranslit=n|Gloss=that
 27	Հարք	Հարք	PROPN	_	Case=Nom|Number=Plur	22	xcomp	_	SpaceAfter=No|Translit=Harkʻ|LTranslit=Harkʻ|Gloss=Harkʻ
 28	,	,	PUNCT	_	_	30	punct	_	Translit=,|LTranslit=,
-29	այս	այս	DET	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	30	amod	_	Translit=ays|LTranslit=ays|Gloss=this
+29	այս	այս	DET	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	30	det	_	Translit=ays|LTranslit=ays|Gloss=this
 30	ինքն	ինքն	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	22	advcl	_	Translit=inkʻn|LTranslit=inkʻn|Gloss=he/she/self
 31	թէ	թէ	SCONJ	_	_	35	mark	_	Translit=tʻē|LTranslit=tʻē|Gloss=whether
 32	հարք	Հարք	PROPN	_	Case=Nom|Number=Plur	35	nsubj	_	Translit=harkʻ|LTranslit=Harkʻ|Gloss=Harkʻ
@@ -11064,7 +11064,7 @@
 6	եւ	եւ	CCONJ	_	_	7	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 7	անուանէ	անուանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	Translit=anowanē|LTranslit=anowanel|Gloss=name
 8	յ	ի	ADP	_	_	10	case	_	SpaceAfter=No|Translit=y|LTranslit=y|LId=ի-1|Gloss=to
-9	իւր	իւր	DET	_	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	10	amod	_	Translit=iwr|LTranslit=iwr|Gloss=own
+9	իւր	իւր	DET	_	Case=Acc|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	10	det	_	Translit=iwr|LTranslit=iwr|Gloss=own
 10	անուն	անուն	NOUN	_	Case=Acc|Number=Sing	7	obl	_	Translit=anown|LTranslit=anown|Gloss=name
 11	Հայկաշէն	Հայկաշէն	PROPN	_	Case=Nom|Number=Sing	7	xcomp	_	SpaceAfter=No|Translit=Haykašēn|LTranslit=Haykašēn|Gloss=Haykašēn
 12	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
@@ -11085,7 +11085,7 @@
 10	կողմանէ	կողմն	NOUN	_	Case=Abl|Number=Sing	20	obl	_	Translit=kołmanē|LTranslit=kołmn|Gloss=side
 11	դաշտի	դաշտ	NOUN	_	Case=Gen|Number=Sing	10	nmod	_	SpaceAfter=No|Translit=dašti|LTranslit=dašt|Gloss=field
 12	ս	ս	DET	_	Definite=Def|Deixis=Prox|PronType=Art	11	det	_	Translit=s|LTranslit=s|Gloss=this
-13	այսորիկ	այս	DET	_	Case=Gen|Deixis=Prox|Number=Sing|PronType=Dem	11	amod	_	SpaceAfter=No|Translit=aysorik|LTranslit=ays|Gloss=this
+13	այսորիկ	այս	DET	_	Case=Gen|Deixis=Prox|Number=Sing|PronType=Dem	11	det	_	SpaceAfter=No|Translit=aysorik|LTranslit=ays|Gloss=this
 14	,	,	PUNCT	_	_	18	punct	_	Translit=,|LTranslit=,
 15	առ	առ	ADP	_	_	18	case	_	Translit=aṙ|LTranslit=aṙ|Gloss=by
 16	երկայնանստիւ	երկայնանիստ	ADJ	_	Case=Ins|Number=Sing	18	amod	_	Translit=erkaynanstiw|LTranslit=erkaynanist|Gloss=long-reigning
@@ -11095,7 +11095,7 @@
 20	բնակեալ	բնակել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	Translit=bnakeal|LTranslit=bnakel|Gloss=live
 21	յառաջագոյն	յառաջագոյն	ADV	_	_	20	advmod	_	Translit=yaṙaǰagoyn|LTranslit=yaṙaǰagoyn|Gloss=first
 22	արք	այր	NOUN	_	Case=Nom|Number=Plur	20	nsubj	_	Translit=arkʻ|LTranslit=ayr|LId=այր-1|Gloss=man
-23	սակաւք	սակաւ	DET	_	Case=Nom|Number=Plur	22	amod	_	SpaceAfter=No|Translit=sakawkʻ|LTranslit=sakaw|Gloss=few
+23	սակաւք	սակաւ	DET	_	Case=Nom|Number=Plur	22	det	_	SpaceAfter=No|Translit=sakawkʻ|LTranslit=sakaw|Gloss=few
 24	,	,	PUNCT	_	_	26	punct	_	Translit=,|LTranslit=,
 25	ինքնակամ	ինքնակամ	ADV	_	_	26	advmod	_	Translit=inkʻnakam|LTranslit=inkʻnakam|Gloss=self-willing
 26	հնազանդեալ	հնազանդել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	22	advcl	_	Translit=hnazandeal|LTranslit=hnazandel|Gloss=obey
