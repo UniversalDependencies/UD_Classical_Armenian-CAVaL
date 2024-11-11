@@ -1,13 +1,13 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Classical_Armenian-CAVaL:
-commit 5ddc057960e4305dacbbaa914b24400ae1e8d2a5
-Merge: 7d34ab9 878b8b4
+commit 9dd01dc4776ec0ce780aa40f8a0fb0034db71f8f
+Merge: 81273a5 414a334
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 81996 of 81996 words (nodes).
-Size: min(0, log((N/1000)**2)) = 8.81334093117328.
+Size: counted 88009 of 88009 words (nodes).
+Size: min(0, log((N/1000)**2)) = 8.95487816395196.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,15 +15,15 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.9.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 51883 out of 81996 total words have one or more features.
+Features: 56134 out of 88009 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.9.
 Udapi:
-               TOTAL        718
-Udapi: found 718 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 81996 words.
-Genres: found 1 out of 17 known.
+               TOTAL        919
+Udapi: found 919 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 88009 words.
+Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang xcl --max-err=10 UD_Classical_Armenian-CAVaL/xcl_caval-ud-dev.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang xcl --max-err=10 UD_Classical_Armenian-CAVaL/xcl_caval-ud-test.conllu
@@ -32,13 +32,13 @@ Genres: found 1 out of 17 known.
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.9) = 0.0692307692307692
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=0.9) = 0.0692307692307692
-(weight=0.256410256410256) * (score{size}=0.637930888923437) = 0.163572022800881
+(weight=0.256410256410256) * (score{size}=0.648175695453377) = 0.166198896270097
 (weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
 (weight=0.0769230769230769) * (score{tags}=0.847058823529412) = 0.065158371040724
-(weight=0.307692307692308) * (score{udapi}=0.912434752914776) = 0.280749154743008
+(weight=0.307692307692308) * (score{udapi}=0.895578861252826) = 0.275562726539331
 (weight=0.0769230769230769) * (score{udeprels}=0.754054054054054) = 0.058004158004158
-(TOTAL score=0.744829106287112) * (availability=1) * (validity=1) = 0.744829106287112
+(TOTAL score=0.746794438430479) * (availability=1) * (validity=1) = 0.746794438430479
 STARS = 3.5
-UD_Classical_Armenian-CAVaL	0.744829106287112	3.5
+UD_Classical_Armenian-CAVaL	0.746794438430479	3.5
