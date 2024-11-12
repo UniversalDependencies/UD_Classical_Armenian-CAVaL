@@ -13,7 +13,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 # Data splits
 The development data:
 * Gospels: Matthew 4 and 5, Mark 4 and 5, Luke 3, 4 and 5, John 3, 4 and 5
-* "History of the Armenians" by Movses Khorenatsi: Book 1: Chapter 10. 
+* "History of the Armenians" by Movses Khorenatsi: Book 1: Chapter 10.
 The test data:
 * Gospels: Matthew 6, 7 and 8, Mark 6 and 7, Luke 6, 7 and 8, John 6 and 7.
 * "History of the Armenians" by Movses Khorenatsi: Book 1: Chapter 3.
@@ -25,6 +25,7 @@ The test data:
   * Fixed annotation errors
   * Improved tagsets for UPOS, features, and relations.
   * Language-specific documentation for features and relations have been added.
+  * The newly added data require limiting the license to non-commercial use.
 * 2024-05-15 UD 2.14
   * First release of the four Gospels in UD
   * Fixed annotation errors
@@ -50,7 +51,7 @@ UD_Classical_Armenian-CAVaL data conforms to [CoNLL-U](http://universaldependenc
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.13
-License: CC BY-NC-ND 4.0
+License: CC BY-NC-SA 4.0
 Includes text: yes
 Genre: bible fiction
 Lemmas: converted with corrections
