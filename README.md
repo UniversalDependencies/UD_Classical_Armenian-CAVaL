@@ -23,23 +23,23 @@ The test data:
 # Changelog
 
 * 2025-05-15 UD 2.16
-  * The first release of the first book of the "History of the Armenians" by Movses Khorenatsi in UD
-  * Fixed annotation errors
+  * The first release of the first book of the "History of the Armenians" by Movses Khorenatsi in UD.
+  * Fixed annotation errors.
   * Improved tagset for features.
   * Improved documentation for features.
 * 2024-11-15 UD 2.15
-  * The first release of a fragment of the "History of the Armenians" by Movses Khorenatsi in UD
-  * Fixed annotation errors
+  * The first release of a fragment of the "History of the Armenians" by Movses Khorenatsi in UD.
+  * Fixed annotation errors.
   * Improved tagsets for UPOS, features, and relations.
   * Language-specific documentation for features and relations have been added.
 * 2024-05-15 UD 2.14
-  * First release of the four Gospels in UD
-  * Fixed annotation errors
+  * First release of the four Gospels in UD.
+  * Fixed annotation errors.
   * The data is split into the train, test and dev sets.
   * Language-specific documentation for UPOS tags and the description of format extension have been added.
 * 2023-11-15 UD 2.13
 
-  * First release of the Gospel of Luke, chapters 1-12 in UD
+  * First release of the Gospel of Luke, chapters 1-12 in UD.
 
 ## Format
 
