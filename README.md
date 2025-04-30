@@ -1,6 +1,5 @@
 # Summary
-
-The present release includes the Classical Armenian translation of the Gospels and the first book of the "History of the Armenians" by Movses Khorenatsi. The annotation of the Gospels results from a rule-based conversion from the PROIEL annotation, manually corrected and extended with additional information. The annotation of the "History of the Armenians" has been performed by a UDPipe2 annotator and manually corrected.
+The present release includes the Classical Armenian translation of the Gospels and the first book of the "History of the Armenians" by Movses Khorenatsi. The annotation of the Gospels results from a rule-based conversion from the PROIEL annotation, manually corrected and extended with additional information. The annotation of the "History of the Armenians" has been performed by a UDPipe2 annotator and manually corrected.
 
 # Introduction
 
