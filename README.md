@@ -1,5 +1,6 @@
 # Summary
-The present release includes the Classical Armenian translation of the Gospels and the first book of the "History of the Armenians" by Movses Khorenatsi. The annotation of the Gospels results from a rule-based conversion from the PROIEL annotation, manually corrected and extended with additional information. The annotation of the "History of the Armenians" has been performed by a UDPipe2 annotator and manually corrected.
+
+The present release includes the Classical Armenian translation of the Gospels and the first book of the "History of the Armenians" by Movses Khorenatsi. The annotation of the Gospels results from a rule-based conversion from the PROIEL annotation, manually corrected and extended with additional information. The annotation of the "History of the Armenians" has been performed by a UDPipe2 annotator and manually corrected.
 
 # Introduction
 
@@ -10,6 +11,7 @@ The present release includes a treebank of the Classical Armenian Gospels and th
 The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University of Würzburg as part of the "CAVaL: Classical Armenian Valency Lexicon" project (PI Dr. Petr Kocharov), funded by the Deutsche Forschungsgemeinschaft (DFG), project number 518003859. We thank Professor Dr. Dag T. T. Haug and the PROIEL team for the permission to reuse the PROIEL annotation of the Classical Armenian Gospels for the purposes of the UD Classical Armenian-CAVaL treebank. We thank Dr. Daniil Kocharov (Tampere University) for advisory support and programming of the module for the processing of punctuation tokens for the convertor of the Gospels. We acknowledge the permission of the <a href="https://arak29.org/" target="_blank">Arak29 Charitable Foundation</a> for a non-commercial use of their digital editions of Classical Armenian texts.
 
 # Data splits
+
 The development data:
 * Gospels: Matthew 4 and 5, Mark 4 and 5, Luke 3, 4 and 5, John 3, 4 and 5
 * "History of the Armenians" by Movses Khorenatsi: Book 1: Chapter 10. 
@@ -35,9 +37,11 @@ The test data:
   * The data is split into the train, test and dev sets.
   * Language-specific documentation for UPOS tags and the description of format extension have been added.
 * 2023-11-15 UD 2.13
+
   * First release of the Gospel of Luke, chapters 1-12 in UD
 
 ## Format
+
 UD_Classical_Armenian-CAVaL data conforms to [CoNLL-U](http://universaldependencies.org/format.html) format with the following specifics:
 * Sentence-level comments:
   * A unique sentence id `sent_id` contains reference to the document title, paragraph and sentence boundaries, e.g. `# sent_id = LUKE_1.1-4` for a sentence, which includes verses from 1 to 4 of the first chapter of the Gospel of Luke.
@@ -52,6 +56,7 @@ UD_Classical_Armenian-CAVaL data conforms to [CoNLL-U](http://universaldependenc
   * `Gloss` for English glosses of lemmas.
 
 <pre>
+
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.13
 License: CC BY-NC-SA 4.0
@@ -66,4 +71,5 @@ Contributors: Kocharov, Petr; Kharatyan, Lilit
 Contributing: here
 Contact: petr.kocharov@uni-wuerzburg.de
 ===============================================================================
+
 </pre>
