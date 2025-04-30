@@ -15,6 +15,7 @@ The treebank is developed by Petr Kocharov and Lilit Kharatyan at the University
 The development data:
 * Gospels: Matthew 4 and 5, Mark 4 and 5, Luke 3, 4 and 5, John 3, 4 and 5
 * "History of the Armenians" by Movses Khorenatsi: Book 1: Chapter 10. 
+
 The test data:
 * Gospels: Matthew 6, 7 and 8, Mark 6 and 7, Luke 6, 7 and 8, John 6 and 7.
 * "History of the Armenians" by Movses Khorenatsi: Book 1: Chapter 3.
