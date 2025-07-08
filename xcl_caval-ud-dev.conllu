@@ -5882,7 +5882,7 @@
 
 # sent_id = LUKE_5.3b
 # text = նստաւ եւ ուսուցանէր ի նաւէ անտի զժողովուրդսն:
-# transliterated_text = nstaw ew owsowcʻanēr i nawē anti žołovowrdsn.
+# transliterated_text = nstaw ew owsowcʻanēr i nawē anti žołovowrdsn.
 # translated_text = And he sat down, and taught the people out of the ship.
 1	նստաւ	նստել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=nstaw|LTranslit=nstel|Gloss=sit
 2	եւ	եւ	CCONJ	_	_	3	cc	_	Translit=ew|LTranslit=ew|Gloss=and
