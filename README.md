@@ -22,6 +22,10 @@ The test data:
 
 # Changelog
 
+* 2025-11-15 UD 2.17
+  * Fixed annotation errors.
+  * Improved tagset for features (PRON, DET values added for the ExtPos feature; PronType=Ind added for quantifiers).
+  * Improved documentation for features.
 * 2025-05-15 UD 2.16
   * The first release of the first book of the "History of the Armenians" by Movses Khorenatsi in UD.
   * Fixed annotation errors.
