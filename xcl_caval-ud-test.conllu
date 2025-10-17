@@ -1526,7 +1526,7 @@
 # text = Բազումք ասիցեն ցիս յաւուրն յայնմիկ՝ Տէր Տէր՝ ոչ յանուն քո մարգարէացա՞ք եւ յանուն քո դեւս հանաք՝ եւ յանուն քո զաւրութի՞ւնս բազումս արարաք՝
 # transliterated_text = Bazowmkʻ asicʻen cʻis yawowrn yaynmik; Tēr Tēr; očʻ yanown kʻo margarēacʻa?kʻ ew yanown kʻo dews hanakʻ; ew yanown kʻo zawrowtʻi?wns bazowms ararakʻ;
 # translated_text = Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works.
-1	Բազումք	բազում	PRON	_	Case=Nom|Number=Plur	2	nsubj	_	Translit=Bazowmkʻ|LTranslit=bazowm|Gloss=many
+1	Բազումք	բազում	PRON	_	Case=Nom|Number=Plur|PronType=Ind	2	nsubj	_	Translit=Bazowmkʻ|LTranslit=bazowm|Gloss=many
 2	ասիցեն	ասել	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	0	root	_	Translit=asicʻen|LTranslit=asel|Gloss=say
 3	ց	ց	ADP	_	_	4	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
 4	իս	ես	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obl:arg	_	Translit=is|LTranslit=es|Gloss=I
@@ -2054,7 +2054,7 @@
 3	ձեզ	դուք	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	iobj	_	SpaceAfter=No|Translit=jez|LTranslit=dowkʻ|Gloss=you_(pl.)
 4	՝	՝	PUNCT	_	_	12	punct	_	Translit=;|LTranslit=;
 5	զի	զի	SCONJ	_	_	12	mark	_	Translit=zi|LTranslit=zi|Gloss=because
-6	բազումք	բազում	PRON	_	Case=Nom|Number=Plur	12	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
+6	բազումք	բազում	PRON	_	Case=Nom|Number=Plur|PronType=Ind	12	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
 7	յ	ի	ADP	_	_	8	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-3|Gloss=from
 8	արեւելից	արեւելք	NOUN	_	Case=Abl|Number=Plur	12	obl	_	Translit=arewelicʻ|LTranslit=arewelkʻ|Gloss=east
 9	եւ	եւ	CCONJ	_	_	11	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -2776,7 +2776,7 @@
 # transliterated_text = Ew bazowmkʻ ibrew lsein zarmanayin ənd vardapetowtʻiwn nora ew asein; owsti ē sma ays; kam zi?nčʻ ē imastowtʻiwns or toweal ē sma; zi zawrowtʻiwnkʻs ayspisikʻ i jeṙacʻ sora linicʻin;
 # translated_text = And many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands.
 1	Եւ	եւ	CCONJ	_	_	5	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
-2	բազումք	բազում	PRON	_	Case=Nom|Number=Plur	5	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
+2	բազումք	բազում	PRON	_	Case=Nom|Number=Plur|PronType=Ind	5	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
 3	իբրեւ	իբրեւ	SCONJ	_	_	4	mark	_	Translit=ibrew|LTranslit=ibrew|Gloss=if
 4	լսեին	լսել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	Translit=lsein|LTranslit=lsel|Gloss=hear
 5	զարմանային	զարմանալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=zarmanayin|LTranslit=zarmanal|Gloss=be_amazed
@@ -3664,7 +3664,7 @@
 7	՝	՝	PUNCT	_	_	9	punct	_	Translit=;|LTranslit=;
 8	եւ	եւ	CCONJ	_	_	9	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 9	զգացին	զգալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Translit=zgacʻin|LTranslit=zgal|Gloss=feel
-10	բազումք	բազում	PRON	_	Case=Nom|Number=Plur	9	nsubj	_	SpaceAfter=No|Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
+10	բազումք	բազում	PRON	_	Case=Nom|Number=Plur|PronType=Ind	9	nsubj	_	SpaceAfter=No|Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
 11	՝	՝	PUNCT	_	_	18	punct	_	Translit=;|LTranslit=;
 12	եւ	եւ	CCONJ	_	_	18	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 13	հետի	հետի	ADV	_	_	18	advmod	_	Translit=heti|LTranslit=heti|Gloss=on_foot
@@ -7381,7 +7381,7 @@
 4	ժամու	ժամ	NOUN	_	Case=Loc|Number=Sing	5	obl	_	Translit=žamow|LTranslit=žam|Gloss=hour
 5	բժշկեաց	բժշկել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=bžškeacʻ|LTranslit=bžškel|Gloss=heal
 6	զ	զ	ADP	_	Definite=Def	7	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-7	բազումս	բազում	PRON	_	Case=Acc|Number=Plur	5	obj	_	Translit=bazowms|LTranslit=bazowm|Gloss=many
+7	բազումս	բազում	PRON	_	Case=Acc|Number=Plur|PronType=Ind	5	obj	_	Translit=bazowms|LTranslit=bazowm|Gloss=many
 8	ի	ի	ADP	_	_	9	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 9	հիւանդութեանց	հիւանդութիւն	NOUN	_	Case=Abl|Number=Plur	5	obl	_	Translit=hiwandowtʻeancʻ|LTranslit=hiwandowtʻiwn|Gloss=illness
 10	եւ	եւ	CCONJ	_	_	12	cc	_	Translit=ew|LTranslit=ew|Gloss=and
@@ -8023,7 +8023,7 @@
 6	թուի	թուել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	ccomp	_	Translit=tʻowi|LTranslit=tʻowel|Gloss=number
 7	եթե	եթե	SCONJ	_	_	11	mark	_	Translit=etʻe|LTranslit=tʻe|Gloss=whether
 8	որում	որ	PRON	_	Case=Dat|Number=Sing|PronType=Rel	11	iobj	_	Translit=orowm|LTranslit=or|Gloss=who
-9	բազում	բազում	PRON	_	Case=Acc|Number=Sing	11	obj	_	SpaceAfter=No|Translit=bazowm|LTranslit=bazowm|Gloss=numerous
+9	բազում	բազում	PRON	_	Case=Acc|Number=Sing|PronType=Ind	11	obj	_	SpaceAfter=No|Translit=bazowm|LTranslit=bazowm|Gloss=numerous
 10	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	9	det	_	Translit=n|LTranslit=n|Gloss=that
 11	շնորհեաց	շնորհել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp	_	SpaceAfter=No|Translit=šnorheacʻ|LTranslit=šnorhel|Gloss=grant
 12	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
@@ -11635,7 +11635,7 @@
 # transliterated_text = Ew bazowmkʻ yašakertacʻn ibrew lowan, asen.
 # translated_text = Many therefore of his disciples, when they had heard this, said
 1	Եւ	եւ	CCONJ	_	_	9	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
-2	բազումք	բազում	PRON	_	Case=Nom|Number=Plur	9	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
+2	բազումք	բազում	PRON	_	Case=Nom|Number=Plur|PronType=Ind	9	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
 3	յ	ի	ADP	_	_	4	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-3|Gloss=from
 4	աշակերտաց	աշակերտ	NOUN	_	Case=Abl|Number=Plur	9	obl	_	SpaceAfter=No|Translit=ašakertacʻ|LTranslit=ašakert|Gloss=disciple
 5	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	4	det	_	Translit=n|LTranslit=n|Gloss=that
@@ -11827,7 +11827,7 @@
 # translated_text = From that time many of his disciples went back, and walked no more with him.
 1	Յ	ի	ADP	_	_	2	case	_	SpaceAfter=No|Translit=Y|LTranslit=i|LId=ի-3|Gloss=from
 2	այսմանէ	այս	PRON	_	Case=Abl|Deixis=Prox|Number=Sing|PronType=Dem	8	obl	_	Translit=aysmanē|LTranslit=ays|Gloss=this
-3	բազումք	բազում	PRON	_	Case=Nom|Number=Plur	8	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
+3	բազումք	բազում	PRON	_	Case=Nom|Number=Plur|PronType=Ind	8	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
 4	յ	ի	ADP	_	_	5	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-3|Gloss=from
 5	աշակերտաց	աշակերտ	NOUN	_	Case=Abl|Number=Plur	3	nmod	_	SpaceAfter=No|Translit=ašakertacʻ|LTranslit=ašakert|Gloss=disciple
 6	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	5	det	_	Translit=n|LTranslit=n|Gloss=that
@@ -12756,7 +12756,7 @@
 # transliterated_text = Ew bazowmkʻ i žołovrdenēn hawatacʻin i na: ew asein; Kʻristosn yoržam gaycʻē: mi tʻe aweli? inčʻ nšans aṙnicʻē kʻan zor says aṙnē.
 # translated_text = And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this man hath done.
 1	Եւ	եւ	CCONJ	_	_	6	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
-2	բազումք	բազում	PRON	_	Case=Nom|Number=Plur	6	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
+2	բազումք	բազում	PRON	_	Case=Nom|Number=Plur|PronType=Ind	6	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
 3	ի	ի	ADP	_	_	4	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 4	ժողովրդենէ	ժողովուրդ	NOUN	_	Case=Abl|Number=Sing	2	nmod	_	SpaceAfter=No|Translit=žołovrdenē|LTranslit=žołovowrd|Gloss=people
 5	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	4	det	_	Translit=n|LTranslit=n|Gloss=that
