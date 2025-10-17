@@ -126,7 +126,7 @@
 1	Եւ	եւ	CCONJ	_	_	17	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
 2	տեսեալ	տեսանել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	Translit=teseal|LTranslit=tesanel|Gloss=see
 3	զ	զ	ADP	_	Definite=Def	4	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-4	բազումս	բազում	PRON	_	Case=Acc|Number=Plur	2	obj	_	Translit=bazowms|LTranslit=bazowm|Gloss=many
+4	բազումս	բազում	PRON	_	Case=Acc|Number=Plur|PronType=Ind	2	obj	_	Translit=bazowms|LTranslit=bazowm|Gloss=many
 5	ի	ի	ADP	_	_	6	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 6	Սադուկեցւոց	Սադուկեցի	NOUN	_	Case=Abl|Number=Plur	4	nmod	_	SpaceAfter=No|Translit=Sadowkecʻwocʻ|LTranslit=Sadowkecʻi|Gloss=Sadducee
 7	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	6	det	_	Translit=n|LTranslit=n|Gloss=that
@@ -5680,7 +5680,7 @@
 2	եւ	եւ	CCONJ	_	_	1	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 3	դեւք	դեւ	NOUN	_	Case=Nom|Number=Plur	1	nsubj	_	Translit=dewkʻ|LTranslit=dew|Gloss=demon
 4	ի	ի	ADP	_	_	5	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
-5	բազմաց	բազում	PRON	_	Case=Abl|Number=Plur	1	obl	_	Translit=bazmacʻ|LTranslit=bazowm|Gloss=many
+5	բազմաց	բազում	PRON	_	Case=Abl|Number=Plur|PronType=Ind	1	obl	_	Translit=bazmacʻ|LTranslit=bazowm|Gloss=many
 6	աղաղակեին	աղաղակել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	Translit=ałałakein|LTranslit=ałałakel|Gloss=cry
 7	եւ	եւ	CCONJ	_	_	8	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 8	ասեին	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	Translit=asein|LTranslit=asel|Gloss=say
@@ -9035,7 +9035,7 @@
 5	յ	ի	ADP	_	_	6	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-3|Gloss=from
 6	այնմանէ	այն	DET	_	Case=Abl|Deixis=Remt|Number=Sing|PronType=Dem	3	det	_	Translit=aynmanē|LTranslit=ayn|Gloss=that
 7	Սամարացւոց	Սամարացի	NOUN	_	Case=Gen|Number=Plur	8	nmod	_	Translit=Samaracʻwocʻ|LTranslit=Samaracʻi|Gloss=Samaritan
-8	բազումք	բազում	PRON	_	Case=Nom|Number=Plur	9	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
+8	բազումք	բազում	PRON	_	Case=Nom|Number=Plur|PronType=Ind	9	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
 9	հաւատացին	հաւատալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=hawatacʻin|LTranslit=hawatal|Gloss=believe
 10	ի	ի	ADP	_	_	11	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 11	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	9	obl	_	Translit=na|LTranslit=na|Gloss=he/she/it
@@ -9089,7 +9089,7 @@
 # translated_text = And many more believed because of his own word. And said unto the woman, Now we believe, not because of thy saying: for we have heard him ourselves, and know that this is indeed the Christ, the Saviour of the world.
 1	Եւ	եւ	CCONJ	_	_	4	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
 2	եւս	եւս	ADV	_	_	3	advmod	_	Translit=ews|LTranslit=ews|Gloss=even
-3	բազումք	բազում	PRON	_	Case=Nom|Number=Plur	4	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
+3	բազումք	բազում	PRON	_	Case=Nom|Number=Plur|PronType=Ind	4	nsubj	_	Translit=bazowmkʻ|LTranslit=bazowm|Gloss=many
 4	հաւատացին	հաւատալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=hawatacʻin|LTranslit=hawatal|Gloss=believe
 5	ի	ի	ADP	_	_	6	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 6	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	4	obl	_	Translit=na|LTranslit=na|Gloss=he/she/it
