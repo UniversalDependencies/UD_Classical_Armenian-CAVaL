@@ -5004,11 +5004,11 @@
 18	աւերի	աւերել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	8	ccomp	_	SpaceAfter=No|Translit=aweri|LTranslit=awerel|Gloss=ruin
 19	,	,	PUNCT	_	_	30	punct	_	Translit=,|LTranslit=,
 20	եւ	եւ	CCONJ	_	_	30	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-21	ամենայն	ամենայն	PRON	_	Case=Nom|Number=Sing|PronType=Tot	30	nsubj	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
-22	քաղաք	քաղաք	NOUN	_	Case=Nom|Number=Sing	21	conj	_	Translit=kʻałakʻ|LTranslit=kʻałakʻ|Gloss=city
+21	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	22	det	_	Translit=amenayn|LTranslit=amenayn|Gloss=all
+22	քաղաք	քաղաք	NOUN	_	Case=Nom|Number=Sing	30	nsubj	_	Translit=kʻałakʻ|LTranslit=kʻałakʻ|Gloss=city
 23	կամ	կամ	CCONJ	_	_	24	cc	_	Translit=kam|LTranslit=kam|Gloss=or
-24	տուն	տուն	NOUN	_	Case=Nom|Number=Sing	21	conj	_	Translit=town|LTranslit=town|Gloss=house
-25	բաժանեալ	բաժանել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	21	conj	_	Translit=bažaneal|LTranslit=bažanel|Gloss=divide
+24	տուն	տուն	NOUN	_	Case=Nom|Number=Sing	22	conj	_	Translit=town|LTranslit=town|Gloss=house
+25	բաժանեալ	բաժանել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	22	acl	_	Translit=bažaneal|LTranslit=bažanel|Gloss=divide
 26	յ	ի	ADP	_	_	27	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-1|Gloss=to
 27	անձն	անձն	NOUN	_	Case=Acc|Number=Sing	25	obl	_	Translit=anjn|LTranslit=anjn|Gloss=person/soul
 28	իւր	իւր	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	27	nmod	_	Translit=iwr|LTranslit=iwr|Gloss=oneself
@@ -36735,10 +36735,10 @@
 11	համարեցաւ	համարել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	ccomp	_	SpaceAfter=No|Translit=hamarecʻaw|LTranslit=hamarel|Gloss=consider
 12	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = MARK_15.29
+# sent_id = MARK_15.29-30
 # text = Եւ որք անցանեինն հայհոյեին զնա. շարժեալ զգլուխս իւրեանց եւ ասեին՝ վահ՝ որ քակեիր զտաճարն՝ եւ զերիս աւուրս շինեիր. ապրեցո զանձն քո եւ էջ ի խաչէդ:
 # transliterated_text = Ew orkʻ ancʻaneinn hayhoyein zna: šaržeal zglowxs iwreancʻ ew asein; vah; or kʻakeir ztačarn; ew zeris awowrs šineir: aprecʻo zanjn kʻo ew ēǰ i xačʻēd.
-# translated_text = And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest it in three days.
+# translated_text = And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest it in three days. Save thyself, and come down from the cross:
 1	Եւ	եւ	CCONJ	_	_	5	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
 2	որք	որ	PRON	_	Case=Nom|Number=Plur|PronType=Rel	3	nsubj	_	Translit=orkʻ|LTranslit=or|Gloss=who
 3	անցանեին	անցանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	csubj	_	SpaceAfter=No|Translit=ancʻanein|LTranslit=ancʻanel|Gloss=pass
@@ -46482,7 +46482,7 @@
 23	մարմնոյ	մարմին	NOUN	_	Case=Gen|Number=Sing	26	obl	_	Translit=marmnoy|LTranslit=marmin|Gloss=body
 24	թե	թե	SCONJ	_	_	26	mark	_	Translit=tʻe|LTranslit=tʻe|Gloss=whether
 25	զինչ	զինչ	PRON	_	Animacy=Inan|Case=Acc|Number=Sing|PronType=Ind	26	obj	_	Translit=zinčʻ|LTranslit=zinčʻ|Gloss=what
-26	զգենուցուք	զգենուլ	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|VerbForm=Fin	21	orphan	_	SpaceAfter=No|Translit=zgenowcʻowkʻ|LTranslit=zgenowl|Gloss=make_put_on_clothes
+26	զգենուցուք	զգենուլ	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|VerbForm=Fin	21	orphan	_	SpaceAfter=No|Translit=zgenowcʻowkʻ|LTranslit=zgenowl|Gloss=put_on_clothes
 27	՝	՝	PUNCT	_	_	30	punct	_	Translit=;|LTranslit=;
 28	զի	զի	SCONJ	_	_	30	mark	_	Translit=zi|LTranslit=zi|Gloss=because
 29	ոգի	ոգի	NOUN	_	Case=Nom|Number=Sing	30	nsubj	_	Translit=ogi|LTranslit=ogi|Gloss=soul
@@ -60905,7 +60905,7 @@
 8	Երուսաղեմ	Երուսաղեմ	PROPN	_	Case=Loc|Number=Sing	3	obl	_	SpaceAfter=No|Translit=Erowsałem|LTranslit=Erowsałem|Gloss=Erowsałem
 9	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
 10	մինչեւ	մինչեւ	SCONJ	_	_	11	mark	_	Translit=minčʻew|LTranslit=minčʻew|Gloss=until
-11	զգենուցուք	զգենուլ	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|VerbForm=Fin	3	advcl	_	Translit=zgenowcʻowkʻ|LTranslit=zgenowl|Gloss=make_put_on_clothes
+11	զգենուցուք	զգենուլ	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|VerbForm=Fin	3	advcl	_	Translit=zgenowcʻowkʻ|LTranslit=zgenowl|Gloss=put_on_clothes
 12	զաւրութիւն	զաւրութիւն	NOUN	_	Case=Acc|Number=Sing	11	obj	_	Translit=zawrowtʻiwn|LTranslit=zawrowtʻiwn|Gloss=power
 13	ի	ի	ADP	_	_	14	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 14	բարձանց	բարձր	ADJ	_	Case=Abl|Number=Plur	11	advcl	_	SpaceAfter=No|Translit=barjancʻ|LTranslit=barjr|Gloss=high
@@ -90833,7 +90833,7 @@
 # translated_text = Her husband Ninos had not, as is said, died and been buried by her in the palace at Nineveh, but having realized her pernicious and evil way of life had abandoned his kingdom and fled to Crete:
 1	Քանզի	քանզի	SCONJ	_	_	13	mark	_	Translit=Kʻanzi|LTranslit=kʻanzi|Gloss=for
 2	եւ	եւ	CCONJ	_	_	3	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-3	այր	այր	NOUN	_	Case=Nom|Number=Sing	13	nsubj	_	SpaceAfter=No|Translit=ayr|LTranslit=ayr|LId=1|Gloss=man
+3	այր	այր	NOUN	_	Case=Nom|Number=Sing	13	nsubj:pass	_	SpaceAfter=No|Translit=ayr|LTranslit=ayr|LId=1|Gloss=man
 4	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	3	det	_	Translit=n|LTranslit=n|Gloss=that
 5	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	3	nmod	_	Translit=nora|LTranslit=na|Gloss=he/she/it
 6	Նինոս	Նինոս	PROPN	_	Case=Nom|Number=Sing	3	appos	_	Translit=Ninos|LTranslit=Ninos|Gloss=Ninos
@@ -92165,7 +92165,7 @@
 # text = Սա աւգնական Պռիամու ի Տեւտամայ առաքեալ ընդ եթովպացի զաւրուն՝ մեռանի ի քաջացն Հելլենացւոց:
 # transliterated_text = Sa awgnakan Pṙiamow i Tewtamay aṙakʻeal ənd etʻovpacʻi zawrown; meṙani i kʻaǰacʻn Hellenacʻwocʻ.
 # translated_text = He was sent by Teutamos to help Priam with the Ethiopian army and was killed by the valiant Hellenes:
-1	Սա	սա	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	12	nsubj	_	Translit=Sa|LTranslit=sa|Gloss=this
+1	Սա	սա	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	12	nsubj:pass	_	Translit=Sa|LTranslit=sa|Gloss=this
 2	աւգնական	աւգնական	ADJ	_	Case=Nom|Number=Sing	6	xcomp	_	Translit=awgnakan|LTranslit=awgnakan|Gloss=help
 3	Պռիամու	Պռիամ	PROPN	_	Case=Gen|Number=Sing	2	nmod	_	Translit=Pṙiamow|LTranslit=Pṙiam|Gloss=Pṙiam
 4	ի	ի	ADP	_	_	5	case	_	Translit=i|LTranslit=i|LId=1|Gloss=to
@@ -97538,7 +97538,7 @@
 # text = Սա ընդվզեալ՝ մեռանի յԱղեքսանդրէ Մակեդոնացւոյ:
 # transliterated_text = Sa əndvzeal; meṙani yAłekʻsandrē Makedonacʻwoy.
 # translated_text = The last rebelled and was killed by Alexander of Macedon:
-1	Սա	սա	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	4	nsubj	_	Translit=Sa|LTranslit=sa|Gloss=this
+1	Սա	սա	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	4	nsubj:pass	_	Translit=Sa|LTranslit=sa|Gloss=this
 2	ընդվզեալ	ընդվզել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	SpaceAfter=No|Translit=əndvzeal|LTranslit=əndvzel|Gloss=rebel
 3	՝	՝	PUNCT	_	_	2	punct	_	Translit=;|LTranslit=;
 4	մեռանի	մեռանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=meṙani|LTranslit=meṙanel|Gloss=die
