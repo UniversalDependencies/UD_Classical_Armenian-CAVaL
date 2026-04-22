@@ -49640,7 +49640,7 @@
 24	ածիցէ	ածել	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	20	conj	_	Translit=acicʻē|LTranslit=acel|Gloss=drive
 25	աւել	աւել	NOUN	_	Case=Acc|Number=Sing	24	obj	_	Translit=awel|LTranslit=awel|Gloss=broom
 26	ի	ի	ADP	_	_	27	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
-27	տան	տուն	NOUN	_	Case=Loc|Number=Sing	25	obl	_	SpaceAfter=No|Translit=tan|LTranslit=town|Gloss=house
+27	տան	տուն	NOUN	_	Case=Loc|Number=Sing	24	obl	_	SpaceAfter=No|Translit=tan|LTranslit=town|Gloss=house
 28	՝	՝	PUNCT	_	_	30	punct	_	Translit=;|LTranslit=;
 29	եւ	եւ	CCONJ	_	_	30	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 30	խնդրիցէ	խնդրել	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	conj	_	Translit=xndricʻē|LTranslit=xndrel|Gloss=ask
