@@ -3235,7 +3235,7 @@
 1	եւ	եւ	CCONJ	_	_	6	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 2	առանց	առանց	ADP	_	_	3	case	_	Translit=aṙancʻ|LTranslit=aṙancʻ|Gloss=without
 3	առակի	առակ	NOUN	_	Case=Gen|Number=Sing	6	obl	_	Translit=aṙaki|LTranslit=aṙak|Gloss=parable
-4	ոչ	ոչ	PART	_	ExtPos=PRON|Polarity=Neg	5	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
+4	ոչ	ոչ	PART	_	Polarity=Neg	5	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
 5	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	6	obj	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
 6	խաւսէր	խաւսել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=xawsēr|LTranslit=xawsel|Gloss=speak
 7	ընդ	ընդ	ADP	_	_	8	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for

@@ -4333,9 +4333,9 @@
 9	խառնակ	խառնակ	ADJ	_	Case=Nom|Number=Sing	10	amod	_	Translit=xaṙnak|LTranslit=xaṙnak|Gloss=mixed
 10	ձեռաւք	ձեռն	NOUN	_	Case=Ins|Number=Plur	15	obl	_	SpaceAfter=No|Translit=jeṙawkʻ|LTranslit=jeṙn|Gloss=hand
 11	՝	՝	PUNCT	_	_	10	punct	_	Translit=;|LTranslit=;
-12	այսինքն	այսինքն	ADV	_	_	14	orphan	_	Translit=aysinkʻn|LTranslit=aysinkʻn|Gloss=namely
+12	այսինքն	այսինքն	ADV	_	_	15	advcl	_	Translit=aysinkʻn|LTranslit=aysinkʻn|Gloss=namely
 13	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	Translit=ē|LTranslit=em|Gloss=be
-14	անլուա	անլուայ	ADJ	_	Case=Nom|Number=Sing	9	amod	_	Translit=anlowa|LTranslit=anloway|Gloss=unwashed
+14	անլուա	անլուայ	ADJ	_	Case=Nom|Number=Sing	12	xcomp	_	Translit=anlowa|LTranslit=anloway|Gloss=unwashed
 15	ուտեին	ուտել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	Translit=owtein|LTranslit=owtel|Gloss=eat
 16	հաց	հաց	NOUN	_	Case=Acc|Number=Sing	15	obj	_	SpaceAfter=No|Translit=hacʻ|LTranslit=hacʻ|Gloss=bread
 17	.	.	PUNCT	_	_	2	punct	_	Translit=:|LTranslit=:
@@ -5717,11 +5717,11 @@
 # text = Եւ իջեալ նոքաւք հանդերձ ի տեղի մի տափարակ՝ եւ ժողով աշակերտացն նորա. եւ բազմութիւն յոյժ ժողովրդեանն յամենայն Հրէաստանէ եւ յԵրուսաղեմէ, եւ յայնմ կողմանէ, եւ ի ծովեզերէն Տիւրոսի. եւ Սիդովնի՝ որ եկին լսել ի նմանէ. եւ բժշկել ի հիւանդութենէ իւրեանց, եւ նեղեալքն յայսոց պղծոց բժշկեին՝
 # transliterated_text = Ew iǰeal nokʻawkʻ handerj i tełi mi tapʻarak; ew žołov ašakertacʻn nora: ew bazmowtʻiwn yoyž žołovrdeann yamenayn Hrēastanē ew yErowsałemē, ew yaynm kołmanē, ew i covezerēn Tiwrosi: ew Sidovni; or ekin lsel i nmanē: ew bžškel i hiwandowtʻenē iwreancʻ, ew nełealkʻn yaysocʻ płcocʻ bžškein;
 # translated_text = And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judaea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases. And they that were vexed with unclean spirits, and they were healed.
-1	Եւ	եւ	CCONJ	_	_	6	orphan	_	Translit=Ew|LTranslit=ew|Gloss=and
+1	Եւ	եւ	CCONJ	_	_	2	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
 2	իջեալ	իջանել	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Translit=iǰeal|LTranslit=iǰanel|Gloss=descend
 3	նոքաւք	նա	PRON	_	Case=Ins|Deixis=Remt|Number=Plur|PronType=Dem	2	obl	_	Translit=nokʻawkʻ|LTranslit=na|Gloss=he/she/it
 4	հանդերձ	հանդերձ	ADP	_	_	3	case	_	Translit=handerj|LTranslit=handerj|Gloss=together
-5	ի	ի	ADP	_	_	6	orphan	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
+5	ի	ի	ADP	_	_	6	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 6	տեղի	տեղի	NOUN	_	Case=Acc|Number=Sing	2	obl	_	Translit=tełi|LTranslit=tełi|Gloss=place
 7	մի	մի	DET	_	Case=Acc|Definite=Spec|Number=Sing|PronType=Art	6	det	_	Translit=mi|LTranslit=mi|Gloss=certain
 8	տափարակ	տափարակ	ADJ	_	Case=Nom|Number=Sing	6	amod	_	SpaceAfter=No|Translit=tapʻarak|LTranslit=tapʻarak|Gloss=flat
@@ -5777,7 +5777,7 @@
 58	այսոց	այս	NOUN	_	Case=Abl|Number=Plur	59	amod	_	Translit=aysocʻ|LTranslit=ays|Gloss=spirit
 59	պղծոց	պիղծ	ADJ	_	Case=Abl|Number=Plur	60	obl	_	Translit=płcocʻ|LTranslit=piłc|Gloss=foul
 60	բժշկեին	բժշկել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	43	conj	_	SpaceAfter=No|Translit=bžškein|LTranslit=bžškel|Gloss=heal
-61	՝	՝	PUNCT	_	_	6	punct	_	Translit=;|LTranslit=;
+61	՝	՝	PUNCT	_	_	2	punct	_	Translit=;|LTranslit=;
 
 # sent_id = LUKE_6.19
 # text = եւ ամենայն ժողովուրդն խնդրէր մերձանալ ի նա՝ զի զաւրութիւն բազում ելանէր ի նմանէ. եւ բժշկէր զամենեսին:
@@ -9673,11 +9673,11 @@
 5	ասէ	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=asē|LTranslit=asel|Gloss=say
 6	Պետրոս	Պետրոս	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	Translit=Petros|LTranslit=Petros|Gloss=Petros
 7	եւ	եւ	CCONJ	_	_	10	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-8	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	_	Translit=or|LTranslit=or|Gloss=who
-9	ընդ	ընդ	ADP	_	_	10	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
-10	նմայ	նա	PRON	_	Case=Loc|Deixis=Remt|Number=Sing|PronType=Dem	5	csubj	_	SpaceAfter=No|Translit=nmay|LTranslit=na|Gloss=he/she/it
-11	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	10	det	_	Translit=n|LTranslit=n|Gloss=that
-12	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	SpaceAfter=No|Translit=ein|LTranslit=em|Gloss=be
+8	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	10	orphan	_	Translit=or|LTranslit=or|Gloss=who
+9	ընդ	ընդ	ADP	_	_	10	orphan	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
+10	նմայ	նա	PRON	_	Case=Loc|Deixis=Remt|Number=Sing|PronType=Dem	5	conj	_	SpaceAfter=No|Translit=nmay|LTranslit=na|Gloss=he/she/it
+11	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	10	orphan	_	Translit=n|LTranslit=n|Gloss=that
+12	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	orphan	_	SpaceAfter=No|Translit=ein|LTranslit=em|Gloss=be
 13	՝	՝	PUNCT	_	_	14	punct	_	Translit=;|LTranslit=;
 14	վարդապետ	վարդապետ	NOUN	_	Case=Nom|Number=Sing	5	vocative	_	SpaceAfter=No|Translit=vardapet|LTranslit=vardapet|Gloss=teacher
 15	,	,	PUNCT	_	_	18	punct	_	Translit=,|LTranslit=,
