@@ -22,6 +22,8 @@ The test data:
 
 # Changelog
 
+* 2026-05-15 UD 2.18
+  * Fixed annotation errors.
 * 2025-11-15 UD 2.17
   * Fixed annotation errors.
   * Improved tagset for features (PRON, DET values added for the ExtPos feature; PronType=Ind added for quantifiers).
