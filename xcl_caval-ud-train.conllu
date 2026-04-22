@@ -49637,7 +49637,7 @@
 21	ճրագ	ճրագ	NOUN	_	Case=Acc|Number=Sing	20	obj	_	SpaceAfter=No|Translit=črag|LTranslit=črag|Gloss=torch
 22	՝	՝	PUNCT	_	_	24	punct	_	Translit=;|LTranslit=;
 23	եւ	եւ	CCONJ	_	_	24	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-24	ածիցէ	ածել	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	conj	_	Translit=acicʻē|LTranslit=acel|Gloss=drive
+24	ածիցէ	ածել	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	20	conj	_	Translit=acicʻē|LTranslit=acel|Gloss=drive
 25	աւել	աւել	NOUN	_	Case=Acc|Number=Sing	24	obj	_	Translit=awel|LTranslit=awel|Gloss=broom
 26	ի	ի	ADP	_	_	27	case	_	Translit=i|LTranslit=i|LId=ի-2|Gloss=in
 27	տան	տուն	NOUN	_	Case=Loc|Number=Sing	25	obl	_	SpaceAfter=No|Translit=tan|LTranslit=town|Gloss=house
