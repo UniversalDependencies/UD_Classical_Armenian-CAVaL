@@ -2232,7 +2232,7 @@
 20	ասացաւ	ասել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	17	acl	_	Translit=asacʻaw|LTranslit=asel|Gloss=say
 21	ի	ի	ADP	_	ExtPos=ADP	23	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 22	ձեռն	ձեռն	NOUN	_	Case=Acc|Number=Sing	21	fixed	_	Translit=jeṙn|LTranslit=jeṙn|Gloss=by_hand
-23	Էսայայ	Էսայի	PROPN	_	Case=Gen|Number=Sing	20	nmod	_	Translit=Ēsayay|LTranslit=Ēsayi|Gloss=Ēsayi
+23	Էսայայ	Էսայի	PROPN	_	Case=Gen|Number=Sing	20	obl	_	Translit=Ēsayay|LTranslit=Ēsayi|Gloss=Ēsayi
 24	մարգարէի	մարգարէ	NOUN	_	Case=Gen|Number=Sing	23	appos	_	SpaceAfter=No|Translit=margarēi|LTranslit=margarē|Gloss=prophet
 25	՝	՝	PUNCT	_	_	2	punct	_	Translit=;|LTranslit=;
 
@@ -8427,7 +8427,7 @@
 4	անկաւ	անկանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ankaw|LTranslit=ankanel|LId=անկանել-1|Gloss=fall
 5	ի	ի	ADP	_	ExtPos=ADP	7	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 6	մէջ	մէջ	ADV	_	_	5	fixed	_	Translit=mēǰ|LTranslit=mēǰ|Gloss=in_between
-7	փշոց	փուշ	NOUN	_	Case=Gen|Number=Plur	4	nmod	_	SpaceAfter=No|Translit=pʻšocʻ|LTranslit=pʻowš|Gloss=thorn
+7	փշոց	փուշ	NOUN	_	Case=Gen|Number=Plur	4	obl	_	SpaceAfter=No|Translit=pʻšocʻ|LTranslit=pʻowš|Gloss=thorn
 8	՝	՝	PUNCT	_	_	16	punct	_	Translit=;|LTranslit=;
 9	եւ	եւ	CCONJ	_	_	16	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 10	ընդ	ընդ	ADP	_	_	11	case	_	Translit=ənd|LTranslit=ənd|Gloss=with/during/for
@@ -10639,7 +10639,7 @@
 4	զ	զ	ADP	_	Definite=Def	5	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 5	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	3	obj	_	Translit=na|LTranslit=na|Gloss=he/she/it
 6	յայնկոյս	յայնկոյս	ADP	_	_	7	case	_	Translit=yaynkoys|LTranslit=yaynkoys|Gloss=on_the_other_side
-7	ծովու	ծով	NOUN	_	Case=Gen|Number=Sing	3	xcomp	_	SpaceAfter=No|Translit=covow|LTranslit=cov|Gloss=sea
+7	ծովու	ծով	NOUN	_	Case=Gen|Number=Sing	3	obl	_	SpaceAfter=No|Translit=covow|LTranslit=cov|Gloss=sea
 8	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	7	det	_	SpaceAfter=No|Translit=n|LTranslit=n|Gloss=that
 9	՝	՝	PUNCT	_	_	3	punct	_	Translit=;|LTranslit=;
 10	ասեն	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=asen|LTranslit=asel|Gloss=say
@@ -13948,7 +13948,7 @@
 8	մատեան	մատեան	NOUN	_	Case=Nom|Number=Sing	11	nsubj	_	Translit=matean|LTranslit=matean|Gloss=book
 9	՞	՞	PUNCT	_	_	8	punct	_	Translit=?|LTranslit=?
 10	մերձ	մերձ	ADV	_	_	11	advmod	_	Translit=merj|LTranslit=merj|Gloss=near
-11	կայցէ	կամ	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	ccomp	_	Translit=kaycʻē|LTranslit=kal|Gloss=stand
+11	կայցէ	կալ	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	ccomp	_	Translit=kaycʻē|LTranslit=kal|Gloss=stand
 12	ինձ	ես	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	11	iobj	_	SpaceAfter=No|Translit=inj|LTranslit=es|Gloss=I
 13	,	,	PUNCT	_	_	15	punct	_	Translit=,|LTranslit=,
 14	որպէս	որպէս	ADV	_	PronType=Rel	15	mark	_	Translit=orpēs|LTranslit=orpēs|Gloss=as

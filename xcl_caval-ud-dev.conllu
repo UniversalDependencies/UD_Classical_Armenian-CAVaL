@@ -1615,7 +1615,7 @@
 1	Լուարուք	լսել	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Pass	0	root	_	Translit=Lowarowkʻ|LTranslit=lsel|Gloss=hear
 2	զի	զի	SCONJ	_	_	3	mark	_	Translit=zi|LTranslit=zi|Gloss=because
 3	ասացաւ	ասել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	ccomp	_	Translit=asacʻaw|LTranslit=asel|Gloss=say
-4	առաջնոց	առաջին	ADJ	_	Case=Abl|Number=Plur	3	obl:agent	_	SpaceAfter=No|Translit=aṙaǰnocʻ|LTranslit=aṙaǰin|Gloss=first
+4	առաջնոց	առաջին	ADJ	_	Case=Dat|Number=Plur	3	iobj	_	SpaceAfter=No|Translit=aṙaǰnocʻ|LTranslit=aṙaǰin|Gloss=first
 5	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	4	det	_	Translit=n|LTranslit=n|Gloss=that
 6	թե	թե	SCONJ	_	_	8	mark	_	Translit=tʻe|LTranslit=tʻe|Gloss=whether
 7	մի	մի	PART	_	Polarity=Neg	8	advmod	_	Translit=mi|LTranslit=mi|Gloss=don't
@@ -2126,7 +2126,7 @@
 6	մի	մի	PART	_	Polarity=Neg	7	advmod	_	Translit=mi|LTranslit=mi|Gloss=don't
 7	կալ	կալ	VERB	_	VerbForm=Inf	3	xcomp	_	Translit=kal|LTranslit=kal|Gloss=stand
 8	հակառակ	հակառակ	ADP	_	_	9	case	_	Translit=hakaṙak|LTranslit=hakaṙak|Gloss=against
-9	չարի	չար	ADJ	_	Case=Dat|Number=Sing	7	nmod	_	SpaceAfter=No|Translit=čʻari|LTranslit=čʻar|Gloss=evil
+9	չարի	չար	ADJ	_	Case=Dat|Number=Sing	7	obl	_	SpaceAfter=No|Translit=čʻari|LTranslit=čʻar|Gloss=evil
 10	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MATT_5.39b
@@ -3919,7 +3919,7 @@
 # transliterated_text = Ew Yisows očʻ et nma tʻoyl; aył asē cʻna; ertʻ i town kʻo aṙ əntanis kʻo: ew patmea nocʻa or inčʻ miangam Tēr arar kʻez ew ołormecʻaw kʻez.
 # translated_text = Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee.
 1	Եւ	եւ	CCONJ	_	_	4	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
-2	Յիսուս	Յիսուս	PROPN	_	Case=Nom|Number=Sing	4	nsubj:caus	_	Translit=Yisows|LTranslit=Yisows|Gloss=Jesus
+2	Յիսուս	Յիսուս	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	Translit=Yisows|LTranslit=Yisows|Gloss=Jesus
 3	ոչ	ոչ	PART	_	Polarity=Neg	4	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
 4	ետ	տալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=et|LTranslit=tal|Gloss=give
 5	նմա	նա	PRON	_	Case=Dat|Deixis=Remt|Number=Sing|PronType=Dem	4	iobj	_	Translit=nma|LTranslit=na|Gloss=he/she/it
@@ -7921,12 +7921,12 @@
 # translated_text = For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure.
 1	զի	զի	SCONJ	_	_	10	mark	_	Translit=zi|LTranslit=zi|Gloss=because
 2	զ	զ	ADP	_	Definite=Def	3	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-3	որ	որ	PRON	_	Case=Acc|Number=Sing|PronType=Rel	6	iobj	_	Translit=or|LTranslit=or|Gloss=who
+3	որ	որ	PRON	_	Case=Acc|Number=Sing|PronType=Rel	6	obj	_	Translit=or|LTranslit=or|Gloss=who
 4	Աստուած	Աստուած	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No|Translit=Astowac|LTranslit=Astowac|Gloss=God
 5	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Art	4	det	_	Translit=n|LTranslit=n|Gloss=that
 6	առաքեաց	առաքել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	csubj	_	Translit=aṙakʻeacʻ|LTranslit=aṙakʻel|Gloss=send
 7	զ	զ	ADP	_	Definite=Def	8	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-8	բանս	բան	NOUN	_	Case=Acc|Number=Plur	6	obj	_	Translit=bans|LTranslit=ban|Gloss=word
+8	բանս	բան	NOUN	_	Case=Acc|Number=Plur	10	obj	_	Translit=bans|LTranslit=ban|Gloss=word
 9	Աստուածոյ	Աստուած	NOUN	_	Case=Gen|Number=Sing	8	nmod	_	Translit=Astowacoy|LTranslit=Astowac|Gloss=God
 10	խաւսի	խաւսել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=xawsi|LTranslit=xawsel|Gloss=speak
 11	՝	՝	PUNCT	_	_	16	punct	_	Translit=;|LTranslit=;
@@ -7957,7 +7957,7 @@
 10	ետ	տալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Translit=et|LTranslit=tal|Gloss=give
 11	ի	ի	ADP	_	ExtPos=ADP	13	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 12	ձեռս	ձեռն	NOUN	_	Case=Acc|Number=Plur	11	fixed	_	Translit=jeṙs|LTranslit=jeṙn|Gloss=hand
-13	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	10	nmod	_	SpaceAfter=No|Translit=nora|LTranslit=na|Gloss=he/she/it
+13	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	10	obl	_	SpaceAfter=No|Translit=nora|LTranslit=na|Gloss=he/she/it
 14	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = JOHN_3.36
@@ -10872,10 +10872,10 @@
 19	.	.	PUNCT	_	_	24	punct	_	Translit=:|LTranslit=:
 20	ուր	ուր	ADV	_	PronType=Ind	24	mark	_	Translit=owr|LTranslit=owr|Gloss=where
 21	պատահմունք	պատահումն	NOUN	_	Case=Nom|Number=Plur	24	nsubj	_	Translit=patahmownkʻ|LTranslit=patahowmn|Gloss=event
-22	ի	ի	ADP	_	ExtPos=ADP	25	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
+22	ի	ի	ADP	_	ExtPos=ADV	24	advmod	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 23	դէպ	դէպ	ADP	_	_	22	fixed	_	Translit=dēp|LTranslit=dēp|Gloss=towards
 24	ելանէին	ելանել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	advcl	_	Translit=elanēin|LTranslit=elanel|Gloss=go_out
-25	Բելայ	Բէլ	PROPN	_	Case=Gen|Number=Sing	24	obl	_	SpaceAfter=No|Translit=Belay|LTranslit=Bēl|Gloss=Bēl
+25	Բելայ	Բէլ	PROPN	_	Case=Dat|Number=Sing	24	iobj	_	SpaceAfter=No|Translit=Belay|LTranslit=Bēl|Gloss=Bēl
 26	՝	՝	PUNCT	_	_	27	punct	_	Translit=;|LTranslit=;
 27	բռնանալ	բռնանալ	VERB	_	VerbForm=Inf	24	xcomp	_	Translit=bṙnanal|LTranslit=bṙnanal|Gloss=violent_toward
 28	ունել	ունել	VERB	_	VerbForm=Inf	27	parataxis	_	Translit=ownel|LTranslit=ownel|Gloss=have
