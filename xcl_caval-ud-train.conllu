@@ -56902,7 +56902,7 @@
 24	այս	այս	PRON	_	Case=Acc|Deixis=Prox|Number=Sing|PronType=Dem	25	obj	_	Translit=ays|LTranslit=ays|Gloss=this
 25	արասջիք	առնել	VERB	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|VerbForm=Fin	16	conj	_	Translit=arasǰikʻ|LTranslit=aṙnel|Gloss=make
 26	առ	առ	ADP	_	_	28	case	_	Translit=aṙ|LTranslit=aṙ|Gloss=by
-27	իմոյ	իմ	PRON	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	28	nmod	_	Translit=imoy|LTranslit=im|Gloss=my
+27	իմոյ	իմ	DET	_	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	28	det	_	Translit=imoy|LTranslit=im|Gloss=my
 28	յիշատակի	յիշատակ	NOUN	_	Case=Dat|Number=Sing	25	obl	_	SpaceAfter=No|Translit=yišataki|LTranslit=yišatak|Gloss=memory
 29	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
@@ -79813,7 +79813,7 @@
 21	Եգիպտացւոց	եգիպտացի	NOUN	_	Case=Gen|Number=Plur	23	nmod	_	Translit=Egiptacʻwocʻ|LTranslit=Egiptos|Gloss=Egyptian
 22	լեալ	եմ	AUX	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	23	cop	_	Translit=leal|LTranslit=em|Gloss=be
 23	թագաւոր	թագաւոր	NOUN	_	Case=Nom|Number=Sing	28	acl	_	SpaceAfter=No|Translit=tʻagawor|LTranslit=tʻagawor|Gloss=king
-24	՝	՝	PUNCT	_	_	21	punct	_	Translit=;|LTranslit=;
+24	՝	՝	PUNCT	_	_	23	punct	_	Translit=;|LTranslit=;
 25	մեք	մեք	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	30	nsubj	_	Translit=mekʻ|LTranslit=mekʻ|Gloss=we
 26	այժմ	այժմ	ADV	_	_	30	advmod	_	Translit=ayžm|LTranslit=ayžm|Gloss=now
 27	զ	զ	ADP	_	Definite=Def	28	case	_	SpaceAfter=No|Translit=z|LTranslit=z
@@ -80227,7 +80227,7 @@
 73	ոչ	ոչ	PART	_	Polarity=Neg	80	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
 74	սկիզբն	սկիզբն	NOUN	_	Case=Acc|Number=Sing	80	nmod	_	Translit=skizbn|LTranslit=skizbn|Gloss=beginning
 75	զ	զ	ADP	_	Definite=Def|ExtPos=ADP	79	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-76	առ	առ	ADP	_	_	78	case	_	Translit=aṙ|LTranslit=aṙ|Gloss=by
+76	առ	առ	ADP	_	ExtPos=ADP	78	case	_	Translit=aṙ|LTranslit=aṙ|Gloss=by
 77	ի	ի	ADP	_	_	76	fixed	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
 78	մէնջ	մեք	PRON	_	Case=Abl|Number=Plur|Person=1|PronType=Prs	79	nmod	_	Translit=mēnǰ|LTranslit=mekʻ|Gloss=we
 79	հաւատարմացեալս	հաւատարմանալ	VERB	_	Case=Acc|Number=Plur|Tense=Past|VerbForm=Part	74	acl	_	Translit=hawatarmacʻeals|LTranslit=hawatarmanal|Gloss=to_be_loyal
@@ -90066,8 +90066,8 @@
 28	որպէս	որպէս	ADV	_	PronType=Rel	29	mark	_	Translit=orpēs|LTranslit=orpēs|Gloss=as
 29	ասեն	ասել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	parataxis	_	SpaceAfter=No|Translit=asen|LTranslit=asel|Gloss=say
 30	,	,	PUNCT	_	_	34	punct	_	Translit=,|LTranslit=,
-31	մինչեւ	մինչեւ	SCONJ	_	ExtPos=ADP	34	mark	_	Translit=minčʻew|LTranslit=minčʻew|Gloss=until
-32	ց	ց	ADP	_	_	31	fixed	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
+31	մինչեւ	մինչեւ	SCONJ	_	_	34	mark	_	Translit=minčʻew|LTranslit=minčʻew|Gloss=until
+32	ց	ց	ADP	_	_	33	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
 33	այսաւր	այսաւր	ADV	_	_	34	advmod	_	Translit=aysawr|LTranslit=aysawr|Gloss=today
 34	ժամանակի	ժամանակ	NOUN	_	Case=Gen|Number=Sing	25	advcl	_	SpaceAfter=No|Translit=žamanaki|LTranslit=žamanak|Gloss=time
 35	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
