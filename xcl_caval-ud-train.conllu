@@ -7802,7 +7802,7 @@
 10	երթալ	երթալ	VERB	_	VerbForm=Inf	7	xcomp	_	SpaceAfter=No|Translit=ertʻal|LTranslit=ertʻal|Gloss=go
 11	՝	՝	PUNCT	_	_	15	punct	_	Translit=;|LTranslit=;
 12	դուք	դուք	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	15	nsubj:caus	_	Translit=dowkʻ|LTranslit=dowkʻ|Gloss=you_(pl.)
-13	տուք	տալ	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	15	aux:caus	_	Translit=towkʻ|LTranslit=tal|Gloss=give
+13	տուք	տալ	AUX	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	15	aux:caus	_	Translit=towkʻ|LTranslit=tal|Gloss=give
 14	դոցա	դա	PRON	_	Case=Dat|Deixis=Med|Number=Plur|PronType=Dem	15	iobj	_	Translit=docʻa|LTranslit=da|Gloss=that_one
 15	ուտել	ուտել	VERB	_	VerbForm=Inf	7	conj	_	SpaceAfter=No|Translit=owtel|LTranslit=owtel|Gloss=eat
 16	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
