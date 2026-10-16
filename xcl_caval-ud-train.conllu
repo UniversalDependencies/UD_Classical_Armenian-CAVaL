@@ -6972,7 +6972,7 @@
 4	եւ	եւ	CCONJ	_	_	5	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 5	կրճել	կրճել	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	3	conj	_	Translit=krčel|LTranslit=krčel|Gloss=gnash
 6	ատամանց	ատամն	NOUN	_	Case=Gen|Number=Plur	5	nmod	_	SpaceAfter=No|Translit=atamancʻ|LTranslit=atamn|Gloss=tooth
-7	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+7	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MATT_13.43a
 # text = Յայնժամ արդարքն ծագեսցեն իբրեւ զարեգակն յարքայութեան երկնից՝
@@ -7186,8 +7186,8 @@
 3	լալ	լալ	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	0	root	_	Translit=lal|LTranslit=lal|Gloss=cry
 4	եւ	եւ	CCONJ	_	_	5	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 5	կրճել	կրճել	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	3	conj	_	Translit=krčel|LTranslit=krčel|Gloss=gnash
-6	ատամանց	ատամն	NOUN	_	Case=Gen|Number=Plur	5	 nmod	_	SpaceAfter=No|Translit=atamancʻ|LTranslit=atamn|Gloss=tooth
-7	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+6	ատամանց	ատամն	NOUN	_	Case=Gen|Number=Plur	5	nmod	_	SpaceAfter=No|Translit=atamancʻ|LTranslit=atamn|Gloss=tooth
+7	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = MATT_13.51a
 # text = Ասէ ցնոսա Յիսուս՝ իմացարո՞ւք զայս ամենայն,
@@ -41758,7 +41758,7 @@
 6	բազմեցուցէք	բազմեցուցանել	VERB	_	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Cau	1	ccomp	_	Translit=bazmecʻowcʻēkʻ|LTranslit=bazmecʻowcʻanel|Gloss=multiply
 7	զ	զ	ADP	_	Definite=Def	8	case	_	SpaceAfter=No|Translit=z|LTranslit=z
 8	դոսա	դա	PRON	_	Case=Acc|Deixis=Med|Number=Plur|PronType=Dem	6	obj	_	Translit=dosa|LTranslit=da|Gloss=that_one
-9	դասս	դաս	NOUN	_	Case=Acc|ExtPos=ADV|Number=Plur	6	advmod	_	Translit=dass|LTranslit=das|Gloss=lesson
+9	դասս	դաս	NOUN	_	Case=Acc|Number=Plur	6	advmod	_	Translit=dass|LTranslit=das|Gloss=lesson
 10	դասս	դաս	NOUN	_	Case=Acc|Number=Plur	9	compound:redup	_	SpaceAfter=No|Translit=dass|LTranslit=das|Gloss=lesson
 11	:	:	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
 12	յիսուն	յիսուն	NUM	_	Case=Acc|Number=Sing|NumType=Dist	6	nummod	_	Translit=yisown|LTranslit=yisown|Gloss=fifty
@@ -46875,10 +46875,10 @@
 2	եթե	եթե	SCONJ	_	_	10	mark	_	Translit=etʻe|LTranslit=tʻe|Gloss=whether
 3	յ	ի	ADP	_	_	4	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
 4	երկրորդ	երկրորդ	ADJ	_	Case=Loc|Number=Sing|NumType=Ord	9	amod	_	SpaceAfter=No|Translit=erkrord|LTranslit=erkrord|Gloss=second
-5	.	.	PUNCT	_	_	8	punct	_	Translit=:|LTranslit=:
+5	.	.	PUNCT	_	_	9	punct	_	Translit=:|LTranslit=:
 6	կամ	կամ	CCONJ	_	_	8	cc	_	Translit=kam|LTranslit=kam|Gloss=or
 7	յ	ի	ADP	_	_	9	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
-8	երրորդ	երրորդ	ADJ	_	Case=Loc|Number=Sing|NumType=Ord	4	conj	_	Translit=errord|LTranslit=errord|Gloss=third
+8	երրորդ	երրորդ	ADJ	_	Case=Loc|Number=Sing|NumType=Ord	9	amod	_	Translit=errord|LTranslit=errord|Gloss=third
 9	պահու	պարհ	NOUN	_	Case=Loc|Number=Sing	10	obl	_	Translit=pahow|LTranslit=parh|Gloss=fasting
 10	եկեցէ	գալ	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	16	advcl	_	SpaceAfter=No|Translit=ekecʻē|LTranslit=gal|Gloss=come
 11	՝	՝	PUNCT	_	_	13	punct	_	Translit=;|LTranslit=;
@@ -49327,8 +49327,8 @@
 25	ունել	ունել	VERB	_	VerbForm=Inf	19	xcomp	_	SpaceAfter=No|Translit=ownel|LTranslit=ownel|Gloss=have
 26	,	,	PUNCT	_	_	28	punct	_	Translit=,|LTranslit=,
 27	զ	զ	ADP	_	Definite=Def	28	case	_	SpaceAfter=No|Translit=z|LTranslit=z
-28	այնորիկ	այն	DET	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	24	det	_	Translit=aynorik|LTranslit=ayn|Gloss=that
-29	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	30	nsubj	_	Translit=or|LTranslit=or|Gloss=who
+28	այնորիկ	այն	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	24	det	_	Translit=aynorik|LTranslit=ayn|Gloss=that
+29	որ	որ	DET	_	Case=Nom|Number=Sing|PronType=Rel	30	nsubj	_	Translit=or|LTranslit=or|Gloss=who
 30	գայցէ	գալ	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	28	acl	_	Translit=gaycʻē|LTranslit=gal|Gloss=come
 31	ի	ի	ADP	_	ExtPos=ADP	33	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 32	վերայ	վերայ	ADV	_	_	31	fixed	_	Translit=veray|LTranslit=veray|Gloss=above
