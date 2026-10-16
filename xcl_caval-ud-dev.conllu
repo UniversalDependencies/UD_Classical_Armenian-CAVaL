@@ -1432,7 +1432,7 @@
 8	գրուանաւ	գրուան	NOUN	_	Case=Ins|Number=Sing	6	obl	_	SpaceAfter=No|Translit=growanaw|LTranslit=growan|Gloss=bushel
 9	,	,	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,
 10	այղ	այլ	CCONJ	_	_	13	orphan	_	Translit=aył|LTranslit=ayl|Gloss=but
-11	ի	ի	ADP	_	_	13	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
+11	ի	ի	ADP	_	ExtPos=ADP	13	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 12	վերայ	վերայ	ADV	_	_	11	fixed	_	Translit=veray|LTranslit=veray|Gloss=above
 13	աշտանակի	աշտանակ	NOUN	_	Case=Gen|Number=Sing	8	conj	_	SpaceAfter=No|Translit=aštanaki|LTranslit=aštanak|Gloss=lampstand
 14	՝	՝	PUNCT	_	_	17	punct	_	Translit=;|LTranslit=;
