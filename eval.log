@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Classical_Armenian-CAVaL:
-commit c1a20ac6df53283b98cfe74f6bace0d5fb4cb4c6
-Merge: bd1f10e 4f3cd18
+commit 1a9ad2b2d032f30036543273b7da31787885a0c6
+Merge: 8aa4537 8ec91ff
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'xcl_caval'
 Language code (from CoNLL-U file name) = 'xcl'
 Found the following data files: xcl_caval-ud-dev.conllu, xcl_caval-ud-test.conllu, xcl_caval-ud-train.conllu
-Size: counted 99664 of 99664 words (nodes).
-Size: min(0, log((N/1000)**2)) = 9.20360905702358.
+Size: counted 99669 of 99669 words (nodes).
+Size: min(0, log((N/1000)**2)) = 9.20370939163954.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -19,7 +19,7 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.9.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 64406 out of 99664 total words have one or more features.
+Features: 64398 out of 99669 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.9.
@@ -34,10 +34,10 @@ Validity: 1
 (weight=0.111111111111111) * (score{features}=0.9) = 0.1
 (weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
 (weight=0.111111111111111) * (score{lemmas}=0.9) = 0.1
-(weight=0.37037037037037) * (score{size}=0.666179437843355) = 0.246733125127169
+(weight=0.37037037037037) * (score{size}=0.666186700305031) = 0.246735814927789
 (weight=0.0740740740740741) * (score{split}=0.67) = 0.0496296296296296
 (weight=0.111111111111111) * (score{tags}=0.847058823529412) = 0.0941176470588235
 (weight=0.111111111111111) * (score{udeprels}=0.754054054054054) = 0.0837837837837838
-(TOTAL score=0.686609864611751) * (availability=1) * (validity=1) = 0.686609864611751
+(TOTAL score=0.686612554412372) * (availability=1) * (validity=1) = 0.686612554412372
 STARS = 3.5
-UD_Classical_Armenian-CAVaL	0.686609864611751	3.5
+UD_Classical_Armenian-CAVaL	0.686612554412372	3.5
