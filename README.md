@@ -22,6 +22,8 @@ The test data:
 
 # Changelog
 
+* 2026-11-15 UD 2.19
+  * Fixed annotation errors.
 * 2026-05-15 UD 2.18
   * Fixed annotation errors.
 * 2025-11-15 UD 2.17
